@@ -1,0 +1,14 @@
+{
+  "name": "myelinmdcat",
+  "version": "1.0.0",
+  "description": "UHS MDCAT past papers organised by year and PMDC unit.",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "node -e \"console.log('Build completed')\"",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

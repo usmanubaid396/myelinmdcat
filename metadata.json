@@ -1,0 +1,6 @@
+{
+  "name": "Myelin MDCAT",
+  "description": "UHS MDCAT past papers organised by year and PMDC unit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
