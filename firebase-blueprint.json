@@ -1,0 +1,228 @@
+{
+  "entities": {
+    "UserProfile": {
+      "title": "UserProfile",
+      "description": "User profile information",
+      "type": "object",
+      "properties": {
+        "userId": {
+          "type": "string",
+          "description": "The unique Firebase Auth UID"
+        },
+        "email": {
+          "type": "string",
+          "description": "User's email address"
+        },
+        "displayName": {
+          "type": "string",
+          "description": "User's full name"
+        },
+        "photoURL": {
+          "type": "string",
+          "description": "Profile picture URL"
+        },
+        "createdAt": {
+          "type": "string",
+          "description": "ISO timestamp of account creation"
+        },
+        "updatedAt": {
+          "type": "string",
+          "description": "ISO timestamp of last update"
+        }
+      },
+      "required": [
+        "userId",
+        "email"
+      ]
+    },
+    "PaperSession": {
+      "title": "PaperSession",
+      "description": "User exam session progress",
+      "type": "object",
+      "properties": {
+        "sessionId": {
+          "type": "string",
+          "description": "Identifier for this session"
+        },
+        "userId": {
+          "type": "string",
+          "description": "Owner UID"
+        },
+        "paperKey": {
+          "type": "string",
+          "description": "Key identifying the paper or unit"
+        },
+        "title": {
+          "type": "string",
+          "description": "Title of the test paper"
+        },
+        "currentIndex": {
+          "type": "number",
+          "description": "Current active question index"
+        },
+        "timerSeconds": {
+          "type": "number",
+          "description": "Elapsed time in seconds"
+        },
+        "totalQuestions": {
+          "type": "number",
+          "description": "Total number of questions in this set"
+        },
+        "completed": {
+          "type": "boolean",
+          "description": "Whether exam was finished and submitted"
+        },
+        "accuracy": {
+          "type": "number",
+          "description": "Calculated accuracy percentage for this session (0-100)"
+        },
+        "attemptedCount": {
+          "type": "number",
+          "description": "Number of attempted questions"
+        },
+        "completedAt": {
+          "type": "string",
+          "description": "ISO timestamp when the session was completed"
+        },
+        "updatedAt": {
+          "type": "string",
+          "description": "ISO timestamp of last update"
+        }
+      },
+      "required": [
+        "sessionId",
+        "userId",
+        "paperKey"
+      ]
+    },
+    "Challenge": {
+      "title": "Challenge",
+      "description": "Shared timed MCQ competition between peers",
+      "type": "object",
+      "properties": {
+        "challengeId": {
+          "type": "string",
+          "description": "Unique identifier for the challenge"
+        },
+        "code": {
+          "type": "string",
+          "description": "Short 6-8 character shareable code"
+        },
+        "title": {
+          "type": "string",
+          "description": "Challenge competition name"
+        },
+        "creatorId": {
+          "type": "string",
+          "description": "UID of the creator or system"
+        },
+        "creatorName": {
+          "type": "string",
+          "description": "Display name of host/creator"
+        },
+        "subject": {
+          "type": "string",
+          "description": "Subject category or All"
+        },
+        "timeLimitSeconds": {
+          "type": "number",
+          "description": "Time limit in seconds"
+        },
+        "totalQuestions": {
+          "type": "number",
+          "description": "Number of shared questions"
+        },
+        "questionKeys": {
+          "type": "string",
+          "description": "JSON stringified array of question keys in deterministic order"
+        },
+        "participantCount": {
+          "type": "number",
+          "description": "Number of students who have attempted this challenge"
+        },
+        "createdAt": {
+          "type": "string",
+          "description": "ISO creation timestamp"
+        },
+        "status": {
+          "type": "string",
+          "description": "Status of the challenge: active or completed"
+        }
+      },
+      "required": [
+        "challengeId",
+        "title",
+        "timeLimitSeconds",
+        "totalQuestions"
+      ]
+    },
+    "ChallengeLeaderboardEntry": {
+      "title": "ChallengeLeaderboardEntry",
+      "description": "Leaderboard record for a challenge contender",
+      "type": "object",
+      "properties": {
+        "participantId": {
+          "type": "string",
+          "description": "UID or unique identifier of the contender"
+        },
+        "displayName": {
+          "type": "string",
+          "description": "Contender display name"
+        },
+        "photoURL": {
+          "type": "string",
+          "description": "Contender profile image URL"
+        },
+        "score": {
+          "type": "number",
+          "description": "Number of questions attempted or correct"
+        },
+        "totalQuestions": {
+          "type": "number",
+          "description": "Total questions in the challenge"
+        },
+        "accuracy": {
+          "type": "number",
+          "description": "Percentage accuracy or completion (0-100)"
+        },
+        "timeTakenSeconds": {
+          "type": "number",
+          "description": "Seconds taken to finish the challenge"
+        },
+        "completed": {
+          "type": "boolean",
+          "description": "Whether the challenge was completed"
+        },
+        "submittedAt": {
+          "type": "string",
+          "description": "ISO timestamp of submission"
+        }
+      },
+      "required": [
+        "participantId",
+        "displayName",
+        "score",
+        "totalQuestions",
+        "timeTakenSeconds"
+      ]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "UserProfile",
+      "description": "User profile document containing authentication info"
+    },
+    "/users/{userId}/sessions/{sessionId}": {
+      "schema": "PaperSession",
+      "description": "Subcollection containing user test sessions and progress"
+    },
+    "/challenges/{challengeId}": {
+      "schema": "Challenge",
+      "description": "Shared peer challenges with custom time limit and questions"
+    },
+    "/challenges/{challengeId}/leaderboard/{participantId}": {
+      "schema": "ChallengeLeaderboardEntry",
+      "description": "Live real-time leaderboard entries for a challenge"
+    }
+  }
+}

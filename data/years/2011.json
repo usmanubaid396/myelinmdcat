@@ -1,0 +1,5726 @@
+{
+  "year": 2011,
+  "total": 220,
+  "questions": [
+    {
+      "id": 1,
+      "original_number": 1,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "She managed to _ a ticket for the cricket match.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Procure"
+        },
+        {
+          "label": "B",
+          "text": "Obscure"
+        },
+        {
+          "label": "C",
+          "text": "Improvise"
+        },
+        {
+          "label": "D",
+          "text": "Preclude"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 2,
+      "original_number": 2,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "Things have got out of hand; we must take steps to _ the situation.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rectify"
+        },
+        {
+          "label": "B",
+          "text": "Pacify"
+        },
+        {
+          "label": "C",
+          "text": "Purify"
+        },
+        {
+          "label": "D",
+          "text": "Testify"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 3,
+      "original_number": 3,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "George Orwell’s Animal Farm is a stinging _ on the Russian revolution.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Myth"
+        },
+        {
+          "label": "B",
+          "text": "Satire"
+        },
+        {
+          "label": "C",
+          "text": "Fallacy"
+        },
+        {
+          "label": "D",
+          "text": "Legend"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 4,
+      "original_number": 4,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "All the _ and ceremony of the royal wedding were telecast on the national television circuit.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Festival"
+        },
+        {
+          "label": "B",
+          "text": "Romp"
+        },
+        {
+          "label": "C",
+          "text": "Pomp"
+        },
+        {
+          "label": "D",
+          "text": "Happiness"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 5,
+      "original_number": 5,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "Select the incorrect segment:The patient’s blood analysis shows that there is a big number of amorphous cells which are quiet unidentifiable.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Patient’s"
+        },
+        {
+          "label": "B",
+          "text": "Of"
+        },
+        {
+          "label": "C",
+          "text": "Which"
+        },
+        {
+          "label": "D",
+          "text": "Quiet"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 6,
+      "original_number": 6,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "Select the incorrect segment:The police, in their investigation, used coercive measure to get a favorable statement from the accused.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Measure"
+        },
+        {
+          "label": "B",
+          "text": "To"
+        },
+        {
+          "label": "C",
+          "text": "From"
+        },
+        {
+          "label": "D",
+          "text": "The accused"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 7,
+      "original_number": 7,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "Select the incorrect segment:Your argument is simply abstruse as there is no clarity of thought and coherence in ideas and it also lack vision.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Is"
+        },
+        {
+          "label": "B",
+          "text": "Of"
+        },
+        {
+          "label": "C",
+          "text": "In"
+        },
+        {
+          "label": "D",
+          "text": "Lack"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 8,
+      "original_number": 8,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "The workers were raising much hue and cry when their demands were turned away.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Raising"
+        },
+        {
+          "label": "B",
+          "text": "Much"
+        },
+        {
+          "label": "C",
+          "text": "Demands"
+        },
+        {
+          "label": "D",
+          "text": "Away"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 9,
+      "original_number": 9,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "The disease is uncurable without the judicious use of antibiotics.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Uncurable"
+        },
+        {
+          "label": "B",
+          "text": "Without"
+        },
+        {
+          "label": "C",
+          "text": "Judicious"
+        },
+        {
+          "label": "D",
+          "text": "Use"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 10,
+      "original_number": 10,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "The younger sister hopes to emulate her elder sister’s sporting achievement as she is putting up hectic effort.",
+      "options": [
+        {
+          "label": "A",
+          "text": "To"
+        },
+        {
+          "label": "B",
+          "text": "Sister’s"
+        },
+        {
+          "label": "C",
+          "text": "Achievement"
+        },
+        {
+          "label": "D",
+          "text": "Up"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 11,
+      "original_number": 11,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "Choose the correct sentence from the following options:",
+      "options": [
+        {
+          "label": "A",
+          "text": "The government should accrue taxes for strengthen the economy of the country."
+        },
+        {
+          "label": "B",
+          "text": "The government should accrue taxes in strengthen the economy of the country"
+        },
+        {
+          "label": "C",
+          "text": "The government should accrue taxes to strengthen the economy of the country."
+        },
+        {
+          "label": "D",
+          "text": "The government should accrue taxes by strengthen the economy of the country."
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 12,
+      "original_number": 12,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "Choose the correct sentence from the following options:",
+      "options": [
+        {
+          "label": "A",
+          "text": "I remember going to British Museum one day."
+        },
+        {
+          "label": "B",
+          "text": "I remember to go to British Museum one day."
+        },
+        {
+          "label": "C",
+          "text": "I remember to go to the British Museum one day."
+        },
+        {
+          "label": "D",
+          "text": "I remember going to the British Museum one day."
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 13,
+      "original_number": 13,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "Select the NEAREST CORRECT MEANING of the given word:MUSE",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wander"
+        },
+        {
+          "label": "B",
+          "text": "Fonder"
+        },
+        {
+          "label": "C",
+          "text": "Robust"
+        },
+        {
+          "label": "D",
+          "text": "Ponder"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 14,
+      "original_number": 14,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "Select the NEAREST CORRECT MEANING of the given word:FECKLESS",
+      "options": [
+        {
+          "label": "A",
+          "text": "Useless"
+        },
+        {
+          "label": "B",
+          "text": "Careless"
+        },
+        {
+          "label": "C",
+          "text": "Dauntless"
+        },
+        {
+          "label": "D",
+          "text": "Fearless"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 15,
+      "original_number": 15,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "Select the NEAREST CORRECT MEANING of the given word:MOSAIC",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pattern"
+        },
+        {
+          "label": "B",
+          "text": "Mortal"
+        },
+        {
+          "label": "C",
+          "text": "Ordinary"
+        },
+        {
+          "label": "D",
+          "text": "Musical"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 16,
+      "original_number": 16,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "Select the NEAREST CORRECT MEANING of the given word:INSCRUTABLE",
+      "options": [
+        {
+          "label": "A",
+          "text": "Immoral"
+        },
+        {
+          "label": "B",
+          "text": "Unethical"
+        },
+        {
+          "label": "C",
+          "text": "Enigmatic"
+        },
+        {
+          "label": "D",
+          "text": "Unaccountable"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 17,
+      "original_number": 17,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "Select the NEAREST CORRECT MEANING of the given word:JUXTAPOSE",
+      "options": [
+        {
+          "label": "A",
+          "text": "Justify"
+        },
+        {
+          "label": "B",
+          "text": "Compare"
+        },
+        {
+          "label": "C",
+          "text": "Expose"
+        },
+        {
+          "label": "D",
+          "text": "Jettison"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 18,
+      "original_number": 18,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "Select the NEAREST CORRECT MEANING of the given word:LACERATING",
+      "options": [
+        {
+          "label": "A",
+          "text": "Landing"
+        },
+        {
+          "label": "B",
+          "text": "Tearing"
+        },
+        {
+          "label": "C",
+          "text": "Flagging"
+        },
+        {
+          "label": "D",
+          "text": "Lactating"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 19,
+      "original_number": 19,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "Select the NEAREST CORRECT MEANING of the given word:EMPATHY",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fictitious"
+        },
+        {
+          "label": "B",
+          "text": "Facility"
+        },
+        {
+          "label": "C",
+          "text": "Ability"
+        },
+        {
+          "label": "D",
+          "text": "Felicity"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 20,
+      "original_number": 20,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "Select the NEAREST CORRECT MEANING of the given word:EVANESCENT",
+      "options": [
+        {
+          "label": "A",
+          "text": "Evident"
+        },
+        {
+          "label": "B",
+          "text": "Permanent"
+        },
+        {
+          "label": "C",
+          "text": "Event"
+        },
+        {
+          "label": "D",
+          "text": "Transitory"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 21,
+      "original_number": 21,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "Select the NEAREST CORRECT MEANING of the given word: SIDLE",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sneak"
+        },
+        {
+          "label": "B",
+          "text": "Sift"
+        },
+        {
+          "label": "C",
+          "text": "Siege"
+        },
+        {
+          "label": "D",
+          "text": "Sieve"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 22,
+      "original_number": 22,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "Select the NEAREST CORRECT MEANING of the given word:DISSONANCE",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inconsistency"
+        },
+        {
+          "label": "B",
+          "text": "Expansion"
+        },
+        {
+          "label": "C",
+          "text": "Perceptible"
+        },
+        {
+          "label": "D",
+          "text": "Rapport"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 23,
+      "original_number": 23,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "An association between two organisms benefiting both is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Commensalism"
+        },
+        {
+          "label": "B",
+          "text": "Parasitism"
+        },
+        {
+          "label": "C",
+          "text": "Predation"
+        },
+        {
+          "label": "D",
+          "text": "Symbiosis"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 24,
+      "original_number": 24,
+      "unit": "Bioenergetics",
+      "topic": "Cellular respiration and photosynthesis",
+      "stem": "In aquatic ecosystem, human activities may accelerate the process of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Eutrophication"
+        },
+        {
+          "label": "B",
+          "text": "Photosynthesis"
+        },
+        {
+          "label": "C",
+          "text": "Decomposition"
+        },
+        {
+          "label": "D",
+          "text": "Recycling"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 25,
+      "original_number": 25,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "Beri Beri is due to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Metabolic disorder"
+        },
+        {
+          "label": "B",
+          "text": "Chemical causes"
+        },
+        {
+          "label": "C",
+          "text": "Nutritional deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Mental Illness"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 26,
+      "original_number": 26,
+      "unit": "Bioenergetics",
+      "topic": "Cellular respiration and photosynthesis",
+      "stem": "The natural heat energy trapped underground is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Geothermal energy"
+        },
+        {
+          "label": "B",
+          "text": "Thermal energy"
+        },
+        {
+          "label": "C",
+          "text": "Electric energy"
+        },
+        {
+          "label": "D",
+          "text": "Solar energy"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 27,
+      "original_number": 27,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "Which of the following is the lowest level of biological organization with respect to others?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Multicellular organisms"
+        },
+        {
+          "label": "B",
+          "text": "Biosphere"
+        },
+        {
+          "label": "C",
+          "text": "Species"
+        },
+        {
+          "label": "D",
+          "text": "Population"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 28,
+      "original_number": 28,
+      "unit": "Chemical Bonding",
+      "topic": "Bonding and molecular shape",
+      "stem": "When an electron pair is shared between two atoms:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Two covalent bonds are formed"
+        },
+        {
+          "label": "B",
+          "text": "Hydrogen bond is formed"
+        },
+        {
+          "label": "C",
+          "text": "Single covalent bond is formed"
+        },
+        {
+          "label": "D",
+          "text": "Ionic bond is formed"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 29,
+      "original_number": 29,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "The first microbe to have the genome completely sequenced which was published on July 28th, 1995 was:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hyphomicrobium"
+        },
+        {
+          "label": "B",
+          "text": "Haemophilus aquaticus"
+        },
+        {
+          "label": "C",
+          "text": "Haemophillus malariae"
+        },
+        {
+          "label": "D",
+          "text": "Haemophillus infulenzae"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 30,
+      "original_number": 30,
+      "unit": "Enzymes",
+      "topic": "Enzymes and inhibition",
+      "stem": "An activated enzyme consisting of polypeptide and a cofactor is known as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amylase"
+        },
+        {
+          "label": "B",
+          "text": "Apoenzyme"
+        },
+        {
+          "label": "C",
+          "text": "Holoenzyme"
+        },
+        {
+          "label": "D",
+          "text": "Coenzyme"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 31,
+      "original_number": 31,
+      "unit": "Enzymes",
+      "topic": "Enzymes and inhibition",
+      "stem": "_ forms weak linkages with enzymes and their effect can be neutralized completely or partly by an increase in the concentration of the substrate.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only competitive Inhibitors"
+        },
+        {
+          "label": "B",
+          "text": "Reversible inhibitors"
+        },
+        {
+          "label": "C",
+          "text": "Irreversible inhibitors"
+        },
+        {
+          "label": "D",
+          "text": "Both reversible and irreversible inhibitors"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 32,
+      "original_number": 32,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "In prokaryotic cell wall, strengthening material is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cellulose"
+        },
+        {
+          "label": "B",
+          "text": "Silica"
+        },
+        {
+          "label": "C",
+          "text": "Chitin"
+        },
+        {
+          "label": "D",
+          "text": "Peptidoglycan"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 33,
+      "original_number": 33,
+      "unit": "Cell Structure and Function",
+      "topic": "Cells, organelles and chromosomes",
+      "stem": "The entire cell wall of bacteria is often regarded as a single huge molecule or molecular complex called_:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Capsule"
+        },
+        {
+          "label": "B",
+          "text": "Secondary wall"
+        },
+        {
+          "label": "C",
+          "text": "Slime capsule"
+        },
+        {
+          "label": "D",
+          "text": "Sacculus"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 34,
+      "original_number": 34,
+      "unit": "Bioenergetics",
+      "topic": "Cellular respiration and photosynthesis",
+      "stem": "Krebs cycle takes place in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dictyosomes"
+        },
+        {
+          "label": "B",
+          "text": "Mitochondrial matrix"
+        },
+        {
+          "label": "C",
+          "text": "Lysosomes"
+        },
+        {
+          "label": "D",
+          "text": "Vesicles of endoplasmic reticulum"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 35,
+      "original_number": 35,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "Chemically, viruses are made up of",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nucleic acid only"
+        },
+        {
+          "label": "B",
+          "text": "Protein only"
+        },
+        {
+          "label": "C",
+          "text": "Nucleic acid and protein"
+        },
+        {
+          "label": "D",
+          "text": "Lipoproteins"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 36,
+      "original_number": 36,
+      "unit": "Acellular Life",
+      "topic": "Viruses and HIV/AIDS",
+      "stem": "Widespread epidemic disease, influenza is caused by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "DNA virus"
+        },
+        {
+          "label": "B",
+          "text": "RNA enveloped virus"
+        },
+        {
+          "label": "C",
+          "text": "DNA enveloped virus"
+        },
+        {
+          "label": "D",
+          "text": "RNA virus"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 37,
+      "original_number": 37,
+      "unit": "Cell Structure and Function",
+      "topic": "Cells, organelles and chromosomes",
+      "stem": "When the division of cells is in three planes, the arrangement is known as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Diplococcus"
+        },
+        {
+          "label": "B",
+          "text": "Sarcina"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 38,
+      "original_number": 38,
+      "unit": "Cell Structure and Function",
+      "topic": "Cells, organelles and chromosomes",
+      "stem": "Bacterial ‘death rate’ is equal to ‘birth rate; in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lag phase"
+        },
+        {
+          "label": "B",
+          "text": "Log phase"
+        },
+        {
+          "label": "C",
+          "text": "Death phase"
+        },
+        {
+          "label": "D",
+          "text": "Stationary phase"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 39,
+      "original_number": 39,
+      "unit": "Acellular Life",
+      "topic": "Viruses and HIV/AIDS",
+      "stem": "Trypanosoma is a human parasite causing:",
+      "options": [
+        {
+          "label": "A",
+          "text": "African sleeping sickness"
+        },
+        {
+          "label": "B",
+          "text": "European sleeping sickness"
+        },
+        {
+          "label": "C",
+          "text": "Indonesian sleeping sickness"
+        },
+        {
+          "label": "D",
+          "text": "American sleeping sickness"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 40,
+      "original_number": 40,
+      "unit": "Cell Structure and Function",
+      "topic": "Cells, organelles and chromosomes",
+      "stem": "The feeding stage of slime mold is a:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gastrozoid"
+        },
+        {
+          "label": "B",
+          "text": "Sporozoite"
+        },
+        {
+          "label": "C",
+          "text": "Plasmodium"
+        },
+        {
+          "label": "D",
+          "text": "Merozote"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 41,
+      "original_number": 41,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "Drug obtained from fungus used for lowing blood cholesterol is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lovastatin"
+        },
+        {
+          "label": "B",
+          "text": "Cyclosporin"
+        },
+        {
+          "label": "C",
+          "text": "Ergotin"
+        },
+        {
+          "label": "D",
+          "text": "Griseofulvin"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 42,
+      "original_number": 42,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "Fungi store surplus food in the form of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cellulose"
+        },
+        {
+          "label": "B",
+          "text": "Glycogen"
+        },
+        {
+          "label": "C",
+          "text": "Starch"
+        },
+        {
+          "label": "D",
+          "text": "Both B and C"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 43,
+      "original_number": 43,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "The ecological role of fungi as decomposers is paralleled only by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prions"
+        },
+        {
+          "label": "B",
+          "text": "Algae"
+        },
+        {
+          "label": "C",
+          "text": "Bacteria"
+        },
+        {
+          "label": "D",
+          "text": "Viruses"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 44,
+      "original_number": 44,
+      "unit": "Inheritance",
+      "topic": "Mendelian and sex-linked inheritance",
+      "stem": "“Vascular System absent\"; gametophyte dominant, sporophyte attached to gametophyte; \"homosporous” are distinguishing characters of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Psilopsida"
+        },
+        {
+          "label": "B",
+          "text": "Pteropsida"
+        },
+        {
+          "label": "C",
+          "text": "Angiosperms"
+        },
+        {
+          "label": "D",
+          "text": "Bryophyta"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 45,
+      "original_number": 45,
+      "unit": "Reproduction",
+      "topic": "Human reproduction and menstrual cycle",
+      "stem": "Which of the following features differentiate angiosperms from gymnosperms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pollens disperse by air"
+        },
+        {
+          "label": "B",
+          "text": "Haploid microspores"
+        },
+        {
+          "label": "C",
+          "text": "Ovaries"
+        },
+        {
+          "label": "D",
+          "text": "Pollen tubes"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 46,
+      "original_number": 46,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "In Pakistan, the furniture wood is mainly obtained from the members of family:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rosaceae"
+        },
+        {
+          "label": "B",
+          "text": "Solanaceae"
+        },
+        {
+          "label": "C",
+          "text": "Minosaceae"
+        },
+        {
+          "label": "D",
+          "text": "Fabaceae"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 47,
+      "original_number": 47,
+      "unit": "Circulation",
+      "topic": "Heart, blood and vessels",
+      "stem": "Which of the following is the exclusive character of mammals?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Homeothermic"
+        },
+        {
+          "label": "B",
+          "text": "Poikilothermic"
+        },
+        {
+          "label": "C",
+          "text": "Hair"
+        },
+        {
+          "label": "D",
+          "text": "Four chambered heart"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 48,
+      "original_number": 48,
+      "unit": "Circulation",
+      "topic": "Heart, blood and vessels",
+      "stem": "Overactivity of the sympathetic nervous system causes:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Disturbance of Vision"
+        },
+        {
+          "label": "B",
+          "text": "Constipation"
+        },
+        {
+          "label": "C",
+          "text": "Decrease in Blood Pressure"
+        },
+        {
+          "label": "D",
+          "text": "Increase in Heart Rate"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 49,
+      "original_number": 49,
+      "unit": "Coordination and Control",
+      "topic": "Nervous system and receptors",
+      "stem": "Which structures respond when they are stimulated by an impulse coming through the motor neuron?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Receptors"
+        },
+        {
+          "label": "B",
+          "text": "Responses"
+        },
+        {
+          "label": "C",
+          "text": "Effectors"
+        },
+        {
+          "label": "D",
+          "text": "Transduction"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 50,
+      "original_number": 50,
+      "unit": "Coordination and Control",
+      "topic": "Nervous system and receptors",
+      "stem": "Respiratory centre is located in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cerebrum"
+        },
+        {
+          "label": "B",
+          "text": "Cerebellum"
+        },
+        {
+          "label": "C",
+          "text": "Medulla"
+        },
+        {
+          "label": "D",
+          "text": "Hypothalamus"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 51,
+      "original_number": 51,
+      "unit": "Coordination and Control",
+      "topic": "Nervous system and receptors",
+      "stem": "A neurological condition characterised by involuntary tremors, diminished motor activity, and rigidity is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Epilepsy"
+        },
+        {
+          "label": "B",
+          "text": "Parkinson’s Disease"
+        },
+        {
+          "label": "C",
+          "text": "Alzheimer’s Disease"
+        },
+        {
+          "label": "D",
+          "text": "Cerebellar Tumours"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 52,
+      "original_number": 52,
+      "unit": "Reproduction",
+      "topic": "Human reproduction and menstrual cycle",
+      "stem": "A type of cell in human testes which produces testosterone is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Interstitial Cells"
+        },
+        {
+          "label": "B",
+          "text": "Germ Cells"
+        },
+        {
+          "label": "C",
+          "text": "Sertoli Cells"
+        },
+        {
+          "label": "D",
+          "text": "Spermatocytes"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 53,
+      "original_number": 53,
+      "unit": "Reproduction",
+      "topic": "Human reproduction and menstrual cycle",
+      "stem": "Breakdown of the endometrium during menstruation is due to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increase in the level of LH"
+        },
+        {
+          "label": "B",
+          "text": "Decrease in the level of progesterone"
+        },
+        {
+          "label": "C",
+          "text": "Increase in the level of FSH"
+        },
+        {
+          "label": "D",
+          "text": "Increase in the level of estrogen"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 54,
+      "original_number": 54,
+      "unit": "Reproduction",
+      "topic": "Human reproduction and menstrual cycle",
+      "stem": "Oogonia are produced in the germ cells of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both Uterus and Cervix"
+        },
+        {
+          "label": "B",
+          "text": "Cervix"
+        },
+        {
+          "label": "C",
+          "text": "Uterus"
+        },
+        {
+          "label": "D",
+          "text": "Ovary"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 55,
+      "original_number": 55,
+      "unit": "Acellular Life",
+      "topic": "Viruses and HIV/AIDS",
+      "stem": "Which of the following diseases can be prevented through vaccination?",
+      "options": [
+        {
+          "label": "A",
+          "text": "AIDS and Cancer"
+        },
+        {
+          "label": "B",
+          "text": "Malaria and AIDS"
+        },
+        {
+          "label": "C",
+          "text": "Typhoid and Cancer"
+        },
+        {
+          "label": "D",
+          "text": "Measles and Mumps"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 56,
+      "original_number": 56,
+      "unit": "Biotechnology",
+      "topic": "Genetic engineering and applications",
+      "stem": "Newly produced cells/individuals which are identical in each other are known as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Genetically Modified"
+        },
+        {
+          "label": "B",
+          "text": "Transgenic Animals"
+        },
+        {
+          "label": "C",
+          "text": "Transgenic Bacteria"
+        },
+        {
+          "label": "D",
+          "text": "Clones"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 57,
+      "original_number": 57,
+      "unit": "Acellular Life",
+      "topic": "Viruses and HIV/AIDS",
+      "stem": "Which of the following is a blood borne disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hepatitis"
+        },
+        {
+          "label": "B",
+          "text": "Cholera"
+        },
+        {
+          "label": "C",
+          "text": "Influenza"
+        },
+        {
+          "label": "D",
+          "text": "Candidiasis"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 58,
+      "original_number": 58,
+      "unit": "Evolution",
+      "topic": "Evolution and natural selection",
+      "stem": "The control of pests has traditionally meant regulation by natural enemies, predators, parasites and pathogens. This type of control is known as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cultural Control"
+        },
+        {
+          "label": "B",
+          "text": "Biological Control"
+        },
+        {
+          "label": "C",
+          "text": "Pesticides Control"
+        },
+        {
+          "label": "D",
+          "text": "Insecticides Control"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 59,
+      "original_number": 59,
+      "unit": "Cell Structure and Function",
+      "topic": "Cells, organelles and chromosomes",
+      "stem": "Which of the following organelles is concerned with the cell secretion?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ribosomes"
+        },
+        {
+          "label": "B",
+          "text": "Golgi Apparatus"
+        },
+        {
+          "label": "C",
+          "text": "Lysosomes"
+        },
+        {
+          "label": "D",
+          "text": "Mitochondria"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 60,
+      "original_number": 60,
+      "unit": "Cell Structure and Function",
+      "topic": "Cells, organelles and chromosomes",
+      "stem": "Which of the following contains peptidoglycan cell wall?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Penicillium"
+        },
+        {
+          "label": "B",
+          "text": "Bacterium"
+        },
+        {
+          "label": "C",
+          "text": "Adiantum"
+        },
+        {
+          "label": "D",
+          "text": "Polytrichum"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 61,
+      "original_number": 61,
+      "unit": "Cell Structure and Function",
+      "topic": "Cells, organelles and chromosomes",
+      "stem": "The inner membrane of mitochondria is folded to form finger like structure called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cristae"
+        },
+        {
+          "label": "B",
+          "text": "Vesicle"
+        },
+        {
+          "label": "C",
+          "text": "Matrix"
+        },
+        {
+          "label": "D",
+          "text": "Cisternae"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 62,
+      "original_number": 62,
+      "unit": "Cell Structure and Function",
+      "topic": "Cells, organelles and chromosomes",
+      "stem": "Interior of chloroplast is divided into the heterogeneous structure, embedded in the stroma known as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Grana"
+        },
+        {
+          "label": "B",
+          "text": "Thylakoids"
+        },
+        {
+          "label": "C",
+          "text": "Stroma"
+        },
+        {
+          "label": "D",
+          "text": "Cisternae"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 63,
+      "original_number": 63,
+      "unit": "Cell Structure and Function",
+      "topic": "Cells, organelles and chromosomes",
+      "stem": "In which phase of the cell division is the metabolic activity of the nucleus is high?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mitosis"
+        },
+        {
+          "label": "B",
+          "text": "Interphase"
+        },
+        {
+          "label": "C",
+          "text": "Meiosis"
+        },
+        {
+          "label": "D",
+          "text": "Cell Cycle"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 64,
+      "original_number": 64,
+      "unit": "Coordination and Control",
+      "topic": "Nervous system and receptors",
+      "stem": "Luteinizing hormone triggers:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cessation of oogenesis"
+        },
+        {
+          "label": "B",
+          "text": "Breakdown of oocytes"
+        },
+        {
+          "label": "C",
+          "text": "Ovulation"
+        },
+        {
+          "label": "D",
+          "text": "Development of zygote"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 65,
+      "original_number": 65,
+      "unit": "Acellular Life",
+      "topic": "Viruses and HIV/AIDS",
+      "stem": "Syphilis is a sexually transmitted disease which is caused by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "HIV / AIDS"
+        },
+        {
+          "label": "B",
+          "text": "Pseudomonas Pyogenes"
+        },
+        {
+          "label": "C",
+          "text": "Treponema Pallidum"
+        },
+        {
+          "label": "D",
+          "text": "Neisseria"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 66,
+      "original_number": 66,
+      "unit": "Support and Movement",
+      "topic": "Skeleton, muscles and joints",
+      "stem": "Muscle is made up of many cells, which are referred to as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Myofilaments"
+        },
+        {
+          "label": "B",
+          "text": "Myofibrils"
+        },
+        {
+          "label": "C",
+          "text": "Sarcolemma"
+        },
+        {
+          "label": "D",
+          "text": "Muscle Fibers"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 67,
+      "original_number": 67,
+      "unit": "Support and Movement",
+      "topic": "Skeleton, muscles and joints",
+      "stem": "The length of myofibril from one Z-band to the next is known as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sarcomere"
+        },
+        {
+          "label": "B",
+          "text": "Sarcolemma"
+        },
+        {
+          "label": "C",
+          "text": "Sarcoplasm"
+        },
+        {
+          "label": "D",
+          "text": "Muscle Fiber"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 68,
+      "original_number": 68,
+      "unit": "Support and Movement",
+      "topic": "Skeleton, muscles and joints",
+      "stem": "The Ca++ ions released during a muscle fiber contraction attach with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Myosin"
+        },
+        {
+          "label": "B",
+          "text": "Actin"
+        },
+        {
+          "label": "C",
+          "text": "Troponin"
+        },
+        {
+          "label": "D",
+          "text": "Tropomyosin"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 69,
+      "original_number": 69,
+      "unit": "Support and Movement",
+      "topic": "Skeleton, muscles and joints",
+      "stem": "A muscle condition resulting from the accumulation of lactic acid and ionic imbalance is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tetany"
+        },
+        {
+          "label": "B",
+          "text": "Muscle Fatigue"
+        },
+        {
+          "label": "C",
+          "text": "Cramp"
+        },
+        {
+          "label": "D",
+          "text": "Tetanus"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 70,
+      "original_number": 70,
+      "unit": "Support and Movement",
+      "topic": "Skeleton, muscles and joints",
+      "stem": "The pigment which stores oxygen in muscles is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hemoglobin"
+        },
+        {
+          "label": "B",
+          "text": "Myoglobin"
+        },
+        {
+          "label": "C",
+          "text": "Myosin"
+        },
+        {
+          "label": "D",
+          "text": "Actinomyosin"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 71,
+      "original_number": 71,
+      "unit": "Coordination and Control",
+      "topic": "Nervous system and receptors",
+      "stem": "Neurosecretory cells are present in which part of brain:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hypothalamus"
+        },
+        {
+          "label": "B",
+          "text": "Midbrain"
+        },
+        {
+          "label": "C",
+          "text": "Pons"
+        },
+        {
+          "label": "D",
+          "text": "Cerebellum"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 72,
+      "original_number": 72,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "Which of the following is the function of glucagon hormone?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glycogen to Glucose"
+        },
+        {
+          "label": "B",
+          "text": "Glucose to Glycogen"
+        },
+        {
+          "label": "C",
+          "text": "Glucose to Lipids"
+        },
+        {
+          "label": "D",
+          "text": "Glucose to Proteins"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 73,
+      "original_number": 73,
+      "unit": "Coordination and Control",
+      "topic": "Nervous system and receptors",
+      "stem": "Addison’s disease is caused due to destruction of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Adrenal Cortex"
+        },
+        {
+          "label": "B",
+          "text": "Pituitary Adrenal Axis"
+        },
+        {
+          "label": "C",
+          "text": "Adrenal Medulla"
+        },
+        {
+          "label": "D",
+          "text": "Hypothalamus"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 74,
+      "original_number": 74,
+      "unit": "Homeostasis",
+      "topic": "Kidney and osmoregulation",
+      "stem": "Which group of hormones is made up of amino acids and their derivatives?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vasopressin and ADH"
+        },
+        {
+          "label": "B",
+          "text": "Epinephrine and Norepinephrine"
+        },
+        {
+          "label": "C",
+          "text": "Estrogen and Testosterone"
+        },
+        {
+          "label": "D",
+          "text": "Insulin and Glucagon"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 75,
+      "original_number": 75,
+      "unit": "Immunity",
+      "topic": "Immune response and vaccination",
+      "stem": "The thymus gland is involved in the maturation of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Platelets"
+        },
+        {
+          "label": "B",
+          "text": "B-Lymphocytes"
+        },
+        {
+          "label": "C",
+          "text": "Eosinophils"
+        },
+        {
+          "label": "D",
+          "text": "T-Lymphocytes"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 76,
+      "original_number": 76,
+      "unit": "Immunity",
+      "topic": "Immune response and vaccination",
+      "stem": "In passive immunity which of the following component are injected into blood?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Antigens"
+        },
+        {
+          "label": "B",
+          "text": "Immunogens"
+        },
+        {
+          "label": "C",
+          "text": "Serum"
+        },
+        {
+          "label": "D",
+          "text": "Immunoglobulins"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 77,
+      "original_number": 77,
+      "unit": "Immunity",
+      "topic": "Immune response and vaccination",
+      "stem": "Mucous membranes are part of body defense system and they offer:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Physical Barriers"
+        },
+        {
+          "label": "B",
+          "text": "Mechanical Barriers"
+        },
+        {
+          "label": "C",
+          "text": "Chemical Barriers"
+        },
+        {
+          "label": "D",
+          "text": "Biological Barriers"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 78,
+      "original_number": 78,
+      "unit": "Immunity",
+      "topic": "Immune response and vaccination",
+      "stem": "Immediate protection is obtained from:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Passive Immunity"
+        },
+        {
+          "label": "B",
+          "text": "Active Immunity"
+        },
+        {
+          "label": "C",
+          "text": "Vaccination"
+        },
+        {
+          "label": "D",
+          "text": "Natural Activity Immunity"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 79,
+      "original_number": 79,
+      "unit": "Immunity",
+      "topic": "Immune response and vaccination",
+      "stem": "The immunity in which T-cells recognize the antigens or micro-organisms is known as;",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tissue Grafting"
+        },
+        {
+          "label": "B",
+          "text": "Phagocytosis"
+        },
+        {
+          "label": "C",
+          "text": "Cell Mediated Immunity / Response"
+        },
+        {
+          "label": "D",
+          "text": "Hormonal Immunity / Response"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 80,
+      "original_number": 80,
+      "unit": "Cell Structure and Function",
+      "topic": "Cells, organelles and chromosomes",
+      "stem": "Oxidative phosphorylation, the synthesis of ATP in the presence of O₂, occurs in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mitochondrial inner membrane"
+        },
+        {
+          "label": "B",
+          "text": "Cytoplasm"
+        },
+        {
+          "label": "C",
+          "text": "Outer membrane of mitochondria"
+        },
+        {
+          "label": "D",
+          "text": "Stroma of the chloroplast"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 81,
+      "original_number": 81,
+      "unit": "Bioenergetics",
+      "topic": "Cellular respiration and photosynthesis",
+      "stem": "Glycolysis is the breakdown of glucose into two molecules of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glycerate"
+        },
+        {
+          "label": "B",
+          "text": "Lactic Acid"
+        },
+        {
+          "label": "C",
+          "text": "Pyruvate"
+        },
+        {
+          "label": "D",
+          "text": "Succinic Acid"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 82,
+      "original_number": 82,
+      "unit": "Bioenergetics",
+      "topic": "Cellular respiration and photosynthesis",
+      "stem": "Before entering the Krebs cycle, the pyruvate is first decarboxylated and oxidized into:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acetyl-CoA"
+        },
+        {
+          "label": "B",
+          "text": "Oxaloacetate"
+        },
+        {
+          "label": "C",
+          "text": "Lactic acid"
+        },
+        {
+          "label": "D",
+          "text": "Citric acid"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 83,
+      "original_number": 83,
+      "unit": "Bioenergetics",
+      "topic": "Cellular respiration and photosynthesis",
+      "stem": "Some electron from the second primary acceptor may pass back to chlorophyll molecules by electron carrier system, yielding ATP. This process is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phosphorylation"
+        },
+        {
+          "label": "B",
+          "text": "Photophosphorylation"
+        },
+        {
+          "label": "C",
+          "text": "Non-Cyclic Phosphorylation"
+        },
+        {
+          "label": "D",
+          "text": "Cyclic Phosphorylation"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 84,
+      "original_number": 84,
+      "unit": "Bioenergetics",
+      "topic": "Cellular respiration and photosynthesis",
+      "stem": "Z-scheme is used for:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Non-Cyclic Photophosphorylation"
+        },
+        {
+          "label": "B",
+          "text": "Cyclic Photophosphorylation"
+        },
+        {
+          "label": "C",
+          "text": "Both Cyclic and Non-Cyclic Photophosphorylation"
+        },
+        {
+          "label": "D",
+          "text": "Oxidative Phosphorylation"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 85,
+      "original_number": 85,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "The common vectors used in recombinant DNA technology are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Probes"
+        },
+        {
+          "label": "B",
+          "text": "Palindromes"
+        },
+        {
+          "label": "C",
+          "text": "Plasmids"
+        },
+        {
+          "label": "D",
+          "text": "Prions"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 86,
+      "original_number": 86,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "The enzyme used to isolate gene from DNA is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Helicase"
+        },
+        {
+          "label": "B",
+          "text": "Reverse Transcriptase"
+        },
+        {
+          "label": "C",
+          "text": "Restriction Enzyme"
+        },
+        {
+          "label": "D",
+          "text": "DNA Polymerase"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 87,
+      "original_number": 87,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "Which one of the following enzymes is temperature insensitive?",
+      "options": [
+        {
+          "label": "A",
+          "text": "DNA Polymerase I"
+        },
+        {
+          "label": "B",
+          "text": "Taq Polymerase"
+        },
+        {
+          "label": "C",
+          "text": "DNA Polymerase III"
+        },
+        {
+          "label": "D",
+          "text": "RNA Polymerase"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 88,
+      "original_number": 88,
+      "unit": "Cell Structure and Function",
+      "topic": "Cells, organelles and chromosomes",
+      "stem": "When chromosomes uncoil, the nucleoli are reformed and two nuclei are the two poles of the cell; stage is known as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prophase"
+        },
+        {
+          "label": "B",
+          "text": "Metaphase"
+        },
+        {
+          "label": "C",
+          "text": "Telophase"
+        },
+        {
+          "label": "D",
+          "text": "Anaphase"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 89,
+      "original_number": 89,
+      "unit": "Inheritance",
+      "topic": "Mendelian and sex-linked inheritance",
+      "stem": "Mental retardation, short stature, broad face and squint eyes are the symptoms of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Down’s syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Klinefelter’s syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Turner’s syndrome"
+        },
+        {
+          "label": "D",
+          "text": "XYZ syndrome"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 90,
+      "original_number": 90,
+      "unit": "Inheritance",
+      "topic": "Mendelian and sex-linked inheritance",
+      "stem": "Chiasmata formation takes place during the process which is known as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Crossing Over"
+        },
+        {
+          "label": "B",
+          "text": "Attachment"
+        },
+        {
+          "label": "C",
+          "text": "Pairing"
+        },
+        {
+          "label": "D",
+          "text": "Leptotene"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 91,
+      "original_number": 91,
+      "unit": "Cell Structure and Function",
+      "topic": "Cells, organelles and chromosomes",
+      "stem": "Healing of a wound and repair is the phenomenon which takes place by the process of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mitosis"
+        },
+        {
+          "label": "B",
+          "text": "Meiosis"
+        },
+        {
+          "label": "C",
+          "text": "Cell Growth"
+        },
+        {
+          "label": "D",
+          "text": "Mitosis & Meiosis"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 92,
+      "original_number": 92,
+      "unit": "Cell Structure and Function",
+      "topic": "Cells, organelles and chromosomes",
+      "stem": "Which one of the following is the main cause of cancer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mutation"
+        },
+        {
+          "label": "B",
+          "text": "Controlled cell division"
+        },
+        {
+          "label": "C",
+          "text": "Regulated mitosis"
+        },
+        {
+          "label": "D",
+          "text": "Haploid division"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 93,
+      "original_number": 93,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "The covalent bond formed between two monosaccharides is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glycosidic Bond"
+        },
+        {
+          "label": "B",
+          "text": "Hydrogen Bond"
+        },
+        {
+          "label": "C",
+          "text": "Peptide Bond"
+        },
+        {
+          "label": "D",
+          "text": "Disulphide"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 94,
+      "original_number": 94,
+      "unit": "Inheritance",
+      "topic": "Mendelian and sex-linked inheritance",
+      "stem": "The bond formed between glucose and fructose form sucrose is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1,4 Glycosidic Linkage"
+        },
+        {
+          "label": "B",
+          "text": "1,2 Glycosidic Linkage"
+        },
+        {
+          "label": "C",
+          "text": "1,6 Glycosidic Linkage"
+        },
+        {
+          "label": "D",
+          "text": "1,3 Glycosidic Linkage"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 95,
+      "original_number": 95,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "In an amino acid in which the R-group is H, its name will be:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alanine"
+        },
+        {
+          "label": "B",
+          "text": "Glycine"
+        },
+        {
+          "label": "C",
+          "text": "Leucine"
+        },
+        {
+          "label": "D",
+          "text": "Valine"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 96,
+      "original_number": 96,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "Fatty acid are the organic compounds containing hydrogen, oxygen and one of the following are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "–COOH"
+        },
+        {
+          "label": "B",
+          "text": "–NH2"
+        },
+        {
+          "label": "C",
+          "text": "Acyl"
+        },
+        {
+          "label": "D",
+          "text": "Sucrose"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 97,
+      "original_number": 97,
+      "unit": "Circulation",
+      "topic": "Heart, blood and vessels",
+      "stem": "Liposomes are used in gene therapy against:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hypercholesterolemia"
+        },
+        {
+          "label": "B",
+          "text": "Coronary Artery Angioplasty"
+        },
+        {
+          "label": "C",
+          "text": "Cystic Fibrosis"
+        },
+        {
+          "label": "D",
+          "text": "Severe Combined Immunodeficiency Syndrome (SCID)"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 98,
+      "original_number": 98,
+      "unit": "Support and Movement",
+      "topic": "Skeleton, muscles and joints",
+      "stem": "Genetically engineered cells are introduced into bone marrow cells in the treatment of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hypercholesterolemia"
+        },
+        {
+          "label": "B",
+          "text": "Severe Combined Immunodeficiency Syndrome (SCID)"
+        },
+        {
+          "label": "C",
+          "text": "Cystic Fibrosis"
+        },
+        {
+          "label": "D",
+          "text": "Coronary Artery Angioplasty"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 99,
+      "original_number": 99,
+      "unit": "Bioenergetics",
+      "topic": "Cellular respiration and photosynthesis",
+      "stem": "Which one of the following is depleting and causing thinning of ozone?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chlorine"
+        },
+        {
+          "label": "B",
+          "text": "Bromine"
+        },
+        {
+          "label": "C",
+          "text": "Chlorofluorocarbon"
+        },
+        {
+          "label": "D",
+          "text": "Carbon"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 100,
+      "original_number": 100,
+      "unit": "Evolution",
+      "topic": "Evolution and natural selection",
+      "stem": "The typical environment of a particular organism population community is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Niche"
+        },
+        {
+          "label": "B",
+          "text": "Ecosystem"
+        },
+        {
+          "label": "C",
+          "text": "Habitat"
+        },
+        {
+          "label": "D",
+          "text": "Biosphere"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 101,
+      "original_number": 101,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "Excessive enrichment of water with nutrients by human activity by which large amount of living organic matter grows is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Archeotrophication"
+        },
+        {
+          "label": "B",
+          "text": "Eutrophication"
+        },
+        {
+          "label": "C",
+          "text": "Enrichment"
+        },
+        {
+          "label": "D",
+          "text": "Low Trophication"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 102,
+      "original_number": 102,
+      "unit": "Bioenergetics",
+      "topic": "Cellular respiration and photosynthesis",
+      "stem": "In an ecosystem, mycorrhizae is an example of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Symbiosis"
+        },
+        {
+          "label": "B",
+          "text": "Predation"
+        },
+        {
+          "label": "C",
+          "text": "Commensalism"
+        },
+        {
+          "label": "D",
+          "text": "Parasitism"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 103,
+      "original_number": 103,
+      "unit": "Bioenergetics",
+      "topic": "Cellular respiration and photosynthesis",
+      "stem": "Successive stages of eating and being eaten by which recycling of materials and flow of energy takes place is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Food Chain"
+        },
+        {
+          "label": "B",
+          "text": "Food Web"
+        },
+        {
+          "label": "C",
+          "text": "Trophic Level"
+        },
+        {
+          "label": "D",
+          "text": "Food Link"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 104,
+      "original_number": 104,
+      "unit": "Inheritance",
+      "topic": "Mendelian and sex-linked inheritance",
+      "stem": "The sex of individuals of the generation always depends on one of the parents who is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Heterogametic"
+        },
+        {
+          "label": "B",
+          "text": "Homogametic"
+        },
+        {
+          "label": "C",
+          "text": "Isogametic"
+        },
+        {
+          "label": "D",
+          "text": "Isomorphic"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 105,
+      "original_number": 105,
+      "unit": "Inheritance",
+      "topic": "Mendelian and sex-linked inheritance",
+      "stem": "Which of the following will be hemophilic?",
+      "options": [
+        {
+          "label": "A",
+          "text": "XHXh"
+        },
+        {
+          "label": "B",
+          "text": "XHXH"
+        },
+        {
+          "label": "C",
+          "text": "XhY"
+        },
+        {
+          "label": "D",
+          "text": "XHY"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 106,
+      "original_number": 106,
+      "unit": "Inheritance",
+      "topic": "Mendelian and sex-linked inheritance",
+      "stem": "Which of the following is an example of an X-linked recessive trait in humans?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hypophospatemic Rickets"
+        },
+        {
+          "label": "B",
+          "text": "Color Blindness"
+        },
+        {
+          "label": "C",
+          "text": "Baldness"
+        },
+        {
+          "label": "D",
+          "text": "Beard Growth"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 107,
+      "original_number": 107,
+      "unit": "Inheritance",
+      "topic": "Mendelian and sex-linked inheritance",
+      "stem": "Which trait in human in an example of multiple alleles?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Eye Colour"
+        },
+        {
+          "label": "B",
+          "text": "Skin Colour"
+        },
+        {
+          "label": "C",
+          "text": "ABO-Blood Group"
+        },
+        {
+          "label": "D",
+          "text": "Rh-Blood Group"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 108,
+      "original_number": 108,
+      "unit": "Inheritance",
+      "topic": "Mendelian and sex-linked inheritance",
+      "stem": "When a gene pair at one locus interacts with another gene at another locus, the interaction is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dominance"
+        },
+        {
+          "label": "B",
+          "text": "Multiple Alleles"
+        },
+        {
+          "label": "C",
+          "text": "Pleitropy"
+        },
+        {
+          "label": "D",
+          "text": "Epistasis"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 109,
+      "original_number": 109,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "The combination of a pentose sugar with a base result in a compound is known as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nucleotide"
+        },
+        {
+          "label": "B",
+          "text": "Nucleoside"
+        },
+        {
+          "label": "C",
+          "text": "Nucleic Acid"
+        },
+        {
+          "label": "D",
+          "text": "Polynucleotide"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 110,
+      "original_number": 110,
+      "unit": "Enzymes",
+      "topic": "Enzymes and inhibition",
+      "stem": "An enzyme and substrate react through a special feature or site present in the enzyme:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Binding site"
+        },
+        {
+          "label": "B",
+          "text": "Active site"
+        },
+        {
+          "label": "C",
+          "text": "Catalyst site"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition site"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 111,
+      "original_number": 111,
+      "unit": "Atomic Structure",
+      "topic": "Atomic models and electronic configuration",
+      "stem": "In mass spectrometer, detector or collector measures the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Masses of isotopes"
+        },
+        {
+          "label": "B",
+          "text": "Percentages of isotopes"
+        },
+        {
+          "label": "C",
+          "text": "Relative abundances of isotopes"
+        },
+        {
+          "label": "D",
+          "text": "Mass numbers of isotopes"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 112,
+      "original_number": 112,
+      "unit": "Introduction to Chemistry",
+      "topic": "Stoichiometry and mole concept",
+      "stem": "How many 'Cl' (chlorine) molecules are in two moles of chlorine?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 × 6.02 × 10-23 molecules"
+        },
+        {
+          "label": "B",
+          "text": "35.5 × 6.02 × 1023 molecules"
+        },
+        {
+          "label": "C",
+          "text": "2 × 1023 molecules"
+        },
+        {
+          "label": "D",
+          "text": "2 × 6.02 × 1023 molecules"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 113,
+      "original_number": 113,
+      "unit": "Liquids and Solids",
+      "topic": "Intermolecular forces and states of matter",
+      "stem": "Melting point of water is higher than petrol, because intermolecular forces in water are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Weaker than petrol"
+        },
+        {
+          "label": "B",
+          "text": "Stronger than petrol"
+        },
+        {
+          "label": "C",
+          "text": "Same as in petrol"
+        },
+        {
+          "label": "D",
+          "text": "Negligible"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 114,
+      "original_number": 114,
+      "unit": "Chemical Bonding",
+      "topic": "Bonding and molecular shape",
+      "stem": "DNA molecule is double stranded, in which two chains of DNA are twisted around each other by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hydrogen bonds"
+        },
+        {
+          "label": "B",
+          "text": "Vander Waal's force"
+        },
+        {
+          "label": "C",
+          "text": "Covalent bonds"
+        },
+        {
+          "label": "D",
+          "text": "Dative bonds"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 115,
+      "original_number": 115,
+      "unit": "S- and P-Block Elements",
+      "topic": "Periodic trends and main-group chemistry",
+      "stem": "The elements for which the value of ionisation energy is low, can:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gain electrons readily"
+        },
+        {
+          "label": "B",
+          "text": "Gains electron with difficulty"
+        },
+        {
+          "label": "C",
+          "text": "Lose electrons less readily"
+        },
+        {
+          "label": "D",
+          "text": "Lose electrons readily"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 116,
+      "original_number": 116,
+      "unit": "Atomic Structure",
+      "topic": "Atomic models and electronic configuration",
+      "stem": "The nature of cathode rays in discharge tube:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Depends on the nature of gas taken in the discharge tube"
+        },
+        {
+          "label": "B",
+          "text": "Depends upon the nature of cathode in discharge tube"
+        },
+        {
+          "label": "C",
+          "text": "Is independent of the nature of the gas in discharge tube"
+        },
+        {
+          "label": "D",
+          "text": "Depends upon the nature of anode in the discharge tube"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 117,
+      "original_number": 117,
+      "unit": "Chemical Bonding",
+      "topic": "Bonding and molecular shape",
+      "stem": "The ability of an atom in a covalent bond to attract the bonding electrons is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ionization energy"
+        },
+        {
+          "label": "B",
+          "text": "Ionic bond energy"
+        },
+        {
+          "label": "C",
+          "text": "Electronegativity"
+        },
+        {
+          "label": "D",
+          "text": "Electron affinity"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 118,
+      "original_number": 118,
+      "unit": "Chemical Bonding",
+      "topic": "Bonding and molecular shape",
+      "stem": "The paramagnetic character of a substance is due to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bond pairs of electrons"
+        },
+        {
+          "label": "B",
+          "text": "Lone pairs of electrons"
+        },
+        {
+          "label": "C",
+          "text": "Unpaired electrons in atom or molecule"
+        },
+        {
+          "label": "D",
+          "text": "Paired electrons in valence shells of electrons"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 119,
+      "original_number": 119,
+      "unit": "Liquids and Solids",
+      "topic": "Intermolecular forces and states of matter",
+      "stem": "Lattice energy of an ionic crystal is the enthalpy of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Combustion"
+        },
+        {
+          "label": "B",
+          "text": "Dissociation"
+        },
+        {
+          "label": "C",
+          "text": "Dissolution"
+        },
+        {
+          "label": "D",
+          "text": "Formation"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 120,
+      "original_number": 120,
+      "unit": "Thermochemistry and Energetics",
+      "topic": "Heat, enthalpy and thermodynamics",
+      "stem": "In Standard Enthalpy of Atomization, heat of the surrounding:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Remains unchanged"
+        },
+        {
+          "label": "B",
+          "text": "Increases"
+        },
+        {
+          "label": "C",
+          "text": "Increases than decreases"
+        },
+        {
+          "label": "D",
+          "text": "Decreases"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 121,
+      "original_number": 121,
+      "unit": "Introduction to Chemistry",
+      "topic": "Stoichiometry and mole concept",
+      "stem": "Mole fraction of any compound is the ratio of moles of all components in a:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Compound"
+        },
+        {
+          "label": "B",
+          "text": "Solution"
+        },
+        {
+          "label": "C",
+          "text": "Molecule"
+        },
+        {
+          "label": "D",
+          "text": "Solid"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 122,
+      "original_number": 122,
+      "unit": "Introduction to Chemistry",
+      "topic": "Stoichiometry and mole concept",
+      "stem": "Molarity is defined as the number of moles of any substance dissolved:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Per dm3 of water"
+        },
+        {
+          "label": "B",
+          "text": "In one gram of water"
+        },
+        {
+          "label": "C",
+          "text": "Per m3 of water"
+        },
+        {
+          "label": "D",
+          "text": "In 100 ml of water"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 123,
+      "original_number": 123,
+      "unit": "Electrochemistry",
+      "topic": "Redox and electrochemical cells",
+      "stem": "In an electrolytic cell, a salt bridge is used in order to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pass the electric current"
+        },
+        {
+          "label": "B",
+          "text": "Mix solution of two half-cells"
+        },
+        {
+          "label": "C",
+          "text": "Prevent the flow of ions"
+        },
+        {
+          "label": "D",
+          "text": "Allow movement of ions between two half-cells"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 124,
+      "original_number": 124,
+      "unit": "Electrochemistry",
+      "topic": "Redox and electrochemical cells",
+      "stem": "In all oxidation reactions, atoms of an element in a chemical species lose electrons and increase their:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oxidation states"
+        },
+        {
+          "label": "B",
+          "text": "Reductions"
+        },
+        {
+          "label": "C",
+          "text": "Electrode"
+        },
+        {
+          "label": "D",
+          "text": "Negative charges"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 125,
+      "original_number": 125,
+      "unit": "Chemical Equilibrium",
+      "topic": "Equilibrium and buffers",
+      "stem": "In 'AgCl' solution, some salt of NaCl is added, 'AgCl' will be precipitated due to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Solubility"
+        },
+        {
+          "label": "B",
+          "text": "Electrolyte"
+        },
+        {
+          "label": "C",
+          "text": "Unsaturation effect"
+        },
+        {
+          "label": "D",
+          "text": "Common ion effect"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 126,
+      "original_number": 126,
+      "unit": "Chemical Equilibrium",
+      "topic": "Equilibrium and buffers",
+      "stem": "‘Ka’ for an acid is higher, the stronger is the acid; relate the strength of an acid with ‘pKa’:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Higher pKa, weaker the acid"
+        },
+        {
+          "label": "B",
+          "text": "Lower pKa, stronger the acid"
+        },
+        {
+          "label": "C",
+          "text": "pKa has no relation with acid strength"
+        },
+        {
+          "label": "D",
+          "text": "Both “Higher pKa, weaker the acid” & “Lower pKa, stronger the acid”"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 127,
+      "original_number": 127,
+      "unit": "Reaction Kinetics",
+      "topic": "Rate and activation energy",
+      "stem": "It is experimentally found that a catalyst is used to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lower the activation energy"
+        },
+        {
+          "label": "B",
+          "text": "Increase the activation energy"
+        },
+        {
+          "label": "C",
+          "text": "Lower the pH"
+        },
+        {
+          "label": "D",
+          "text": "Decrease the temp of the reaction"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 128,
+      "original_number": 128,
+      "unit": "Reaction Kinetics",
+      "topic": "Rate and activation energy",
+      "stem": "According to collision theory of bimolecular reaction in gas phase, the minimum amount of energy required for an effective collision is known as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Heat of reaction"
+        },
+        {
+          "label": "B",
+          "text": "Rate of reaction"
+        },
+        {
+          "label": "C",
+          "text": "Has no effect on the reaction"
+        },
+        {
+          "label": "D",
+          "text": "Energy of activation"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 129,
+      "original_number": 129,
+      "unit": "S- and P-Block Elements",
+      "topic": "Periodic trends and main-group chemistry",
+      "stem": "Carbon exists as allotropes, which are different crystalline or molecular forms of the same substance. Graphite and diamond are allotropes of carbon. Diamond is a non-conductor whereas graphite is a good conductor because:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Graphite has a layered structure"
+        },
+        {
+          "label": "B",
+          "text": "In graphite, all valence electrons are tetrahedrally bound"
+        },
+        {
+          "label": "C",
+          "text": "In graphite one of valence electron is free to move"
+        },
+        {
+          "label": "D",
+          "text": "Graphite is soft and greasy bound"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 130,
+      "original_number": 130,
+      "unit": "S- and P-Block Elements",
+      "topic": "Periodic trends and main-group chemistry",
+      "stem": "The diagram below is a plot of melting points of elements of second period against their atomic numbers. Lithium and fluorine are placed at the extreme ends of the plot, on the basis of melting points where will you place Carbon among the empty slots on the plot?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "2"
+        },
+        {
+          "label": "C",
+          "text": "4"
+        },
+        {
+          "label": "D",
+          "text": "3"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 131,
+      "original_number": 131,
+      "unit": "S- and P-Block Elements",
+      "topic": "Periodic trends and main-group chemistry",
+      "stem": "When elements of group II-A (alkaline earth metals) are exposed to air, they quickly become coated with a layer of oxide. What is the purpose of this oxide layer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The oxide layer exposes the metal to Atmospheric attack"
+        },
+        {
+          "label": "B",
+          "text": "The oxide layer increases the reactivity of metal"
+        },
+        {
+          "label": "C",
+          "text": "The oxide layer protects the metal from further atmospheric attack"
+        },
+        {
+          "label": "D",
+          "text": "The oxide layer gives the metal a shiny silvery appearance"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 132,
+      "original_number": 132,
+      "unit": "S- and P-Block Elements",
+      "topic": "Periodic trends and main-group chemistry",
+      "stem": "In silicon dioxide each silicon atom is tetrahedrally bonded to four oxygen atoms and each oxygen atom is bonded to two silicon atoms. The ratio of silicon to oxygen atoms is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "2:2"
+        },
+        {
+          "label": "B",
+          "text": "1:2"
+        },
+        {
+          "label": "C",
+          "text": "2:1"
+        },
+        {
+          "label": "D",
+          "text": "1:4"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 133,
+      "original_number": 133,
+      "unit": "Chemistry of Hydrocarbons",
+      "topic": "Alkanes, alkenes, alkynes and benzene",
+      "stem": "Hydrogenation of unsaturated oils is done by using:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Finely divided nickel"
+        },
+        {
+          "label": "B",
+          "text": "Finely divided iron"
+        },
+        {
+          "label": "C",
+          "text": "Vanadium pentaoxide"
+        },
+        {
+          "label": "D",
+          "text": "Copper"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 134,
+      "original_number": 134,
+      "unit": "S- and P-Block Elements",
+      "topic": "Periodic trends and main-group chemistry",
+      "stem": "Pick the correct statement:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chelates are usually more stable than ordinary complexes"
+        },
+        {
+          "label": "B",
+          "text": "Ordinary complexes are more stable than chelates"
+        },
+        {
+          "label": "C",
+          "text": "Monodentate ligands form the chelates complexes"
+        },
+        {
+          "label": "D",
+          "text": "Chelates have no ring structures"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 135,
+      "original_number": 135,
+      "unit": "Reaction Kinetics",
+      "topic": "Rate and activation energy",
+      "stem": "In contact process, the catalyst used for the conversion of Sulphur dioxide to Sulphur trioxide is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Magnesium oxide"
+        },
+        {
+          "label": "B",
+          "text": "Aluminum oxide"
+        },
+        {
+          "label": "C",
+          "text": "Silicon dioxide"
+        },
+        {
+          "label": "D",
+          "text": "Vanadium pentoxide"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 136,
+      "original_number": 136,
+      "unit": "Industrial Chemistry",
+      "topic": "Industrial processes and materials",
+      "stem": "The unpolluted natural rainwater is slightly acidic due to the reaction of rain water with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sulphur dioxide"
+        },
+        {
+          "label": "B",
+          "text": "Oxides of nitrogen"
+        },
+        {
+          "label": "C",
+          "text": "Carbon dioxide"
+        },
+        {
+          "label": "D",
+          "text": "Hydrogen present in air"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 137,
+      "original_number": 137,
+      "unit": "Industrial Chemistry",
+      "topic": "Industrial processes and materials",
+      "stem": "In the Haber process for manufacturing of ammonia, Nitrogen is taken from:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Proteins occurring in living bodies"
+        },
+        {
+          "label": "B",
+          "text": "Ammonium salts obtained industrially"
+        },
+        {
+          "label": "C",
+          "text": "Air"
+        },
+        {
+          "label": "D",
+          "text": "Minerals containing nitrates"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 138,
+      "original_number": 138,
+      "unit": "S- and P-Block Elements",
+      "topic": "Periodic trends and main-group chemistry",
+      "stem": "In comparison with oxygen gas, a strong triple bond is present between two nitrogen atoms in a molecule and therefore nitrogen gas is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Highly reactive gas"
+        },
+        {
+          "label": "B",
+          "text": "Completely inert like noble gases"
+        },
+        {
+          "label": "C",
+          "text": "Very less reactive gas"
+        },
+        {
+          "label": "D",
+          "text": "Moderately reactive gas"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 139,
+      "original_number": 139,
+      "unit": "Alkyl Halides",
+      "topic": "Nucleophilic substitution",
+      "stem": "The compound with an atom, which has unshared pair of electrons is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nucleophile"
+        },
+        {
+          "label": "B",
+          "text": "Electrophile"
+        },
+        {
+          "label": "C",
+          "text": "Protophile"
+        },
+        {
+          "label": "D",
+          "text": "None of the given options"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 140,
+      "original_number": 140,
+      "unit": "Fundamental Principles of Organic Chemistry",
+      "topic": "Organic nomenclature and isomerism",
+      "stem": "1-chloropropane and 2-chloropropane are isomers of each other, the type of isomerism in these two is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cis-trans isomerism"
+        },
+        {
+          "label": "B",
+          "text": "Chain isomerism"
+        },
+        {
+          "label": "C",
+          "text": "Position isomerism"
+        },
+        {
+          "label": "D",
+          "text": "Functional group isomerism"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 141,
+      "original_number": 141,
+      "unit": "Chemistry of Hydrocarbons",
+      "topic": "Alkanes, alkenes, alkynes and benzene",
+      "stem": "Benzene in the presence of AlCl3 produces acetophenone when reacts with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acetyl chloride"
+        },
+        {
+          "label": "B",
+          "text": "Acetic acid"
+        },
+        {
+          "label": "C",
+          "text": "Ethyl benzene"
+        },
+        {
+          "label": "D",
+          "text": "Ethanoic acid"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 142,
+      "original_number": 142,
+      "unit": "Chemistry of Hydrocarbons",
+      "topic": "Alkanes, alkenes, alkynes and benzene",
+      "stem": "The substitution of a '-H' by '-NO2' group in benzene is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nitration"
+        },
+        {
+          "label": "B",
+          "text": "Ammonolysis"
+        },
+        {
+          "label": "C",
+          "text": "Sulphonation"
+        },
+        {
+          "label": "D",
+          "text": "Reduction of benzene"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 143,
+      "original_number": 143,
+      "unit": "Chemistry of Hydrocarbons",
+      "topic": "Alkanes, alkenes, alkynes and benzene",
+      "stem": "When purely alcoholic solution of sodium/potassium hydroxide and halogenoalkanes are reacted an alkene is formed, what is the mechanism of reaction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Elimination"
+        },
+        {
+          "label": "B",
+          "text": "Dehydration"
+        },
+        {
+          "label": "C",
+          "text": "Debromination"
+        },
+        {
+          "label": "D",
+          "text": "Reduction of benzene"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 144,
+      "original_number": 144,
+      "unit": "Fundamental Principles of Organic Chemistry",
+      "topic": "Organic nomenclature and isomerism",
+      "stem": "The organic compound carbon tetrachloride is used as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lubricant"
+        },
+        {
+          "label": "B",
+          "text": "Solvent"
+        },
+        {
+          "label": "C",
+          "text": "Oxidant"
+        },
+        {
+          "label": "D",
+          "text": "Plastic"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 145,
+      "original_number": 145,
+      "unit": "Alcohols and Phenols",
+      "topic": "Alcohol and phenol reactions",
+      "stem": "An alcohol is converted to an aldehyde with same number of carbon atoms as that of alcohol in the presence of K2Cr2O7/H2SO4 the alcohol is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "CH3Cl(CH)2OH"
+        },
+        {
+          "label": "B",
+          "text": "CH3CH2CH2OH"
+        },
+        {
+          "label": "C",
+          "text": "(CH3)3COH"
+        },
+        {
+          "label": "D",
+          "text": "(CH3)3CHOH"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 146,
+      "original_number": 146,
+      "unit": "Alcohols and Phenols",
+      "topic": "Alcohol and phenol reactions",
+      "stem": "Which of the following is a secondary alcohol?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Propan-2-ol"
+        },
+        {
+          "label": "B",
+          "text": "Ethanol"
+        },
+        {
+          "label": "C",
+          "text": "Methanol"
+        },
+        {
+          "label": "D",
+          "text": "2-methylpropan-2-ol"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 147,
+      "original_number": 147,
+      "unit": "Macromolecules",
+      "topic": "Polymers and biomolecules",
+      "stem": "Which enzyme is involved in the fermentation of glucose:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Zymase"
+        },
+        {
+          "label": "B",
+          "text": "Invertase"
+        },
+        {
+          "label": "C",
+          "text": "Urease"
+        },
+        {
+          "label": "D",
+          "text": "Diastase"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 148,
+      "original_number": 148,
+      "unit": "Alcohols and Phenols",
+      "topic": "Alcohol and phenol reactions",
+      "stem": "Relative acidic strength of alcohol, phenol, water and carboxylic acid is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carboxylic acid > Alcohol > Phenol > Water CH3"
+        },
+        {
+          "label": "B",
+          "text": "Carboxylic acid > Phenol > Water > Alcohol"
+        },
+        {
+          "label": "C",
+          "text": "Phenol > Carboxylic acid > Alcohol > Water"
+        },
+        {
+          "label": "D",
+          "text": "Water > Alcohol > Phenol > Carboxylic acid"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 149,
+      "original_number": 149,
+      "unit": "Aldehydes and Ketones",
+      "topic": "Carbonyl compounds",
+      "stem": "Consider the following reaction:R―CHO + 2[Ag(NH3)2]OH → R―COONH4 + 2Ag + 2NH3 + H2O. This reaction represents one of the following tests?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fehling's test"
+        },
+        {
+          "label": "B",
+          "text": "Benedict's test"
+        },
+        {
+          "label": "C",
+          "text": "Ninhydrin's test"
+        },
+        {
+          "label": "D",
+          "text": "Tollen's test"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 150,
+      "original_number": 150,
+      "unit": "Alkyl Halides",
+      "topic": "Nucleophilic substitution",
+      "stem": "In the below reaction, the nucleophile is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "CN-"
+        },
+        {
+          "label": "B",
+          "text": "HCl"
+        },
+        {
+          "label": "C",
+          "text": "Cl"
+        },
+        {
+          "label": "D",
+          "text": "OH"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 151,
+      "original_number": 151,
+      "unit": "Aldehydes and Ketones",
+      "topic": "Carbonyl compounds",
+      "stem": "Which one of the following compounds belongs to the homologous series of aldehydes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Methanal"
+        },
+        {
+          "label": "B",
+          "text": "Methanol"
+        },
+        {
+          "label": "C",
+          "text": "Methanoic acid"
+        },
+        {
+          "label": "D",
+          "text": "Methoxy methane"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 152,
+      "original_number": 152,
+      "unit": "Carboxylic Acids",
+      "topic": "Carboxylic acids and derivatives",
+      "stem": "The products of the reaction given below are:CH3COOH + PCl5 → ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CH3COCl + POCl3 + HCl"
+        },
+        {
+          "label": "B",
+          "text": "CH3COCl + POCl2 + HCl"
+        },
+        {
+          "label": "C",
+          "text": "CH3Cl + POCl3 + HCl"
+        },
+        {
+          "label": "D",
+          "text": "CH3COCl + POCl3 + H2"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 153,
+      "original_number": 153,
+      "unit": "Carboxylic Acids",
+      "topic": "Carboxylic acids and derivatives",
+      "stem": "CH3CN +H2O + HCl → A + B In the reaction given above, A and B are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acetic acid and acid amide"
+        },
+        {
+          "label": "B",
+          "text": "Acetic acid and methyl chloride"
+        },
+        {
+          "label": "C",
+          "text": "Acetic acid and ammonia"
+        },
+        {
+          "label": "D",
+          "text": "Acetic acid and ammonium chloride"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 154,
+      "original_number": 154,
+      "unit": "Carboxylic Acids",
+      "topic": "Carboxylic acids and derivatives",
+      "stem": "Consider the following reaction:CH3COOH + Mg (metal) → ?What product will form?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Magnesium formate"
+        },
+        {
+          "label": "B",
+          "text": "Magnesium acetate"
+        },
+        {
+          "label": "C",
+          "text": "Magnesium ion"
+        },
+        {
+          "label": "D",
+          "text": "Carboxylate ion"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 155,
+      "original_number": 155,
+      "unit": "Macromolecules",
+      "topic": "Polymers and biomolecules",
+      "stem": "The ―NH―CO is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amide group"
+        },
+        {
+          "label": "B",
+          "text": "Amino group"
+        },
+        {
+          "label": "C",
+          "text": "Protein linkage"
+        },
+        {
+          "label": "D",
+          "text": "Peptide linkage"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 156,
+      "original_number": 156,
+      "unit": "Macromolecules",
+      "topic": "Polymers and biomolecules",
+      "stem": "Which one of the following is an alpha amino acid?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glycine"
+        },
+        {
+          "label": "B",
+          "text": "Serine"
+        },
+        {
+          "label": "C",
+          "text": "Glutamine"
+        },
+        {
+          "label": "D",
+          "text": "Lysine"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 157,
+      "original_number": 157,
+      "unit": "Macromolecules",
+      "topic": "Polymers and biomolecules",
+      "stem": "Which of the following has an amino R-group?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lysine"
+        },
+        {
+          "label": "B",
+          "text": "Proline"
+        },
+        {
+          "label": "C",
+          "text": "Valine"
+        },
+        {
+          "label": "D",
+          "text": "Alanine"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 158,
+      "original_number": 158,
+      "unit": "Chemical Equilibrium",
+      "topic": "Equilibrium and buffers",
+      "stem": "At intermediate value of pH, amino acids form Zwitter ions containing:",
+      "options": [
+        {
+          "label": "A",
+          "text": "―NH3+ and COO-"
+        },
+        {
+          "label": "B",
+          "text": "―NH3 and COO-"
+        },
+        {
+          "label": "C",
+          "text": "―NH3+ and COOH"
+        },
+        {
+          "label": "D",
+          "text": "―NH3 and COOH"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 159,
+      "original_number": 159,
+      "unit": "Carboxylic Acids",
+      "topic": "Carboxylic acids and derivatives",
+      "stem": "When hexane dioic acid is heated with hexamethylene diamine, the compound formed is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Polypeptide"
+        },
+        {
+          "label": "B",
+          "text": "Addition polymer"
+        },
+        {
+          "label": "C",
+          "text": "Ester"
+        },
+        {
+          "label": "D",
+          "text": "Nylon 6,6"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 160,
+      "original_number": 160,
+      "unit": "Macromolecules",
+      "topic": "Polymers and biomolecules",
+      "stem": "A polymer in which the number of amino acid residue is greater than 100 or molecular mass is greater than 1000, is known as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Protein"
+        },
+        {
+          "label": "B",
+          "text": "Polypeptide"
+        },
+        {
+          "label": "C",
+          "text": "Dipeptide"
+        },
+        {
+          "label": "D",
+          "text": "Tripeptide"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 161,
+      "original_number": 161,
+      "unit": "Macromolecules",
+      "topic": "Polymers and biomolecules",
+      "stem": "Aspartic acid is an acidic amino acid, which has chemical formula:",
+      "options": [
+        {
+          "label": "A",
+          "text": "HOOC-CH2-CH(NH2)-COOH"
+        },
+        {
+          "label": "B",
+          "text": "H2N-CH2-COOH"
+        },
+        {
+          "label": "C",
+          "text": "CH3-CH(NH2)-COOH"
+        },
+        {
+          "label": "D",
+          "text": "HOOC-(CH2)2-CH(NH2)-COOH"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 162,
+      "original_number": 162,
+      "unit": "Macromolecules",
+      "topic": "Polymers and biomolecules",
+      "stem": "Glucose and fructose are common examples of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pentoses"
+        },
+        {
+          "label": "B",
+          "text": "Hexoses"
+        },
+        {
+          "label": "C",
+          "text": "Heptoses"
+        },
+        {
+          "label": "D",
+          "text": "Butoses"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 163,
+      "original_number": 163,
+      "unit": "Macromolecules",
+      "topic": "Polymers and biomolecules",
+      "stem": "The reaction between fats and caustic soda is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hydrogenolysis"
+        },
+        {
+          "label": "B",
+          "text": "Fermentation"
+        },
+        {
+          "label": "C",
+          "text": "Carboxylation"
+        },
+        {
+          "label": "D",
+          "text": "Saponification"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 164,
+      "original_number": 164,
+      "unit": "Macromolecules",
+      "topic": "Polymers and biomolecules",
+      "stem": "Macromolecules are described as large molecules built up from small repeating units known as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Monomers"
+        },
+        {
+          "label": "B",
+          "text": "Isomers"
+        },
+        {
+          "label": "C",
+          "text": "Metameres"
+        },
+        {
+          "label": "D",
+          "text": "Tautomer"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 165,
+      "original_number": 165,
+      "unit": "Macromolecules",
+      "topic": "Polymers and biomolecules",
+      "stem": "Polyvinyl chloride is an example of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Addition polymer"
+        },
+        {
+          "label": "B",
+          "text": "Condensation polymer"
+        },
+        {
+          "label": "C",
+          "text": "Biopolymer"
+        },
+        {
+          "label": "D",
+          "text": "Thermosetting polymer"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 166,
+      "original_number": 166,
+      "unit": "Macromolecules",
+      "topic": "Polymers and biomolecules",
+      "stem": "Terylene, a polyester is an example of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Biopolymer"
+        },
+        {
+          "label": "B",
+          "text": "Lipids"
+        },
+        {
+          "label": "C",
+          "text": "Condensation polymer"
+        },
+        {
+          "label": "D",
+          "text": "Addition polymer"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 167,
+      "original_number": 167,
+      "unit": "Industrial Chemistry",
+      "topic": "Industrial processes and materials",
+      "stem": "The suspected liver carcinogen which also has negative reproduction and developmental effects on humans is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Iodoform"
+        },
+        {
+          "label": "B",
+          "text": "Bromoform"
+        },
+        {
+          "label": "C",
+          "text": "Tropoform"
+        },
+        {
+          "label": "D",
+          "text": "Chloroform"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 168,
+      "original_number": 168,
+      "unit": "Industrial Chemistry",
+      "topic": "Industrial processes and materials",
+      "stem": "Peroxyacetyl nitrate is an irritant to human beings and it effects:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nose"
+        },
+        {
+          "label": "B",
+          "text": "Stomach"
+        },
+        {
+          "label": "C",
+          "text": "Ears"
+        },
+        {
+          "label": "D",
+          "text": "Eyes"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 169,
+      "original_number": 169,
+      "unit": "Force and Motion",
+      "topic": "Kinematics, Newton laws and momentum",
+      "stem": "When the dimensions of both sides of an equation are equal, then the equation is said to be:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Simultaneous"
+        },
+        {
+          "label": "B",
+          "text": "Homogeneous"
+        },
+        {
+          "label": "C",
+          "text": "Instantaneous"
+        },
+        {
+          "label": "D",
+          "text": "Quadratic"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 170,
+      "original_number": 170,
+      "unit": "Force and Motion",
+      "topic": "Kinematics, Newton laws and momentum",
+      "stem": "Radian is a unit of angular displacement that can also be measured in degrees. How many radians are equal to one degree?",
+      "options": [
+        {
+          "label": "A",
+          "text": "180/π"
+        },
+        {
+          "label": "B",
+          "text": "π/180"
+        },
+        {
+          "label": "C",
+          "text": "2π/180"
+        },
+        {
+          "label": "D",
+          "text": "π/57.3"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 171,
+      "original_number": 171,
+      "unit": "Force and Motion",
+      "topic": "Kinematics, Newton laws and momentum",
+      "stem": "An elevator is moving upwards with constant velocity of ‘v’. What is the weight of a person of a mass ‘m’ inside the elevator during upward motion?",
+      "options": [
+        {
+          "label": "A",
+          "text": "mg + mv"
+        },
+        {
+          "label": "B",
+          "text": "mg"
+        },
+        {
+          "label": "C",
+          "text": "mg ― mv"
+        },
+        {
+          "label": "D",
+          "text": "Zero"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 172,
+      "original_number": 172,
+      "unit": "Fluid Dynamics",
+      "topic": "Fluid flow and Bernoulli principle",
+      "stem": "An object having spherical shape of radius ‘r’ experiences a retarding force F from a fluid of coefficient of viscosity ‘η’ when moving through the fluid with speed ‘v’. What is the ratio of retarding force to speed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "6πη r2"
+        },
+        {
+          "label": "B",
+          "text": "6πη/r2"
+        },
+        {
+          "label": "C",
+          "text": "6πη r"
+        },
+        {
+          "label": "D",
+          "text": "6πη/r"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 173,
+      "original_number": 173,
+      "unit": "Force and Motion",
+      "topic": "Kinematics, Newton laws and momentum",
+      "stem": "When the drag force is equal to the weight of the droplet, the droplet will fall with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "High Speed"
+        },
+        {
+          "label": "B",
+          "text": "Low Speed"
+        },
+        {
+          "label": "C",
+          "text": "Certain acceleration"
+        },
+        {
+          "label": "D",
+          "text": "Constant Speed"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 174,
+      "original_number": 174,
+      "unit": "Rotational and Circular Motion",
+      "topic": "Angular motion and torque",
+      "stem": "A simple pendulum length ‘L’ with bob of mass ‘m’ is slightly displaced from its mean position so that it string makes an angle ‘θ’ with vertical line as shown in the figure. Then bob of pendulum released. What will be the expression of torque with which the bob starts to move towards the mean position?",
+      "options": [
+        {
+          "label": "A",
+          "text": "mgL"
+        },
+        {
+          "label": "B",
+          "text": "mgL sin θ"
+        },
+        {
+          "label": "C",
+          "text": "0"
+        },
+        {
+          "label": "D",
+          "text": "mgL cos θ"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 175,
+      "original_number": 175,
+      "unit": "Fluid Dynamics",
+      "topic": "Fluid flow and Bernoulli principle",
+      "stem": "The density of blood is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Less than water"
+        },
+        {
+          "label": "B",
+          "text": "Nearly equal to water"
+        },
+        {
+          "label": "C",
+          "text": "Greater than water"
+        },
+        {
+          "label": "D",
+          "text": "Three times that of water"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 176,
+      "original_number": 176,
+      "unit": "Waves",
+      "topic": "Waves, sound and SHM",
+      "stem": "A monochromatic light of wavelength ‘λ’ is used to produce the diffraction pattern through a single slit of width X. Which one of the following represents the intensity distribution across the screen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Central maximum with decreasing secondary maxima"
+        },
+        {
+          "label": "B",
+          "text": "Uniform brightness everywhere"
+        },
+        {
+          "label": "C",
+          "text": "Alternating dark and bright rings"
+        },
+        {
+          "label": "D",
+          "text": "Single bright line only"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 177,
+      "original_number": 177,
+      "unit": "Waves",
+      "topic": "Waves, sound and SHM",
+      "stem": "For interference of light waves to take place, the required condition is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "The path difference of the light waves from the two sources must be large"
+        },
+        {
+          "label": "B",
+          "text": "The interfering waves must be non-coherent"
+        },
+        {
+          "label": "C",
+          "text": "The light waves may come from different sources"
+        },
+        {
+          "label": "D",
+          "text": "The light waves must come from two coherent sources"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 178,
+      "original_number": 178,
+      "unit": "Waves",
+      "topic": "Waves, sound and SHM",
+      "stem": "The property of bending of light around an obstacle and spreading of light waves into a geometric shadow of an obstacle is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Diffraction of Light"
+        },
+        {
+          "label": "B",
+          "text": "Polarization of Light"
+        },
+        {
+          "label": "C",
+          "text": "Quantization of Light"
+        },
+        {
+          "label": "D",
+          "text": "Interference of Light"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 179,
+      "original_number": 179,
+      "unit": "Waves",
+      "topic": "Waves, sound and SHM",
+      "stem": "The normal human eye can focus a sharp image of an object on the eye if the object is located at certain distance called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Least Point"
+        },
+        {
+          "label": "B",
+          "text": "Near Point"
+        },
+        {
+          "label": "C",
+          "text": "Far Point"
+        },
+        {
+          "label": "D",
+          "text": "Distinct Point"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 180,
+      "original_number": 180,
+      "unit": "Waves",
+      "topic": "Waves, sound and SHM",
+      "stem": "A source of sound wave emits waves of frequency ‘f’. If ‘v’ is speed of sound waves, then what will be the wavelength of the waves:",
+      "options": [
+        {
+          "label": "A",
+          "text": "v/f"
+        },
+        {
+          "label": "B",
+          "text": "vf"
+        },
+        {
+          "label": "C",
+          "text": "(v-uo) / f"
+        },
+        {
+          "label": "D",
+          "text": "(v−uo) f"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 181,
+      "original_number": 181,
+      "unit": "Waves",
+      "topic": "Waves, sound and SHM",
+      "stem": "The spectrum of a star’s light is measured and the wavelength of one of the lines as the sodium’s line is found to be 589 nm. The same line has the wavelength of 497 nm when observed in the laboratory. This means the star is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Moving away from the earth"
+        },
+        {
+          "label": "B",
+          "text": "Moving towards the north"
+        },
+        {
+          "label": "C",
+          "text": "Stationary"
+        },
+        {
+          "label": "D",
+          "text": "Revolving around the planet"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 182,
+      "original_number": 182,
+      "unit": "Waves",
+      "topic": "Waves, sound and SHM",
+      "stem": "What is the period of the mass-spring system during SHM if the ratio of mass to spring constant is ¼?",
+      "options": [
+        {
+          "label": "A",
+          "text": "π"
+        },
+        {
+          "label": "B",
+          "text": "2 π"
+        },
+        {
+          "label": "C",
+          "text": "1/π"
+        },
+        {
+          "label": "D",
+          "text": "½ π"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 183,
+      "original_number": 183,
+      "unit": "Force and Motion",
+      "topic": "Kinematics, Newton laws and momentum",
+      "stem": "The waveform of SHM is given in the figure. At what time/times displacement is equal to zero?",
+      "options": [
+        {
+          "label": "A",
+          "text": "T/4 only"
+        },
+        {
+          "label": "B",
+          "text": "3T/4"
+        },
+        {
+          "label": "C",
+          "text": "0, T/4, 3T/4 and T"
+        },
+        {
+          "label": "D",
+          "text": "0, T/2 and T"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 184,
+      "original_number": 184,
+      "unit": "Waves",
+      "topic": "Waves, sound and SHM",
+      "stem": "A wire is stretched by a force that causes an extension. The energy is stored in it only when:",
+      "options": [
+        {
+          "label": "A",
+          "text": "The extension of wire is proportional to force applied"
+        },
+        {
+          "label": "B",
+          "text": "The cross-section area of the wire remains constant"
+        },
+        {
+          "label": "C",
+          "text": "The wire is not stretched beyond its elastic limit"
+        },
+        {
+          "label": "D",
+          "text": "The weight of wire is negligible"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 185,
+      "original_number": 185,
+      "unit": "Waves",
+      "topic": "Waves, sound and SHM",
+      "stem": "Which of the following statements is correct:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Elasticity is that property of body which enables body to regain its original dimension"
+        },
+        {
+          "label": "B",
+          "text": "Elasticity is that property of a body that does not allow it to return to its original shape"
+        },
+        {
+          "label": "C",
+          "text": "Elasticity is that property of a body that allows it to retain its original shape and dimension after the stress is removed"
+        },
+        {
+          "label": "D",
+          "text": "Elasticity is that property of a body that obeys Hooke’s law"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 186,
+      "original_number": 186,
+      "unit": "Thermodynamics",
+      "topic": "Heat and thermal physics",
+      "stem": "Which of the following is the expression of root mean square speed of a gas having n number of molecules contained in the container?",
+      "options": [
+        {
+          "label": "A",
+          "text": "√(Σv^2 / N)"
+        },
+        {
+          "label": "B",
+          "text": "Σv / N"
+        },
+        {
+          "label": "C",
+          "text": "(Σv / N)^2"
+        },
+        {
+          "label": "D",
+          "text": "√(Σv / N)"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 187,
+      "original_number": 187,
+      "unit": "Thermodynamics",
+      "topic": "Heat and thermal physics",
+      "stem": "For a gas of volume V in its equilibrium state, if the pressure does change with time then total kinetic energy of gas is constant because:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Collisions between gas molecules occur"
+        },
+        {
+          "label": "B",
+          "text": "Collisions between gas molecules occur linearly"
+        },
+        {
+          "label": "C",
+          "text": "Collisions must be elastic"
+        },
+        {
+          "label": "D",
+          "text": "Collisions must be inelastic"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 188,
+      "original_number": 188,
+      "unit": "Electronics",
+      "topic": "Semiconductors and electronic devices",
+      "stem": "Which of the following is the proper way to study the sinusoidal waveform of the voltage?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Voltage is connected to X input and the time base is switched off"
+        },
+        {
+          "label": "B",
+          "text": "Voltage is connected to Y input and the time base is switched on"
+        },
+        {
+          "label": "C",
+          "text": "Voltage is connected to Y input and the time base is switched off"
+        },
+        {
+          "label": "D",
+          "text": "Voltage is connected to X input and the time base is switched on"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 189,
+      "original_number": 189,
+      "unit": "Electrostatics",
+      "topic": "Electric field, potential and capacitance",
+      "stem": "The electron gun in a cathode ray oscilloscope contains:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Filament, cathode, grid, anodes"
+        },
+        {
+          "label": "B",
+          "text": "Cathode, anode, capacitor, screen"
+        },
+        {
+          "label": "C",
+          "text": "Emitter, base, collector"
+        },
+        {
+          "label": "D",
+          "text": "Resistance, capacitor, inductor"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 190,
+      "original_number": 190,
+      "unit": "Thermodynamics",
+      "topic": "Heat and thermal physics",
+      "stem": "In which of the following, the change in internal energy is more?",
+      "options": [
+        {
+          "label": "A",
+          "text": "In system A"
+        },
+        {
+          "label": "B",
+          "text": "In system B"
+        },
+        {
+          "label": "C",
+          "text": "Cannot be predicted"
+        },
+        {
+          "label": "D",
+          "text": "Change is zero in both. (both are cyclic)"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 191,
+      "original_number": 191,
+      "unit": "Thermodynamics",
+      "topic": "Heat and thermal physics",
+      "stem": "Pressure volume graph of two systems 'A' and 'B' are plotted under isothermal and adiabatic conditions. Which of the following observation of graph represents the two systems?",
+      "options": [
+        {
+          "label": "A",
+          "text": "System with steeper slope is adiabatic"
+        },
+        {
+          "label": "B",
+          "text": "System with steeper slope is isothermal"
+        },
+        {
+          "label": "C",
+          "text": "Both have identical slopes"
+        },
+        {
+          "label": "D",
+          "text": "Adiabatic is horizontal"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 192,
+      "original_number": 192,
+      "unit": "Thermodynamics",
+      "topic": "Heat and thermal physics",
+      "stem": "Which of the following curve is an isotherm?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hyperbolic curve at constant temperature"
+        },
+        {
+          "label": "B",
+          "text": "Parabolic curve"
+        },
+        {
+          "label": "C",
+          "text": "Straight vertical line"
+        },
+        {
+          "label": "D",
+          "text": "Horizontal line"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 193,
+      "original_number": 193,
+      "unit": "Current Electricity",
+      "topic": "Circuits and resistance",
+      "stem": "If 2 A current passes through a resistor when connected to a certain battery. If the resistance is replaced by double the resistance, then the current will become:",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 A"
+        },
+        {
+          "label": "B",
+          "text": "4 A"
+        },
+        {
+          "label": "C",
+          "text": "6 A"
+        },
+        {
+          "label": "D",
+          "text": "1 A"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 194,
+      "original_number": 194,
+      "unit": "Waves",
+      "topic": "Waves, sound and SHM",
+      "stem": "In a Helium-Neon laser, population inversion of _ atoms is achieved which emits radiations, when they are stimulated to fall at a lower level.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Neon"
+        },
+        {
+          "label": "B",
+          "text": "Helium"
+        },
+        {
+          "label": "C",
+          "text": "Helium and Neon"
+        },
+        {
+          "label": "D",
+          "text": "Chromium"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 195,
+      "original_number": 195,
+      "unit": "Current Electricity",
+      "topic": "Circuits and resistance",
+      "stem": "Three resistors each having value 'R' are connected as shown in figure. What is the equivalent resistance between 'X' and 'Y'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3R"
+        },
+        {
+          "label": "B",
+          "text": "R"
+        },
+        {
+          "label": "C",
+          "text": "R/3"
+        },
+        {
+          "label": "D",
+          "text": "R3"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 196,
+      "original_number": 196,
+      "unit": "Current Electricity",
+      "topic": "Circuits and resistance",
+      "stem": "If the number of turns of a solenoid circular coil is doubled, but the current in the coil and radius of the coil remain the same, then what will be the magnetic flux density produced by the coil?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Magnetic flux density will be halved"
+        },
+        {
+          "label": "B",
+          "text": "Magnetic flux density increases by different amount at different points"
+        },
+        {
+          "label": "C",
+          "text": "Magnetic flux density remains unchanged"
+        },
+        {
+          "label": "D",
+          "text": "Magnetic flux density will be doubled"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 197,
+      "original_number": 197,
+      "unit": "Current Electricity",
+      "topic": "Circuits and resistance",
+      "stem": "Two long parallel wires Wire 1 and Wire 2 repel each other as shown in the figure. What could be the reasons?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both carry current in same direction"
+        },
+        {
+          "label": "B",
+          "text": "Both carry current in opposite direction"
+        },
+        {
+          "label": "C",
+          "text": "Wire 1 has current, but Wire 2 has no current"
+        },
+        {
+          "label": "D",
+          "text": "Wire 2 has current, Wire 1 has no current"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 198,
+      "original_number": 198,
+      "unit": "Current Electricity",
+      "topic": "Circuits and resistance",
+      "stem": "The diagram shows a wire, carrying a current 'I', placed between the poles of a magnet. In which direction does the force on the wire act?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Upwards"
+        },
+        {
+          "label": "B",
+          "text": "Downwards"
+        },
+        {
+          "label": "C",
+          "text": "Towards the ‘N’ pole of the magnet"
+        },
+        {
+          "label": "D",
+          "text": "Towards the ‘S’ pole of the magnet"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 199,
+      "original_number": 199,
+      "unit": "Waves",
+      "topic": "Waves, sound and SHM",
+      "stem": "Wavelength of X-rays is the order of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "10-6 m"
+        },
+        {
+          "label": "B",
+          "text": "10-10 m"
+        },
+        {
+          "label": "C",
+          "text": "10-13 m"
+        },
+        {
+          "label": "D",
+          "text": "100 m"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 200,
+      "original_number": 200,
+      "unit": "Waves",
+      "topic": "Waves, sound and SHM",
+      "stem": "Laser beam can be used to generate three-dimensional image of object in a process called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Computed technology"
+        },
+        {
+          "label": "B",
+          "text": "Computed tomography"
+        },
+        {
+          "label": "C",
+          "text": "Holography"
+        },
+        {
+          "label": "D",
+          "text": "Computerized axial tomography"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 201,
+      "original_number": 201,
+      "unit": "Waves",
+      "topic": "Waves, sound and SHM",
+      "stem": "Which of the following is true for Lasers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Electrons are emitted"
+        },
+        {
+          "label": "B",
+          "text": "Stimulated emission of electrons is needed"
+        },
+        {
+          "label": "C",
+          "text": "Coherent monochromatic light is emitted"
+        },
+        {
+          "label": "D",
+          "text": "There is a population inversion of photons"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 202,
+      "original_number": 202,
+      "unit": "Current Electricity",
+      "topic": "Circuits and resistance",
+      "stem": "Three resistors of resistance R1, R2, and R3 are connected as shown in the figure.The equivalent resistance is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "R1 + R2 + R3"
+        },
+        {
+          "label": "B",
+          "text": "(R1R2)/(R1+R2) + R3"
+        },
+        {
+          "label": "C",
+          "text": "R1R2R3"
+        },
+        {
+          "label": "D",
+          "text": "1/R1 + 1/R2 + 1/R3"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 203,
+      "original_number": 203,
+      "unit": "Dawn of Modern Physics",
+      "topic": "Photon and quantum physics",
+      "stem": "What is meant by spontaneous emission of electrons in solids?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Electrons being emitted by the solids through photoelectric effect when irradiated with electromagnetic radiation"
+        },
+        {
+          "label": "B",
+          "text": "Incident electrons colliding with electrons in solids and releasing doubling the number of incident electrons"
+        },
+        {
+          "label": "C",
+          "text": "Electrons in solids are emitted without any external stimulus through radiation"
+        },
+        {
+          "label": "D",
+          "text": "Excited electrons going back to lower energy states immediately by releasing energy."
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 204,
+      "original_number": 204,
+      "unit": "Dawn of Modern Physics",
+      "topic": "Photon and quantum physics",
+      "stem": "When electrons lose all their kinetic energy in the first collision, the entire kinetic appears as an X-ray photon of energy:",
+      "options": [
+        {
+          "label": "A",
+          "text": "K.E. = eV"
+        },
+        {
+          "label": "B",
+          "text": "K.E. = hλmin/c"
+        },
+        {
+          "label": "C",
+          "text": "K.E. = hc/λmin"
+        },
+        {
+          "label": "D",
+          "text": "K.E. = h/λmax"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 205,
+      "original_number": 205,
+      "unit": "Dawn of Modern Physics",
+      "topic": "Photon and quantum physics",
+      "stem": "The characteristic X-ray spectrum is due to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "The absorption of neutrons by target material"
+        },
+        {
+          "label": "B",
+          "text": "The bombardment of target material by protons"
+        },
+        {
+          "label": "C",
+          "text": "The bombardment of target material by electrons"
+        },
+        {
+          "label": "D",
+          "text": "The bombardment of target material by alpha particles"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 206,
+      "original_number": 206,
+      "unit": "Nuclear Physics",
+      "topic": "Radioactivity and nuclear decay",
+      "stem": "The ionizing capability of gamma rays is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Equal to alpha and beta particle"
+        },
+        {
+          "label": "B",
+          "text": "Less than alpha but greater than beta particles"
+        },
+        {
+          "label": "C",
+          "text": "Less than both alpha and beta particles"
+        },
+        {
+          "label": "D",
+          "text": "Less than beta but greater than alpha particles"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 207,
+      "original_number": 207,
+      "unit": "Nuclear Physics",
+      "topic": "Radioactivity and nuclear decay",
+      "stem": "The half-life of a radioactive element is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inversely proportional to square of decay constant"
+        },
+        {
+          "label": "B",
+          "text": "Directly proportional to square of decay constant"
+        },
+        {
+          "label": "C",
+          "text": "Directly proportional to decay constant"
+        },
+        {
+          "label": "D",
+          "text": "Inversely proportional to decay constant"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 208,
+      "original_number": 208,
+      "unit": "Nuclear Physics",
+      "topic": "Radioactivity and nuclear decay",
+      "stem": "The transformation of a neutron into proton in the nucleus, gives rise to emission of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Beta particles"
+        },
+        {
+          "label": "B",
+          "text": "Gamma particles"
+        },
+        {
+          "label": "C",
+          "text": "Alpha particles"
+        },
+        {
+          "label": "D",
+          "text": "X-rays"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 209,
+      "original_number": 209,
+      "unit": "Nuclear Physics",
+      "topic": "Radioactivity and nuclear decay",
+      "stem": "The ratio of the rate of decay of a parent atom to the number of radioactive nuclei present at that time is equal to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Half-life of radioactive element"
+        },
+        {
+          "label": "B",
+          "text": "Mean life"
+        },
+        {
+          "label": "C",
+          "text": "Decay constant of radioactive element"
+        },
+        {
+          "label": "D",
+          "text": "Activity of radioactive element"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 210,
+      "original_number": 210,
+      "unit": "Nuclear Physics",
+      "topic": "Radioactivity and nuclear decay",
+      "stem": "Which one of the following particles is emitted as a result of the following nuclear reaction?Ra226 → Rn222",
+      "options": [
+        {
+          "label": "A",
+          "text": "Beta"
+        },
+        {
+          "label": "B",
+          "text": "Alpha"
+        },
+        {
+          "label": "C",
+          "text": "Gamma rays"
+        },
+        {
+          "label": "D",
+          "text": "One alpha and one beta"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 211,
+      "original_number": 211,
+      "unit": "Nuclear Physics",
+      "topic": "Radioactivity and nuclear decay",
+      "stem": "Which of the following is used to estimate the circulation of blood in a patient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carbon-14"
+        },
+        {
+          "label": "B",
+          "text": "Carbon-12"
+        },
+        {
+          "label": "C",
+          "text": "Phosphorus-3"
+        },
+        {
+          "label": "D",
+          "text": "Sodium-24"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 212,
+      "original_number": 212,
+      "unit": "Nuclear Physics",
+      "topic": "Radioactivity and nuclear decay",
+      "stem": "For the radiotherapy of a patient, it is required to double the absorbed dose in gray. What step must be taken?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Energy must be quadrated"
+        },
+        {
+          "label": "B",
+          "text": "Energy must be halved"
+        },
+        {
+          "label": "C",
+          "text": "Energy must be raised four times"
+        },
+        {
+          "label": "D",
+          "text": "Energy must be doubled"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 213,
+      "original_number": 213,
+      "unit": "Reading and Thinking Skills",
+      "topic": "Grammar, vocabulary, comprehension",
+      "stem": "The authorities have _ that the plane to Beirut was hijacked over the Indian Ocean.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Assured"
+        },
+        {
+          "label": "B",
+          "text": "Confirmed"
+        },
+        {
+          "label": "C",
+          "text": "Committed"
+        },
+        {
+          "label": "D",
+          "text": "Ensured"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 214,
+      "original_number": 214,
+      "unit": "Reading and Thinking Skills",
+      "topic": "Grammar, vocabulary, comprehension",
+      "stem": "She has let _ her house fully furnished to a Korean couple.",
+      "options": [
+        {
+          "label": "A",
+          "text": "out"
+        },
+        {
+          "label": "B",
+          "text": "at"
+        },
+        {
+          "label": "C",
+          "text": "up"
+        },
+        {
+          "label": "D",
+          "text": "in"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 215,
+      "original_number": 215,
+      "unit": "Reading and Thinking Skills",
+      "topic": "Grammar, vocabulary, comprehension",
+      "stem": "I have no _ to listen to the budget speech.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trouble"
+        },
+        {
+          "label": "B",
+          "text": "Convenience"
+        },
+        {
+          "label": "C",
+          "text": "Patience"
+        },
+        {
+          "label": "D",
+          "text": "Perseverance"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 216,
+      "original_number": 216,
+      "unit": "Reading and Thinking Skills",
+      "topic": "Grammar, vocabulary, comprehension",
+      "stem": "Your _ too long you had better go to the hairdresser today:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hair is"
+        },
+        {
+          "label": "B",
+          "text": "Hair are"
+        },
+        {
+          "label": "C",
+          "text": "Hairs are"
+        },
+        {
+          "label": "D",
+          "text": "Hairs is"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 217,
+      "original_number": 217,
+      "unit": "Reading and Thinking Skills",
+      "topic": "Grammar, vocabulary, comprehension",
+      "stem": "Change the voice of the statement;\"Work hard.\"",
+      "options": [
+        {
+          "label": "A",
+          "text": "Let the work be hard"
+        },
+        {
+          "label": "B",
+          "text": "Work be hard"
+        },
+        {
+          "label": "C",
+          "text": "Let you work be hard"
+        },
+        {
+          "label": "D",
+          "text": "You are advised to work hard"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 218,
+      "original_number": 218,
+      "unit": "Reading and Thinking Skills",
+      "topic": "Grammar, vocabulary, comprehension",
+      "stem": "Convert into Passive Voice\"She spoke to the official on duty.\"",
+      "options": [
+        {
+          "label": "A",
+          "text": "The official on duty was spoken to by her."
+        },
+        {
+          "label": "B",
+          "text": "The official was spoken to by her on duty."
+        },
+        {
+          "label": "C",
+          "text": "She was spoken to by the official on duty."
+        },
+        {
+          "label": "D",
+          "text": "She was the official to be spoken to on duty."
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 219,
+      "original_number": 219,
+      "unit": "Reading and Thinking Skills",
+      "topic": "Grammar, vocabulary, comprehension",
+      "stem": "Convert into Passive Voice;\"The doctor advised the patient not to eat rice.\"",
+      "options": [
+        {
+          "label": "A",
+          "text": "The patient was advised by the doctor not to eat rice."
+        },
+        {
+          "label": "B",
+          "text": "The patient was advised by the doctor that he should not eat rice."
+        },
+        {
+          "label": "C",
+          "text": "The patient was being advised by the doctor that he should not rice by the doctor."
+        },
+        {
+          "label": "D",
+          "text": "The patient has been advised not to eat rice by the doctor."
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 220,
+      "original_number": 220,
+      "unit": "Reading and Thinking Skills",
+      "topic": "Grammar, vocabulary, comprehension",
+      "stem": "Convert into Passive Voice;''I cannot accept your offer.\"",
+      "options": [
+        {
+          "label": "A",
+          "text": "Your offer cannot be accepted by me."
+        },
+        {
+          "label": "B",
+          "text": "I cannot be accepted by your offer."
+        },
+        {
+          "label": "C",
+          "text": "The offer cannot be accepted by me."
+        },
+        {
+          "label": "D",
+          "text": "Your offer cannot be accepted."
+        }
+      ],
+      "subject": "English"
+    }
+  ]
+}

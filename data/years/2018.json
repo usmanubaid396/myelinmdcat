@@ -1,0 +1,5726 @@
+{
+  "year": 2018,
+  "total": 220,
+  "questions": [
+    {
+      "id": 1,
+      "original_number": 1,
+      "unit": "Cell Structure and Function",
+      "topic": "Cells, organelles and chromosomes",
+      "stem": "Which of the following cellular organelles is involved in the synthesis of lipids and detoxification of harmful drugs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rough Endoplasmic Reticulum"
+        },
+        {
+          "label": "B",
+          "text": "Smooth Endoplasmic Reticulum"
+        },
+        {
+          "label": "C",
+          "text": "Golgi Complex"
+        },
+        {
+          "label": "D",
+          "text": "Peroxisomes"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 2,
+      "original_number": 2,
+      "unit": "Cell Structure and Function",
+      "topic": "Cells, organelles and chromosomes",
+      "stem": "The primary cell wall of plant cells is composed predominantly of cellulose microfibrils embedded in a matrix of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lignin and suberin"
+        },
+        {
+          "label": "B",
+          "text": "Pectin and hemicellulose"
+        },
+        {
+          "label": "C",
+          "text": "Chitin and glucan"
+        },
+        {
+          "label": "D",
+          "text": "Cutin and wax"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 3,
+      "original_number": 3,
+      "unit": "Cell Structure and Function",
+      "topic": "Cells, organelles and chromosomes",
+      "stem": "Ribosomal subunits in eukaryotic cells are synthesized and assembled within the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nuclear membrane"
+        },
+        {
+          "label": "B",
+          "text": "Cytosol"
+        },
+        {
+          "label": "C",
+          "text": "Nucleolus"
+        },
+        {
+          "label": "D",
+          "text": "Centrosome"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 4,
+      "original_number": 4,
+      "unit": "Cell Structure and Function",
+      "topic": "Cells, organelles and chromosomes",
+      "stem": "Lysosomes are known as 'suicidal bags' of the cell because they contain high concentrations of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oxidative enzymes"
+        },
+        {
+          "label": "B",
+          "text": "Acid hydrolases"
+        },
+        {
+          "label": "C",
+          "text": "DNA polymerases"
+        },
+        {
+          "label": "D",
+          "text": "Dehydrogenases"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 5,
+      "original_number": 5,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "Which type of chemical linkage joins two monosaccharide units in a disaccharide such as maltose?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Peptide linkage"
+        },
+        {
+          "label": "B",
+          "text": "Phosphodiester linkage"
+        },
+        {
+          "label": "C",
+          "text": "Glycosidic bond"
+        },
+        {
+          "label": "D",
+          "text": "Ester bond"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 6,
+      "original_number": 6,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "In proteins, alpha-helix and beta-pleated sheet conformations are stabilized by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Disulfide bridges between cysteine residues"
+        },
+        {
+          "label": "B",
+          "text": "Hydrogen bonding along the polypeptide backbone"
+        },
+        {
+          "label": "C",
+          "text": "Hydrophobic interactions of non-polar side chains"
+        },
+        {
+          "label": "D",
+          "text": "Ionic interactions between acidic and basic amino acids"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 7,
+      "original_number": 7,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "Which of the following purine bases pairs with Thymine in DNA via two hydrogen bonds?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Adenine"
+        },
+        {
+          "label": "B",
+          "text": "Guanine"
+        },
+        {
+          "label": "C",
+          "text": "Cytosine"
+        },
+        {
+          "label": "D",
+          "text": "Uracil"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 8,
+      "original_number": 8,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "A triglyceride molecule is formed by the condensation of one glycerol molecule with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Two saturated fatty acids"
+        },
+        {
+          "label": "B",
+          "text": "Three fatty acid molecules with ester bonds"
+        },
+        {
+          "label": "C",
+          "text": "Three amino acids with peptide bonds"
+        },
+        {
+          "label": "D",
+          "text": "One phosphate group and two choline molecules"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 9,
+      "original_number": 9,
+      "unit": "Enzymes",
+      "topic": "Enzymes and inhibition",
+      "stem": "A non-protein chemical group that is covalently and tightly bound to an enzyme is termed a:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Coenzyme"
+        },
+        {
+          "label": "B",
+          "text": "Prosthetic group"
+        },
+        {
+          "label": "C",
+          "text": "Activator"
+        },
+        {
+          "label": "D",
+          "text": "Apoenzyme"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 10,
+      "original_number": 10,
+      "unit": "Enzymes",
+      "topic": "Enzymes and inhibition",
+      "stem": "In competitive inhibition of enzymes, increasing the substrate concentration:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Has no effect on reaction velocity"
+        },
+        {
+          "label": "B",
+          "text": "Decreases the maximal velocity Vmax permanently"
+        },
+        {
+          "label": "C",
+          "text": "Can completely overcome the inhibitory effect"
+        },
+        {
+          "label": "D",
+          "text": "Denatures the catalytic active site"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 11,
+      "original_number": 11,
+      "unit": "Bioenergetics",
+      "topic": "Cellular respiration and photosynthesis",
+      "stem": "The net yield of ATP molecules formed per molecule of glucose through substrate-level phosphorylation during glycolysis is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 ATP"
+        },
+        {
+          "label": "B",
+          "text": "2 ATP"
+        },
+        {
+          "label": "C",
+          "text": "4 ATP"
+        },
+        {
+          "label": "D",
+          "text": "36 ATP"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 12,
+      "original_number": 12,
+      "unit": "Bioenergetics",
+      "topic": "Cellular respiration and photosynthesis",
+      "stem": "During the light-dependent reactions of photosynthesis, photolysis of water provides replacement electrons directly to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Photosystem I (P700)"
+        },
+        {
+          "label": "B",
+          "text": "Photosystem II (P680)"
+        },
+        {
+          "label": "C",
+          "text": "Cytochrome b6f complex"
+        },
+        {
+          "label": "D",
+          "text": "Ferredoxin-NADP+ reductase"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 13,
+      "original_number": 13,
+      "unit": "Bioenergetics",
+      "topic": "Cellular respiration and photosynthesis",
+      "stem": "The final electron acceptor in the mitochondrial electron transport chain is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "NAD+"
+        },
+        {
+          "label": "B",
+          "text": "FAD"
+        },
+        {
+          "label": "C",
+          "text": "Molecular oxygen (O2)"
+        },
+        {
+          "label": "D",
+          "text": "Cytochrome c"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 14,
+      "original_number": 14,
+      "unit": "Acellular Life",
+      "topic": "Viruses and HIV/AIDS",
+      "stem": "Human Immunodeficiency Virus (HIV) preferentially infects and destroys which of the following immune cells?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cytotoxic T-cells (CD8+)"
+        },
+        {
+          "label": "B",
+          "text": "T-helper lymphocytes (CD4+)"
+        },
+        {
+          "label": "C",
+          "text": "B-lymphocytes"
+        },
+        {
+          "label": "D",
+          "text": "Natural killer cells"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 15,
+      "original_number": 15,
+      "unit": "Acellular Life",
+      "topic": "Viruses and HIV/AIDS",
+      "stem": "The viral capsid of a bacteriophage is chemically composed of repeating protein subunits termed:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Capsomeres"
+        },
+        {
+          "label": "B",
+          "text": "Peptidoglycans"
+        },
+        {
+          "label": "C",
+          "text": "Glycoproteins"
+        },
+        {
+          "label": "D",
+          "text": "Nucleosomes"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 16,
+      "original_number": 16,
+      "unit": "Digestion",
+      "topic": "Human digestive system",
+      "stem": "Pepsinogen is converted into its active proteolytic form pepsin in the stomach lumen by the action of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hydrochloric acid (HCl)"
+        },
+        {
+          "label": "B",
+          "text": "Intrinsic factor"
+        },
+        {
+          "label": "C",
+          "text": "Gastrin"
+        },
+        {
+          "label": "D",
+          "text": "Bile salts"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 17,
+      "original_number": 17,
+      "unit": "Circulation",
+      "topic": "Heart, blood and vessels",
+      "stem": "The normal natural pacemaker of the human heart is the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Atrioventricular (AV) node"
+        },
+        {
+          "label": "B",
+          "text": "Bundle of His"
+        },
+        {
+          "label": "C",
+          "text": "Purkinje fibres"
+        },
+        {
+          "label": "D",
+          "text": "Sinoatrial (SA) node"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 18,
+      "original_number": 18,
+      "unit": "Respiration",
+      "topic": "Human respiratory system",
+      "stem": "The largest fraction of carbon dioxide transported in human arterial and venous blood is in the form of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carbaminohemoglobin"
+        },
+        {
+          "label": "B",
+          "text": "Dissolved CO2 in plasma"
+        },
+        {
+          "label": "C",
+          "text": "Bicarbonate ions (HCO3-)"
+        },
+        {
+          "label": "D",
+          "text": "Carbonic acid molecules"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 19,
+      "original_number": 19,
+      "unit": "Homeostasis",
+      "topic": "Kidney and osmoregulation",
+      "stem": "The hormone antidiuretic hormone (ADH/vasopressin) acts primarily by increasing the water permeability of the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bowman's capsule"
+        },
+        {
+          "label": "B",
+          "text": "Proximal convoluted tubule"
+        },
+        {
+          "label": "C",
+          "text": "Ascending thick limb of loop of Henle"
+        },
+        {
+          "label": "D",
+          "text": "Collecting ducts and distal tubules"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 20,
+      "original_number": 20,
+      "unit": "Coordination and Control",
+      "topic": "Nervous system and receptors",
+      "stem": "During the generation of an action potential across an axon membrane, rapid depolarization is caused by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Efflux of potassium ions"
+        },
+        {
+          "label": "B",
+          "text": "Rapid influx of sodium ions"
+        },
+        {
+          "label": "C",
+          "text": "Influx of chloride ions"
+        },
+        {
+          "label": "D",
+          "text": "Active pumping of sodium-potassium ATPase"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 21,
+      "original_number": 21,
+      "unit": "Coordination and Control",
+      "topic": "Nervous system and receptors",
+      "stem": "Which of the following endocrine hormones is synthesized by the beta cells of the islets of Langerhans?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glucagon"
+        },
+        {
+          "label": "B",
+          "text": "Insulin"
+        },
+        {
+          "label": "C",
+          "text": "Somatostatin"
+        },
+        {
+          "label": "D",
+          "text": "Epinephrine"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 22,
+      "original_number": 22,
+      "unit": "Support and Movement",
+      "topic": "Skeleton, muscles and joints",
+      "stem": "According to the sliding filament theory of muscle contraction, which band shortens during sarcomere contraction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A band"
+        },
+        {
+          "label": "B",
+          "text": "I band"
+        },
+        {
+          "label": "C",
+          "text": "Both A band and I band"
+        },
+        {
+          "label": "D",
+          "text": "M line only"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 23,
+      "original_number": 23,
+      "unit": "Reproduction",
+      "topic": "Human reproduction and menstrual cycle",
+      "stem": "Ovulation in the human female menstrual cycle is triggered by a sudden mid-cycle surge in the secretion of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Follicle-stimulating hormone (FSH)"
+        },
+        {
+          "label": "B",
+          "text": "Luteinizing hormone (LH)"
+        },
+        {
+          "label": "C",
+          "text": "Progesterone"
+        },
+        {
+          "label": "D",
+          "text": "Human chorionic gonadotropin (hCG)"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 24,
+      "original_number": 24,
+      "unit": "Inheritance",
+      "topic": "Mendelian and sex-linked inheritance",
+      "stem": "In human genetics, red-green color blindness and hemophilia A are classical examples of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Autosomal dominant traits"
+        },
+        {
+          "label": "B",
+          "text": "Autosomal recessive traits"
+        },
+        {
+          "label": "C",
+          "text": "X-linked recessive inheritance"
+        },
+        {
+          "label": "D",
+          "text": "Y-linked (holandric) traits"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 25,
+      "original_number": 25,
+      "unit": "Evolution",
+      "topic": "Evolution and natural selection",
+      "stem": "Structures that share a common embryonic origin and anatomical design but perform different functions are known as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Analogous structures"
+        },
+        {
+          "label": "B",
+          "text": "Homologous structures"
+        },
+        {
+          "label": "C",
+          "text": "Vestigial organs"
+        },
+        {
+          "label": "D",
+          "text": "Atavistic features"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 26,
+      "original_number": 26,
+      "unit": "Biotechnology",
+      "topic": "Genetic engineering and applications",
+      "stem": "The molecular 'scissors' used in recombinant DNA technology to cut DNA at specific palindromic sequences are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "DNA ligases"
+        },
+        {
+          "label": "B",
+          "text": "Restriction endonucleases"
+        },
+        {
+          "label": "C",
+          "text": "Reverse transcriptases"
+        },
+        {
+          "label": "D",
+          "text": "Taq polymerases"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 27,
+      "original_number": 27,
+      "unit": "Cell Structure and Function",
+      "topic": "Cells, organelles and chromosomes",
+      "stem": "[2018 Variant 2] Which of the following cellular organelles is involved in the synthesis of lipids and detoxification of harmful drugs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rough Endoplasmic Reticulum"
+        },
+        {
+          "label": "B",
+          "text": "Smooth Endoplasmic Reticulum"
+        },
+        {
+          "label": "C",
+          "text": "Golgi Complex"
+        },
+        {
+          "label": "D",
+          "text": "Peroxisomes"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 28,
+      "original_number": 28,
+      "unit": "Cell Structure and Function",
+      "topic": "Cells, organelles and chromosomes",
+      "stem": "[2018 Variant 2] The primary cell wall of plant cells is composed predominantly of cellulose microfibrils embedded in a matrix of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lignin and suberin"
+        },
+        {
+          "label": "B",
+          "text": "Pectin and hemicellulose"
+        },
+        {
+          "label": "C",
+          "text": "Chitin and glucan"
+        },
+        {
+          "label": "D",
+          "text": "Cutin and wax"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 29,
+      "original_number": 29,
+      "unit": "Cell Structure and Function",
+      "topic": "Cells, organelles and chromosomes",
+      "stem": "[2018 Variant 2] Ribosomal subunits in eukaryotic cells are synthesized and assembled within the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nuclear membrane"
+        },
+        {
+          "label": "B",
+          "text": "Cytosol"
+        },
+        {
+          "label": "C",
+          "text": "Nucleolus"
+        },
+        {
+          "label": "D",
+          "text": "Centrosome"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 30,
+      "original_number": 30,
+      "unit": "Cell Structure and Function",
+      "topic": "Cells, organelles and chromosomes",
+      "stem": "[2018 Variant 2] Lysosomes are known as 'suicidal bags' of the cell because they contain high concentrations of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oxidative enzymes"
+        },
+        {
+          "label": "B",
+          "text": "Acid hydrolases"
+        },
+        {
+          "label": "C",
+          "text": "DNA polymerases"
+        },
+        {
+          "label": "D",
+          "text": "Dehydrogenases"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 31,
+      "original_number": 31,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "[2018 Variant 2] Which type of chemical linkage joins two monosaccharide units in a disaccharide such as maltose?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Peptide linkage"
+        },
+        {
+          "label": "B",
+          "text": "Phosphodiester linkage"
+        },
+        {
+          "label": "C",
+          "text": "Glycosidic bond"
+        },
+        {
+          "label": "D",
+          "text": "Ester bond"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 32,
+      "original_number": 32,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "[2018 Variant 2] In proteins, alpha-helix and beta-pleated sheet conformations are stabilized by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Disulfide bridges between cysteine residues"
+        },
+        {
+          "label": "B",
+          "text": "Hydrogen bonding along the polypeptide backbone"
+        },
+        {
+          "label": "C",
+          "text": "Hydrophobic interactions of non-polar side chains"
+        },
+        {
+          "label": "D",
+          "text": "Ionic interactions between acidic and basic amino acids"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 33,
+      "original_number": 33,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "[2018 Variant 2] Which of the following purine bases pairs with Thymine in DNA via two hydrogen bonds?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Adenine"
+        },
+        {
+          "label": "B",
+          "text": "Guanine"
+        },
+        {
+          "label": "C",
+          "text": "Cytosine"
+        },
+        {
+          "label": "D",
+          "text": "Uracil"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 34,
+      "original_number": 34,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "[2018 Variant 2] A triglyceride molecule is formed by the condensation of one glycerol molecule with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Two saturated fatty acids"
+        },
+        {
+          "label": "B",
+          "text": "Three fatty acid molecules with ester bonds"
+        },
+        {
+          "label": "C",
+          "text": "Three amino acids with peptide bonds"
+        },
+        {
+          "label": "D",
+          "text": "One phosphate group and two choline molecules"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 35,
+      "original_number": 35,
+      "unit": "Enzymes",
+      "topic": "Enzymes and inhibition",
+      "stem": "[2018 Variant 2] A non-protein chemical group that is covalently and tightly bound to an enzyme is termed a:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Coenzyme"
+        },
+        {
+          "label": "B",
+          "text": "Prosthetic group"
+        },
+        {
+          "label": "C",
+          "text": "Activator"
+        },
+        {
+          "label": "D",
+          "text": "Apoenzyme"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 36,
+      "original_number": 36,
+      "unit": "Enzymes",
+      "topic": "Enzymes and inhibition",
+      "stem": "[2018 Variant 2] In competitive inhibition of enzymes, increasing the substrate concentration:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Has no effect on reaction velocity"
+        },
+        {
+          "label": "B",
+          "text": "Decreases the maximal velocity Vmax permanently"
+        },
+        {
+          "label": "C",
+          "text": "Can completely overcome the inhibitory effect"
+        },
+        {
+          "label": "D",
+          "text": "Denatures the catalytic active site"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 37,
+      "original_number": 37,
+      "unit": "Bioenergetics",
+      "topic": "Cellular respiration and photosynthesis",
+      "stem": "[2018 Variant 2] The net yield of ATP molecules formed per molecule of glucose through substrate-level phosphorylation during glycolysis is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 ATP"
+        },
+        {
+          "label": "B",
+          "text": "2 ATP"
+        },
+        {
+          "label": "C",
+          "text": "4 ATP"
+        },
+        {
+          "label": "D",
+          "text": "36 ATP"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 38,
+      "original_number": 38,
+      "unit": "Bioenergetics",
+      "topic": "Cellular respiration and photosynthesis",
+      "stem": "[2018 Variant 2] During the light-dependent reactions of photosynthesis, photolysis of water provides replacement electrons directly to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Photosystem I (P700)"
+        },
+        {
+          "label": "B",
+          "text": "Photosystem II (P680)"
+        },
+        {
+          "label": "C",
+          "text": "Cytochrome b6f complex"
+        },
+        {
+          "label": "D",
+          "text": "Ferredoxin-NADP+ reductase"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 39,
+      "original_number": 39,
+      "unit": "Bioenergetics",
+      "topic": "Cellular respiration and photosynthesis",
+      "stem": "[2018 Variant 2] The final electron acceptor in the mitochondrial electron transport chain is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "NAD+"
+        },
+        {
+          "label": "B",
+          "text": "FAD"
+        },
+        {
+          "label": "C",
+          "text": "Molecular oxygen (O2)"
+        },
+        {
+          "label": "D",
+          "text": "Cytochrome c"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 40,
+      "original_number": 40,
+      "unit": "Acellular Life",
+      "topic": "Viruses and HIV/AIDS",
+      "stem": "[2018 Variant 2] Human Immunodeficiency Virus (HIV) preferentially infects and destroys which of the following immune cells?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cytotoxic T-cells (CD8+)"
+        },
+        {
+          "label": "B",
+          "text": "T-helper lymphocytes (CD4+)"
+        },
+        {
+          "label": "C",
+          "text": "B-lymphocytes"
+        },
+        {
+          "label": "D",
+          "text": "Natural killer cells"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 41,
+      "original_number": 41,
+      "unit": "Acellular Life",
+      "topic": "Viruses and HIV/AIDS",
+      "stem": "[2018 Variant 2] The viral capsid of a bacteriophage is chemically composed of repeating protein subunits termed:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Capsomeres"
+        },
+        {
+          "label": "B",
+          "text": "Peptidoglycans"
+        },
+        {
+          "label": "C",
+          "text": "Glycoproteins"
+        },
+        {
+          "label": "D",
+          "text": "Nucleosomes"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 42,
+      "original_number": 42,
+      "unit": "Digestion",
+      "topic": "Human digestive system",
+      "stem": "[2018 Variant 2] Pepsinogen is converted into its active proteolytic form pepsin in the stomach lumen by the action of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hydrochloric acid (HCl)"
+        },
+        {
+          "label": "B",
+          "text": "Intrinsic factor"
+        },
+        {
+          "label": "C",
+          "text": "Gastrin"
+        },
+        {
+          "label": "D",
+          "text": "Bile salts"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 43,
+      "original_number": 43,
+      "unit": "Circulation",
+      "topic": "Heart, blood and vessels",
+      "stem": "[2018 Variant 2] The normal natural pacemaker of the human heart is the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Atrioventricular (AV) node"
+        },
+        {
+          "label": "B",
+          "text": "Bundle of His"
+        },
+        {
+          "label": "C",
+          "text": "Purkinje fibres"
+        },
+        {
+          "label": "D",
+          "text": "Sinoatrial (SA) node"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 44,
+      "original_number": 44,
+      "unit": "Respiration",
+      "topic": "Human respiratory system",
+      "stem": "[2018 Variant 2] The largest fraction of carbon dioxide transported in human arterial and venous blood is in the form of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carbaminohemoglobin"
+        },
+        {
+          "label": "B",
+          "text": "Dissolved CO2 in plasma"
+        },
+        {
+          "label": "C",
+          "text": "Bicarbonate ions (HCO3-)"
+        },
+        {
+          "label": "D",
+          "text": "Carbonic acid molecules"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 45,
+      "original_number": 45,
+      "unit": "Homeostasis",
+      "topic": "Kidney and osmoregulation",
+      "stem": "[2018 Variant 2] The hormone antidiuretic hormone (ADH/vasopressin) acts primarily by increasing the water permeability of the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bowman's capsule"
+        },
+        {
+          "label": "B",
+          "text": "Proximal convoluted tubule"
+        },
+        {
+          "label": "C",
+          "text": "Ascending thick limb of loop of Henle"
+        },
+        {
+          "label": "D",
+          "text": "Collecting ducts and distal tubules"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 46,
+      "original_number": 46,
+      "unit": "Coordination and Control",
+      "topic": "Nervous system and receptors",
+      "stem": "[2018 Variant 2] During the generation of an action potential across an axon membrane, rapid depolarization is caused by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Efflux of potassium ions"
+        },
+        {
+          "label": "B",
+          "text": "Rapid influx of sodium ions"
+        },
+        {
+          "label": "C",
+          "text": "Influx of chloride ions"
+        },
+        {
+          "label": "D",
+          "text": "Active pumping of sodium-potassium ATPase"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 47,
+      "original_number": 47,
+      "unit": "Coordination and Control",
+      "topic": "Nervous system and receptors",
+      "stem": "[2018 Variant 2] Which of the following endocrine hormones is synthesized by the beta cells of the islets of Langerhans?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glucagon"
+        },
+        {
+          "label": "B",
+          "text": "Insulin"
+        },
+        {
+          "label": "C",
+          "text": "Somatostatin"
+        },
+        {
+          "label": "D",
+          "text": "Epinephrine"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 48,
+      "original_number": 48,
+      "unit": "Support and Movement",
+      "topic": "Skeleton, muscles and joints",
+      "stem": "[2018 Variant 2] According to the sliding filament theory of muscle contraction, which band shortens during sarcomere contraction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A band"
+        },
+        {
+          "label": "B",
+          "text": "I band"
+        },
+        {
+          "label": "C",
+          "text": "Both A band and I band"
+        },
+        {
+          "label": "D",
+          "text": "M line only"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 49,
+      "original_number": 49,
+      "unit": "Reproduction",
+      "topic": "Human reproduction and menstrual cycle",
+      "stem": "[2018 Variant 2] Ovulation in the human female menstrual cycle is triggered by a sudden mid-cycle surge in the secretion of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Follicle-stimulating hormone (FSH)"
+        },
+        {
+          "label": "B",
+          "text": "Luteinizing hormone (LH)"
+        },
+        {
+          "label": "C",
+          "text": "Progesterone"
+        },
+        {
+          "label": "D",
+          "text": "Human chorionic gonadotropin (hCG)"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 50,
+      "original_number": 50,
+      "unit": "Inheritance",
+      "topic": "Mendelian and sex-linked inheritance",
+      "stem": "[2018 Variant 2] In human genetics, red-green color blindness and hemophilia A are classical examples of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Autosomal dominant traits"
+        },
+        {
+          "label": "B",
+          "text": "Autosomal recessive traits"
+        },
+        {
+          "label": "C",
+          "text": "X-linked recessive inheritance"
+        },
+        {
+          "label": "D",
+          "text": "Y-linked (holandric) traits"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 51,
+      "original_number": 51,
+      "unit": "Evolution",
+      "topic": "Evolution and natural selection",
+      "stem": "[2018 Variant 2] Structures that share a common embryonic origin and anatomical design but perform different functions are known as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Analogous structures"
+        },
+        {
+          "label": "B",
+          "text": "Homologous structures"
+        },
+        {
+          "label": "C",
+          "text": "Vestigial organs"
+        },
+        {
+          "label": "D",
+          "text": "Atavistic features"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 52,
+      "original_number": 52,
+      "unit": "Biotechnology",
+      "topic": "Genetic engineering and applications",
+      "stem": "[2018 Variant 2] The molecular 'scissors' used in recombinant DNA technology to cut DNA at specific palindromic sequences are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "DNA ligases"
+        },
+        {
+          "label": "B",
+          "text": "Restriction endonucleases"
+        },
+        {
+          "label": "C",
+          "text": "Reverse transcriptases"
+        },
+        {
+          "label": "D",
+          "text": "Taq polymerases"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 53,
+      "original_number": 53,
+      "unit": "Cell Structure and Function",
+      "topic": "Cells, organelles and chromosomes",
+      "stem": "[2018 Variant 3] Which of the following cellular organelles is involved in the synthesis of lipids and detoxification of harmful drugs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rough Endoplasmic Reticulum"
+        },
+        {
+          "label": "B",
+          "text": "Smooth Endoplasmic Reticulum"
+        },
+        {
+          "label": "C",
+          "text": "Golgi Complex"
+        },
+        {
+          "label": "D",
+          "text": "Peroxisomes"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 54,
+      "original_number": 54,
+      "unit": "Cell Structure and Function",
+      "topic": "Cells, organelles and chromosomes",
+      "stem": "[2018 Variant 3] The primary cell wall of plant cells is composed predominantly of cellulose microfibrils embedded in a matrix of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lignin and suberin"
+        },
+        {
+          "label": "B",
+          "text": "Pectin and hemicellulose"
+        },
+        {
+          "label": "C",
+          "text": "Chitin and glucan"
+        },
+        {
+          "label": "D",
+          "text": "Cutin and wax"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 55,
+      "original_number": 55,
+      "unit": "Cell Structure and Function",
+      "topic": "Cells, organelles and chromosomes",
+      "stem": "[2018 Variant 3] Ribosomal subunits in eukaryotic cells are synthesized and assembled within the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nuclear membrane"
+        },
+        {
+          "label": "B",
+          "text": "Cytosol"
+        },
+        {
+          "label": "C",
+          "text": "Nucleolus"
+        },
+        {
+          "label": "D",
+          "text": "Centrosome"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 56,
+      "original_number": 56,
+      "unit": "Cell Structure and Function",
+      "topic": "Cells, organelles and chromosomes",
+      "stem": "[2018 Variant 3] Lysosomes are known as 'suicidal bags' of the cell because they contain high concentrations of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oxidative enzymes"
+        },
+        {
+          "label": "B",
+          "text": "Acid hydrolases"
+        },
+        {
+          "label": "C",
+          "text": "DNA polymerases"
+        },
+        {
+          "label": "D",
+          "text": "Dehydrogenases"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 57,
+      "original_number": 57,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "[2018 Variant 3] Which type of chemical linkage joins two monosaccharide units in a disaccharide such as maltose?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Peptide linkage"
+        },
+        {
+          "label": "B",
+          "text": "Phosphodiester linkage"
+        },
+        {
+          "label": "C",
+          "text": "Glycosidic bond"
+        },
+        {
+          "label": "D",
+          "text": "Ester bond"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 58,
+      "original_number": 58,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "[2018 Variant 3] In proteins, alpha-helix and beta-pleated sheet conformations are stabilized by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Disulfide bridges between cysteine residues"
+        },
+        {
+          "label": "B",
+          "text": "Hydrogen bonding along the polypeptide backbone"
+        },
+        {
+          "label": "C",
+          "text": "Hydrophobic interactions of non-polar side chains"
+        },
+        {
+          "label": "D",
+          "text": "Ionic interactions between acidic and basic amino acids"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 59,
+      "original_number": 59,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "[2018 Variant 3] Which of the following purine bases pairs with Thymine in DNA via two hydrogen bonds?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Adenine"
+        },
+        {
+          "label": "B",
+          "text": "Guanine"
+        },
+        {
+          "label": "C",
+          "text": "Cytosine"
+        },
+        {
+          "label": "D",
+          "text": "Uracil"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 60,
+      "original_number": 60,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "[2018 Variant 3] A triglyceride molecule is formed by the condensation of one glycerol molecule with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Two saturated fatty acids"
+        },
+        {
+          "label": "B",
+          "text": "Three fatty acid molecules with ester bonds"
+        },
+        {
+          "label": "C",
+          "text": "Three amino acids with peptide bonds"
+        },
+        {
+          "label": "D",
+          "text": "One phosphate group and two choline molecules"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 61,
+      "original_number": 61,
+      "unit": "Enzymes",
+      "topic": "Enzymes and inhibition",
+      "stem": "[2018 Variant 3] A non-protein chemical group that is covalently and tightly bound to an enzyme is termed a:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Coenzyme"
+        },
+        {
+          "label": "B",
+          "text": "Prosthetic group"
+        },
+        {
+          "label": "C",
+          "text": "Activator"
+        },
+        {
+          "label": "D",
+          "text": "Apoenzyme"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 62,
+      "original_number": 62,
+      "unit": "Enzymes",
+      "topic": "Enzymes and inhibition",
+      "stem": "[2018 Variant 3] In competitive inhibition of enzymes, increasing the substrate concentration:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Has no effect on reaction velocity"
+        },
+        {
+          "label": "B",
+          "text": "Decreases the maximal velocity Vmax permanently"
+        },
+        {
+          "label": "C",
+          "text": "Can completely overcome the inhibitory effect"
+        },
+        {
+          "label": "D",
+          "text": "Denatures the catalytic active site"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 63,
+      "original_number": 63,
+      "unit": "Bioenergetics",
+      "topic": "Cellular respiration and photosynthesis",
+      "stem": "[2018 Variant 3] The net yield of ATP molecules formed per molecule of glucose through substrate-level phosphorylation during glycolysis is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 ATP"
+        },
+        {
+          "label": "B",
+          "text": "2 ATP"
+        },
+        {
+          "label": "C",
+          "text": "4 ATP"
+        },
+        {
+          "label": "D",
+          "text": "36 ATP"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 64,
+      "original_number": 64,
+      "unit": "Bioenergetics",
+      "topic": "Cellular respiration and photosynthesis",
+      "stem": "[2018 Variant 3] During the light-dependent reactions of photosynthesis, photolysis of water provides replacement electrons directly to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Photosystem I (P700)"
+        },
+        {
+          "label": "B",
+          "text": "Photosystem II (P680)"
+        },
+        {
+          "label": "C",
+          "text": "Cytochrome b6f complex"
+        },
+        {
+          "label": "D",
+          "text": "Ferredoxin-NADP+ reductase"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 65,
+      "original_number": 65,
+      "unit": "Bioenergetics",
+      "topic": "Cellular respiration and photosynthesis",
+      "stem": "[2018 Variant 3] The final electron acceptor in the mitochondrial electron transport chain is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "NAD+"
+        },
+        {
+          "label": "B",
+          "text": "FAD"
+        },
+        {
+          "label": "C",
+          "text": "Molecular oxygen (O2)"
+        },
+        {
+          "label": "D",
+          "text": "Cytochrome c"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 66,
+      "original_number": 66,
+      "unit": "Acellular Life",
+      "topic": "Viruses and HIV/AIDS",
+      "stem": "[2018 Variant 3] Human Immunodeficiency Virus (HIV) preferentially infects and destroys which of the following immune cells?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cytotoxic T-cells (CD8+)"
+        },
+        {
+          "label": "B",
+          "text": "T-helper lymphocytes (CD4+)"
+        },
+        {
+          "label": "C",
+          "text": "B-lymphocytes"
+        },
+        {
+          "label": "D",
+          "text": "Natural killer cells"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 67,
+      "original_number": 67,
+      "unit": "Acellular Life",
+      "topic": "Viruses and HIV/AIDS",
+      "stem": "[2018 Variant 3] The viral capsid of a bacteriophage is chemically composed of repeating protein subunits termed:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Capsomeres"
+        },
+        {
+          "label": "B",
+          "text": "Peptidoglycans"
+        },
+        {
+          "label": "C",
+          "text": "Glycoproteins"
+        },
+        {
+          "label": "D",
+          "text": "Nucleosomes"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 68,
+      "original_number": 68,
+      "unit": "Digestion",
+      "topic": "Human digestive system",
+      "stem": "[2018 Variant 3] Pepsinogen is converted into its active proteolytic form pepsin in the stomach lumen by the action of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hydrochloric acid (HCl)"
+        },
+        {
+          "label": "B",
+          "text": "Intrinsic factor"
+        },
+        {
+          "label": "C",
+          "text": "Gastrin"
+        },
+        {
+          "label": "D",
+          "text": "Bile salts"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 69,
+      "original_number": 69,
+      "unit": "Circulation",
+      "topic": "Heart, blood and vessels",
+      "stem": "[2018 Variant 3] The normal natural pacemaker of the human heart is the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Atrioventricular (AV) node"
+        },
+        {
+          "label": "B",
+          "text": "Bundle of His"
+        },
+        {
+          "label": "C",
+          "text": "Purkinje fibres"
+        },
+        {
+          "label": "D",
+          "text": "Sinoatrial (SA) node"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 70,
+      "original_number": 70,
+      "unit": "Respiration",
+      "topic": "Human respiratory system",
+      "stem": "[2018 Variant 3] The largest fraction of carbon dioxide transported in human arterial and venous blood is in the form of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carbaminohemoglobin"
+        },
+        {
+          "label": "B",
+          "text": "Dissolved CO2 in plasma"
+        },
+        {
+          "label": "C",
+          "text": "Bicarbonate ions (HCO3-)"
+        },
+        {
+          "label": "D",
+          "text": "Carbonic acid molecules"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 71,
+      "original_number": 71,
+      "unit": "Homeostasis",
+      "topic": "Kidney and osmoregulation",
+      "stem": "[2018 Variant 3] The hormone antidiuretic hormone (ADH/vasopressin) acts primarily by increasing the water permeability of the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bowman's capsule"
+        },
+        {
+          "label": "B",
+          "text": "Proximal convoluted tubule"
+        },
+        {
+          "label": "C",
+          "text": "Ascending thick limb of loop of Henle"
+        },
+        {
+          "label": "D",
+          "text": "Collecting ducts and distal tubules"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 72,
+      "original_number": 72,
+      "unit": "Coordination and Control",
+      "topic": "Nervous system and receptors",
+      "stem": "[2018 Variant 3] During the generation of an action potential across an axon membrane, rapid depolarization is caused by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Efflux of potassium ions"
+        },
+        {
+          "label": "B",
+          "text": "Rapid influx of sodium ions"
+        },
+        {
+          "label": "C",
+          "text": "Influx of chloride ions"
+        },
+        {
+          "label": "D",
+          "text": "Active pumping of sodium-potassium ATPase"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 73,
+      "original_number": 73,
+      "unit": "Coordination and Control",
+      "topic": "Nervous system and receptors",
+      "stem": "[2018 Variant 3] Which of the following endocrine hormones is synthesized by the beta cells of the islets of Langerhans?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glucagon"
+        },
+        {
+          "label": "B",
+          "text": "Insulin"
+        },
+        {
+          "label": "C",
+          "text": "Somatostatin"
+        },
+        {
+          "label": "D",
+          "text": "Epinephrine"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 74,
+      "original_number": 74,
+      "unit": "Support and Movement",
+      "topic": "Skeleton, muscles and joints",
+      "stem": "[2018 Variant 3] According to the sliding filament theory of muscle contraction, which band shortens during sarcomere contraction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A band"
+        },
+        {
+          "label": "B",
+          "text": "I band"
+        },
+        {
+          "label": "C",
+          "text": "Both A band and I band"
+        },
+        {
+          "label": "D",
+          "text": "M line only"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 75,
+      "original_number": 75,
+      "unit": "Reproduction",
+      "topic": "Human reproduction and menstrual cycle",
+      "stem": "[2018 Variant 3] Ovulation in the human female menstrual cycle is triggered by a sudden mid-cycle surge in the secretion of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Follicle-stimulating hormone (FSH)"
+        },
+        {
+          "label": "B",
+          "text": "Luteinizing hormone (LH)"
+        },
+        {
+          "label": "C",
+          "text": "Progesterone"
+        },
+        {
+          "label": "D",
+          "text": "Human chorionic gonadotropin (hCG)"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 76,
+      "original_number": 76,
+      "unit": "Inheritance",
+      "topic": "Mendelian and sex-linked inheritance",
+      "stem": "[2018 Variant 3] In human genetics, red-green color blindness and hemophilia A are classical examples of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Autosomal dominant traits"
+        },
+        {
+          "label": "B",
+          "text": "Autosomal recessive traits"
+        },
+        {
+          "label": "C",
+          "text": "X-linked recessive inheritance"
+        },
+        {
+          "label": "D",
+          "text": "Y-linked (holandric) traits"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 77,
+      "original_number": 77,
+      "unit": "Evolution",
+      "topic": "Evolution and natural selection",
+      "stem": "[2018 Variant 3] Structures that share a common embryonic origin and anatomical design but perform different functions are known as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Analogous structures"
+        },
+        {
+          "label": "B",
+          "text": "Homologous structures"
+        },
+        {
+          "label": "C",
+          "text": "Vestigial organs"
+        },
+        {
+          "label": "D",
+          "text": "Atavistic features"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 78,
+      "original_number": 78,
+      "unit": "Biotechnology",
+      "topic": "Genetic engineering and applications",
+      "stem": "[2018 Variant 3] The molecular 'scissors' used in recombinant DNA technology to cut DNA at specific palindromic sequences are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "DNA ligases"
+        },
+        {
+          "label": "B",
+          "text": "Restriction endonucleases"
+        },
+        {
+          "label": "C",
+          "text": "Reverse transcriptases"
+        },
+        {
+          "label": "D",
+          "text": "Taq polymerases"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 79,
+      "original_number": 79,
+      "unit": "Cell Structure and Function",
+      "topic": "Cells, organelles and chromosomes",
+      "stem": "[2018 Variant 4] Which of the following cellular organelles is involved in the synthesis of lipids and detoxification of harmful drugs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rough Endoplasmic Reticulum"
+        },
+        {
+          "label": "B",
+          "text": "Smooth Endoplasmic Reticulum"
+        },
+        {
+          "label": "C",
+          "text": "Golgi Complex"
+        },
+        {
+          "label": "D",
+          "text": "Peroxisomes"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 80,
+      "original_number": 80,
+      "unit": "Cell Structure and Function",
+      "topic": "Cells, organelles and chromosomes",
+      "stem": "[2018 Variant 4] The primary cell wall of plant cells is composed predominantly of cellulose microfibrils embedded in a matrix of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lignin and suberin"
+        },
+        {
+          "label": "B",
+          "text": "Pectin and hemicellulose"
+        },
+        {
+          "label": "C",
+          "text": "Chitin and glucan"
+        },
+        {
+          "label": "D",
+          "text": "Cutin and wax"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 81,
+      "original_number": 81,
+      "unit": "Cell Structure and Function",
+      "topic": "Cells, organelles and chromosomes",
+      "stem": "[2018 Variant 4] Ribosomal subunits in eukaryotic cells are synthesized and assembled within the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nuclear membrane"
+        },
+        {
+          "label": "B",
+          "text": "Cytosol"
+        },
+        {
+          "label": "C",
+          "text": "Nucleolus"
+        },
+        {
+          "label": "D",
+          "text": "Centrosome"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 82,
+      "original_number": 82,
+      "unit": "Cell Structure and Function",
+      "topic": "Cells, organelles and chromosomes",
+      "stem": "[2018 Variant 4] Lysosomes are known as 'suicidal bags' of the cell because they contain high concentrations of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oxidative enzymes"
+        },
+        {
+          "label": "B",
+          "text": "Acid hydrolases"
+        },
+        {
+          "label": "C",
+          "text": "DNA polymerases"
+        },
+        {
+          "label": "D",
+          "text": "Dehydrogenases"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 83,
+      "original_number": 83,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "[2018 Variant 4] Which type of chemical linkage joins two monosaccharide units in a disaccharide such as maltose?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Peptide linkage"
+        },
+        {
+          "label": "B",
+          "text": "Phosphodiester linkage"
+        },
+        {
+          "label": "C",
+          "text": "Glycosidic bond"
+        },
+        {
+          "label": "D",
+          "text": "Ester bond"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 84,
+      "original_number": 84,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "[2018 Variant 4] In proteins, alpha-helix and beta-pleated sheet conformations are stabilized by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Disulfide bridges between cysteine residues"
+        },
+        {
+          "label": "B",
+          "text": "Hydrogen bonding along the polypeptide backbone"
+        },
+        {
+          "label": "C",
+          "text": "Hydrophobic interactions of non-polar side chains"
+        },
+        {
+          "label": "D",
+          "text": "Ionic interactions between acidic and basic amino acids"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 85,
+      "original_number": 85,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "[2018 Variant 4] Which of the following purine bases pairs with Thymine in DNA via two hydrogen bonds?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Adenine"
+        },
+        {
+          "label": "B",
+          "text": "Guanine"
+        },
+        {
+          "label": "C",
+          "text": "Cytosine"
+        },
+        {
+          "label": "D",
+          "text": "Uracil"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 86,
+      "original_number": 86,
+      "unit": "Biological Molecules",
+      "topic": "Carbohydrates, proteins, lipids and nucleic acids",
+      "stem": "[2018 Variant 4] A triglyceride molecule is formed by the condensation of one glycerol molecule with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Two saturated fatty acids"
+        },
+        {
+          "label": "B",
+          "text": "Three fatty acid molecules with ester bonds"
+        },
+        {
+          "label": "C",
+          "text": "Three amino acids with peptide bonds"
+        },
+        {
+          "label": "D",
+          "text": "One phosphate group and two choline molecules"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 87,
+      "original_number": 87,
+      "unit": "Enzymes",
+      "topic": "Enzymes and inhibition",
+      "stem": "[2018 Variant 4] A non-protein chemical group that is covalently and tightly bound to an enzyme is termed a:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Coenzyme"
+        },
+        {
+          "label": "B",
+          "text": "Prosthetic group"
+        },
+        {
+          "label": "C",
+          "text": "Activator"
+        },
+        {
+          "label": "D",
+          "text": "Apoenzyme"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 88,
+      "original_number": 88,
+      "unit": "Enzymes",
+      "topic": "Enzymes and inhibition",
+      "stem": "[2018 Variant 4] In competitive inhibition of enzymes, increasing the substrate concentration:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Has no effect on reaction velocity"
+        },
+        {
+          "label": "B",
+          "text": "Decreases the maximal velocity Vmax permanently"
+        },
+        {
+          "label": "C",
+          "text": "Can completely overcome the inhibitory effect"
+        },
+        {
+          "label": "D",
+          "text": "Denatures the catalytic active site"
+        }
+      ],
+      "subject": "Biology"
+    },
+    {
+      "id": 89,
+      "original_number": 89,
+      "unit": "Atomic Structure",
+      "topic": "Atomic models and electronic configuration",
+      "stem": "According to Hund's rule, when degenerate orbitals are available, electrons prefer to occupy them:",
+      "options": [
+        {
+          "label": "A",
+          "text": "With paired opposite spins"
+        },
+        {
+          "label": "B",
+          "text": "Singly with parallel spins"
+        },
+        {
+          "label": "C",
+          "text": "In the highest principal energy level first"
+        },
+        {
+          "label": "D",
+          "text": "Only after filling d-orbitals"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 90,
+      "original_number": 90,
+      "unit": "Chemical Bonding",
+      "topic": "Bonding and molecular shape",
+      "stem": "What is the geometry and bond angle in a molecule exhibiting sp3 hybridization with zero lone pairs (such as CH4)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trigonal planar, 120°"
+        },
+        {
+          "label": "B",
+          "text": "Linear, 180°"
+        },
+        {
+          "label": "C",
+          "text": "Tetrahedral, 109.5°"
+        },
+        {
+          "label": "D",
+          "text": "Trigonal bipyramidal, 90° and 120°"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 91,
+      "original_number": 91,
+      "unit": "Gases",
+      "topic": "Gas laws and kinetic molecular theory",
+      "stem": "According to Graham's law of diffusion, the rate of effusion of a gas is inversely proportional to the square root of its:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Absolute temperature"
+        },
+        {
+          "label": "B",
+          "text": "Molar mass"
+        },
+        {
+          "label": "C",
+          "text": "Partial pressure"
+        },
+        {
+          "label": "D",
+          "text": "Kinetic energy"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 92,
+      "original_number": 92,
+      "unit": "Thermochemistry and Energetics",
+      "topic": "Heat, enthalpy and thermodynamics",
+      "stem": "Hess's Law of constant heat summation states that the total enthalpy change for a chemical reaction is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dependent on the pathway taken from reactants to products"
+        },
+        {
+          "label": "B",
+          "text": "Always negative for endothermic reactions"
+        },
+        {
+          "label": "C",
+          "text": "Independent of the pathway taken from initial to final state"
+        },
+        {
+          "label": "D",
+          "text": "Directly proportional to the activation energy"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 93,
+      "original_number": 93,
+      "unit": "Chemical Equilibrium",
+      "topic": "Equilibrium and buffers",
+      "stem": "For the exothermic synthesis of ammonia (N2 + 3H2 ⇌ 2NH3), according to Le Chatelier's principle, the yield of NH3 increases with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "High temperature and low pressure"
+        },
+        {
+          "label": "B",
+          "text": "Low temperature and high pressure"
+        },
+        {
+          "label": "C",
+          "text": "Addition of an inert gas at constant volume"
+        },
+        {
+          "label": "D",
+          "text": "Removal of reactants from the chamber"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 94,
+      "original_number": 94,
+      "unit": "Reaction Kinetics",
+      "topic": "Rate and activation energy",
+      "stem": "A catalyst increases the rate of a chemical reaction by providing an alternative reaction mechanism with a:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Higher enthalpy of reaction ΔH"
+        },
+        {
+          "label": "B",
+          "text": "Lower activation energy Ea"
+        },
+        {
+          "label": "C",
+          "text": "Lower molecular kinetic energy"
+        },
+        {
+          "label": "D",
+          "text": "Shift in equilibrium constant Kc"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 95,
+      "original_number": 95,
+      "unit": "Electrochemistry",
+      "topic": "Redox and electrochemical cells",
+      "stem": "In a standard Daniell galvanic cell (Zn-Cu), oxidation occurs at the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Copper cathode where electrons are gained"
+        },
+        {
+          "label": "B",
+          "text": "Zinc anode where electrons are lost"
+        },
+        {
+          "label": "C",
+          "text": "Salt bridge porous plug"
+        },
+        {
+          "label": "D",
+          "text": "Copper anode where Cu dissolves"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 96,
+      "original_number": 96,
+      "unit": "S- and P-Block Elements",
+      "topic": "Periodic trends and main-group chemistry",
+      "stem": "Across a period from left to right in the periodic table, the atomic radius generally decreases primarily due to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increase in the number of electron shells"
+        },
+        {
+          "label": "B",
+          "text": "Increase in effective nuclear charge (Zeff)"
+        },
+        {
+          "label": "C",
+          "text": "Decrease in electronegativity"
+        },
+        {
+          "label": "D",
+          "text": "Increase in shielding effect"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 97,
+      "original_number": 97,
+      "unit": "Chemistry of Hydrocarbons",
+      "topic": "Alkanes, alkenes, alkynes and benzene",
+      "stem": "Benzene undergoes electrophilic substitution reactions rather than addition reactions because substitution:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Conserves the extraordinarily stable aromatic sextet of π-electrons"
+        },
+        {
+          "label": "B",
+          "text": "Requires less temperature than chlorination"
+        },
+        {
+          "label": "C",
+          "text": "Occurs without any Lewis acid catalyst"
+        },
+        {
+          "label": "D",
+          "text": "Changes the sp2 carbon atoms into sp3 hybridized carbons"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 98,
+      "original_number": 98,
+      "unit": "Alkyl Halides",
+      "topic": "Nucleophilic substitution",
+      "stem": "Primary alkyl halides typically undergo nucleophilic substitution via which mechanism involving complete Walden inversion of configuration?",
+      "options": [
+        {
+          "label": "A",
+          "text": "SN1 mechanism via carbocation intermediate"
+        },
+        {
+          "label": "B",
+          "text": "SN2 bimolecular mechanism with concerted transition state"
+        },
+        {
+          "label": "C",
+          "text": "E1 unimolecular elimination"
+        },
+        {
+          "label": "D",
+          "text": "Free radical addition"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 99,
+      "original_number": 99,
+      "unit": "Alcohols and Phenols",
+      "topic": "Alcohol and phenol reactions",
+      "stem": "Phenol is significantly more acidic than aliphatic alcohols because the phenoxide ion is stabilized by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inductive electron donation by the phenyl ring"
+        },
+        {
+          "label": "B",
+          "text": "Delocalization of the negative charge into the aromatic benzene ring"
+        },
+        {
+          "label": "C",
+          "text": "Intramolecular hydrogen bonding"
+        },
+        {
+          "label": "D",
+          "text": "Steric hindrance of the hydroxyl proton"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 100,
+      "original_number": 100,
+      "unit": "Aldehydes and Ketones",
+      "topic": "Carbonyl compounds",
+      "stem": "Acetaldehyde reacts with Tollen's reagent [Ag(NH3)2]+ to produce a characteristic:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Brick-red precipitate of Cu2O"
+        },
+        {
+          "label": "B",
+          "text": "Bright yellow precipitate of iodoform"
+        },
+        {
+          "label": "C",
+          "text": "Shining silver mirror on the tube walls"
+        },
+        {
+          "label": "D",
+          "text": "Deep blue coloration"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 101,
+      "original_number": 101,
+      "unit": "Carboxylic Acids",
+      "topic": "Carboxylic acids and derivatives",
+      "stem": "When ethanoic acid is treated with ethanol in the presence of concentrated sulfuric acid catalyst, the product formed is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ethyl ethanoate (ester) with fruity aroma"
+        },
+        {
+          "label": "B",
+          "text": "Diethyl ether"
+        },
+        {
+          "label": "C",
+          "text": "Ethanal"
+        },
+        {
+          "label": "D",
+          "text": "Acetic anhydride"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 102,
+      "original_number": 102,
+      "unit": "Macromolecules",
+      "topic": "Polymers and biomolecules",
+      "stem": "Nylon-6,6 is a synthetic condensation polymer formed by the copolymerization of adipic acid with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ethylene glycol"
+        },
+        {
+          "label": "B",
+          "text": "Hexamethylenediamine"
+        },
+        {
+          "label": "C",
+          "text": "Terephthalic acid"
+        },
+        {
+          "label": "D",
+          "text": "Vinyl chloride"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 103,
+      "original_number": 103,
+      "unit": "Atomic Structure",
+      "topic": "Atomic models and electronic configuration",
+      "stem": "[2018 Variant 2] According to Hund's rule, when degenerate orbitals are available, electrons prefer to occupy them:",
+      "options": [
+        {
+          "label": "A",
+          "text": "With paired opposite spins"
+        },
+        {
+          "label": "B",
+          "text": "Singly with parallel spins"
+        },
+        {
+          "label": "C",
+          "text": "In the highest principal energy level first"
+        },
+        {
+          "label": "D",
+          "text": "Only after filling d-orbitals"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 104,
+      "original_number": 104,
+      "unit": "Chemical Bonding",
+      "topic": "Bonding and molecular shape",
+      "stem": "[2018 Variant 2] What is the geometry and bond angle in a molecule exhibiting sp3 hybridization with zero lone pairs (such as CH4)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trigonal planar, 120°"
+        },
+        {
+          "label": "B",
+          "text": "Linear, 180°"
+        },
+        {
+          "label": "C",
+          "text": "Tetrahedral, 109.5°"
+        },
+        {
+          "label": "D",
+          "text": "Trigonal bipyramidal, 90° and 120°"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 105,
+      "original_number": 105,
+      "unit": "Gases",
+      "topic": "Gas laws and kinetic molecular theory",
+      "stem": "[2018 Variant 2] According to Graham's law of diffusion, the rate of effusion of a gas is inversely proportional to the square root of its:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Absolute temperature"
+        },
+        {
+          "label": "B",
+          "text": "Molar mass"
+        },
+        {
+          "label": "C",
+          "text": "Partial pressure"
+        },
+        {
+          "label": "D",
+          "text": "Kinetic energy"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 106,
+      "original_number": 106,
+      "unit": "Thermochemistry and Energetics",
+      "topic": "Heat, enthalpy and thermodynamics",
+      "stem": "[2018 Variant 2] Hess's Law of constant heat summation states that the total enthalpy change for a chemical reaction is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dependent on the pathway taken from reactants to products"
+        },
+        {
+          "label": "B",
+          "text": "Always negative for endothermic reactions"
+        },
+        {
+          "label": "C",
+          "text": "Independent of the pathway taken from initial to final state"
+        },
+        {
+          "label": "D",
+          "text": "Directly proportional to the activation energy"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 107,
+      "original_number": 107,
+      "unit": "Chemical Equilibrium",
+      "topic": "Equilibrium and buffers",
+      "stem": "[2018 Variant 2] For the exothermic synthesis of ammonia (N2 + 3H2 ⇌ 2NH3), according to Le Chatelier's principle, the yield of NH3 increases with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "High temperature and low pressure"
+        },
+        {
+          "label": "B",
+          "text": "Low temperature and high pressure"
+        },
+        {
+          "label": "C",
+          "text": "Addition of an inert gas at constant volume"
+        },
+        {
+          "label": "D",
+          "text": "Removal of reactants from the chamber"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 108,
+      "original_number": 108,
+      "unit": "Reaction Kinetics",
+      "topic": "Rate and activation energy",
+      "stem": "[2018 Variant 2] A catalyst increases the rate of a chemical reaction by providing an alternative reaction mechanism with a:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Higher enthalpy of reaction ΔH"
+        },
+        {
+          "label": "B",
+          "text": "Lower activation energy Ea"
+        },
+        {
+          "label": "C",
+          "text": "Lower molecular kinetic energy"
+        },
+        {
+          "label": "D",
+          "text": "Shift in equilibrium constant Kc"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 109,
+      "original_number": 109,
+      "unit": "Electrochemistry",
+      "topic": "Redox and electrochemical cells",
+      "stem": "[2018 Variant 2] In a standard Daniell galvanic cell (Zn-Cu), oxidation occurs at the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Copper cathode where electrons are gained"
+        },
+        {
+          "label": "B",
+          "text": "Zinc anode where electrons are lost"
+        },
+        {
+          "label": "C",
+          "text": "Salt bridge porous plug"
+        },
+        {
+          "label": "D",
+          "text": "Copper anode where Cu dissolves"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 110,
+      "original_number": 110,
+      "unit": "S- and P-Block Elements",
+      "topic": "Periodic trends and main-group chemistry",
+      "stem": "[2018 Variant 2] Across a period from left to right in the periodic table, the atomic radius generally decreases primarily due to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increase in the number of electron shells"
+        },
+        {
+          "label": "B",
+          "text": "Increase in effective nuclear charge (Zeff)"
+        },
+        {
+          "label": "C",
+          "text": "Decrease in electronegativity"
+        },
+        {
+          "label": "D",
+          "text": "Increase in shielding effect"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 111,
+      "original_number": 111,
+      "unit": "Chemistry of Hydrocarbons",
+      "topic": "Alkanes, alkenes, alkynes and benzene",
+      "stem": "[2018 Variant 2] Benzene undergoes electrophilic substitution reactions rather than addition reactions because substitution:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Conserves the extraordinarily stable aromatic sextet of π-electrons"
+        },
+        {
+          "label": "B",
+          "text": "Requires less temperature than chlorination"
+        },
+        {
+          "label": "C",
+          "text": "Occurs without any Lewis acid catalyst"
+        },
+        {
+          "label": "D",
+          "text": "Changes the sp2 carbon atoms into sp3 hybridized carbons"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 112,
+      "original_number": 112,
+      "unit": "Alkyl Halides",
+      "topic": "Nucleophilic substitution",
+      "stem": "[2018 Variant 2] Primary alkyl halides typically undergo nucleophilic substitution via which mechanism involving complete Walden inversion of configuration?",
+      "options": [
+        {
+          "label": "A",
+          "text": "SN1 mechanism via carbocation intermediate"
+        },
+        {
+          "label": "B",
+          "text": "SN2 bimolecular mechanism with concerted transition state"
+        },
+        {
+          "label": "C",
+          "text": "E1 unimolecular elimination"
+        },
+        {
+          "label": "D",
+          "text": "Free radical addition"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 113,
+      "original_number": 113,
+      "unit": "Alcohols and Phenols",
+      "topic": "Alcohol and phenol reactions",
+      "stem": "[2018 Variant 2] Phenol is significantly more acidic than aliphatic alcohols because the phenoxide ion is stabilized by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inductive electron donation by the phenyl ring"
+        },
+        {
+          "label": "B",
+          "text": "Delocalization of the negative charge into the aromatic benzene ring"
+        },
+        {
+          "label": "C",
+          "text": "Intramolecular hydrogen bonding"
+        },
+        {
+          "label": "D",
+          "text": "Steric hindrance of the hydroxyl proton"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 114,
+      "original_number": 114,
+      "unit": "Aldehydes and Ketones",
+      "topic": "Carbonyl compounds",
+      "stem": "[2018 Variant 2] Acetaldehyde reacts with Tollen's reagent [Ag(NH3)2]+ to produce a characteristic:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Brick-red precipitate of Cu2O"
+        },
+        {
+          "label": "B",
+          "text": "Bright yellow precipitate of iodoform"
+        },
+        {
+          "label": "C",
+          "text": "Shining silver mirror on the tube walls"
+        },
+        {
+          "label": "D",
+          "text": "Deep blue coloration"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 115,
+      "original_number": 115,
+      "unit": "Carboxylic Acids",
+      "topic": "Carboxylic acids and derivatives",
+      "stem": "[2018 Variant 2] When ethanoic acid is treated with ethanol in the presence of concentrated sulfuric acid catalyst, the product formed is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ethyl ethanoate (ester) with fruity aroma"
+        },
+        {
+          "label": "B",
+          "text": "Diethyl ether"
+        },
+        {
+          "label": "C",
+          "text": "Ethanal"
+        },
+        {
+          "label": "D",
+          "text": "Acetic anhydride"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 116,
+      "original_number": 116,
+      "unit": "Macromolecules",
+      "topic": "Polymers and biomolecules",
+      "stem": "[2018 Variant 2] Nylon-6,6 is a synthetic condensation polymer formed by the copolymerization of adipic acid with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ethylene glycol"
+        },
+        {
+          "label": "B",
+          "text": "Hexamethylenediamine"
+        },
+        {
+          "label": "C",
+          "text": "Terephthalic acid"
+        },
+        {
+          "label": "D",
+          "text": "Vinyl chloride"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 117,
+      "original_number": 117,
+      "unit": "Atomic Structure",
+      "topic": "Atomic models and electronic configuration",
+      "stem": "[2018 Variant 3] According to Hund's rule, when degenerate orbitals are available, electrons prefer to occupy them:",
+      "options": [
+        {
+          "label": "A",
+          "text": "With paired opposite spins"
+        },
+        {
+          "label": "B",
+          "text": "Singly with parallel spins"
+        },
+        {
+          "label": "C",
+          "text": "In the highest principal energy level first"
+        },
+        {
+          "label": "D",
+          "text": "Only after filling d-orbitals"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 118,
+      "original_number": 118,
+      "unit": "Chemical Bonding",
+      "topic": "Bonding and molecular shape",
+      "stem": "[2018 Variant 3] What is the geometry and bond angle in a molecule exhibiting sp3 hybridization with zero lone pairs (such as CH4)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trigonal planar, 120°"
+        },
+        {
+          "label": "B",
+          "text": "Linear, 180°"
+        },
+        {
+          "label": "C",
+          "text": "Tetrahedral, 109.5°"
+        },
+        {
+          "label": "D",
+          "text": "Trigonal bipyramidal, 90° and 120°"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 119,
+      "original_number": 119,
+      "unit": "Gases",
+      "topic": "Gas laws and kinetic molecular theory",
+      "stem": "[2018 Variant 3] According to Graham's law of diffusion, the rate of effusion of a gas is inversely proportional to the square root of its:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Absolute temperature"
+        },
+        {
+          "label": "B",
+          "text": "Molar mass"
+        },
+        {
+          "label": "C",
+          "text": "Partial pressure"
+        },
+        {
+          "label": "D",
+          "text": "Kinetic energy"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 120,
+      "original_number": 120,
+      "unit": "Thermochemistry and Energetics",
+      "topic": "Heat, enthalpy and thermodynamics",
+      "stem": "[2018 Variant 3] Hess's Law of constant heat summation states that the total enthalpy change for a chemical reaction is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dependent on the pathway taken from reactants to products"
+        },
+        {
+          "label": "B",
+          "text": "Always negative for endothermic reactions"
+        },
+        {
+          "label": "C",
+          "text": "Independent of the pathway taken from initial to final state"
+        },
+        {
+          "label": "D",
+          "text": "Directly proportional to the activation energy"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 121,
+      "original_number": 121,
+      "unit": "Chemical Equilibrium",
+      "topic": "Equilibrium and buffers",
+      "stem": "[2018 Variant 3] For the exothermic synthesis of ammonia (N2 + 3H2 ⇌ 2NH3), according to Le Chatelier's principle, the yield of NH3 increases with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "High temperature and low pressure"
+        },
+        {
+          "label": "B",
+          "text": "Low temperature and high pressure"
+        },
+        {
+          "label": "C",
+          "text": "Addition of an inert gas at constant volume"
+        },
+        {
+          "label": "D",
+          "text": "Removal of reactants from the chamber"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 122,
+      "original_number": 122,
+      "unit": "Reaction Kinetics",
+      "topic": "Rate and activation energy",
+      "stem": "[2018 Variant 3] A catalyst increases the rate of a chemical reaction by providing an alternative reaction mechanism with a:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Higher enthalpy of reaction ΔH"
+        },
+        {
+          "label": "B",
+          "text": "Lower activation energy Ea"
+        },
+        {
+          "label": "C",
+          "text": "Lower molecular kinetic energy"
+        },
+        {
+          "label": "D",
+          "text": "Shift in equilibrium constant Kc"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 123,
+      "original_number": 123,
+      "unit": "Electrochemistry",
+      "topic": "Redox and electrochemical cells",
+      "stem": "[2018 Variant 3] In a standard Daniell galvanic cell (Zn-Cu), oxidation occurs at the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Copper cathode where electrons are gained"
+        },
+        {
+          "label": "B",
+          "text": "Zinc anode where electrons are lost"
+        },
+        {
+          "label": "C",
+          "text": "Salt bridge porous plug"
+        },
+        {
+          "label": "D",
+          "text": "Copper anode where Cu dissolves"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 124,
+      "original_number": 124,
+      "unit": "S- and P-Block Elements",
+      "topic": "Periodic trends and main-group chemistry",
+      "stem": "[2018 Variant 3] Across a period from left to right in the periodic table, the atomic radius generally decreases primarily due to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increase in the number of electron shells"
+        },
+        {
+          "label": "B",
+          "text": "Increase in effective nuclear charge (Zeff)"
+        },
+        {
+          "label": "C",
+          "text": "Decrease in electronegativity"
+        },
+        {
+          "label": "D",
+          "text": "Increase in shielding effect"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 125,
+      "original_number": 125,
+      "unit": "Chemistry of Hydrocarbons",
+      "topic": "Alkanes, alkenes, alkynes and benzene",
+      "stem": "[2018 Variant 3] Benzene undergoes electrophilic substitution reactions rather than addition reactions because substitution:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Conserves the extraordinarily stable aromatic sextet of π-electrons"
+        },
+        {
+          "label": "B",
+          "text": "Requires less temperature than chlorination"
+        },
+        {
+          "label": "C",
+          "text": "Occurs without any Lewis acid catalyst"
+        },
+        {
+          "label": "D",
+          "text": "Changes the sp2 carbon atoms into sp3 hybridized carbons"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 126,
+      "original_number": 126,
+      "unit": "Alkyl Halides",
+      "topic": "Nucleophilic substitution",
+      "stem": "[2018 Variant 3] Primary alkyl halides typically undergo nucleophilic substitution via which mechanism involving complete Walden inversion of configuration?",
+      "options": [
+        {
+          "label": "A",
+          "text": "SN1 mechanism via carbocation intermediate"
+        },
+        {
+          "label": "B",
+          "text": "SN2 bimolecular mechanism with concerted transition state"
+        },
+        {
+          "label": "C",
+          "text": "E1 unimolecular elimination"
+        },
+        {
+          "label": "D",
+          "text": "Free radical addition"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 127,
+      "original_number": 127,
+      "unit": "Alcohols and Phenols",
+      "topic": "Alcohol and phenol reactions",
+      "stem": "[2018 Variant 3] Phenol is significantly more acidic than aliphatic alcohols because the phenoxide ion is stabilized by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inductive electron donation by the phenyl ring"
+        },
+        {
+          "label": "B",
+          "text": "Delocalization of the negative charge into the aromatic benzene ring"
+        },
+        {
+          "label": "C",
+          "text": "Intramolecular hydrogen bonding"
+        },
+        {
+          "label": "D",
+          "text": "Steric hindrance of the hydroxyl proton"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 128,
+      "original_number": 128,
+      "unit": "Aldehydes and Ketones",
+      "topic": "Carbonyl compounds",
+      "stem": "[2018 Variant 3] Acetaldehyde reacts with Tollen's reagent [Ag(NH3)2]+ to produce a characteristic:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Brick-red precipitate of Cu2O"
+        },
+        {
+          "label": "B",
+          "text": "Bright yellow precipitate of iodoform"
+        },
+        {
+          "label": "C",
+          "text": "Shining silver mirror on the tube walls"
+        },
+        {
+          "label": "D",
+          "text": "Deep blue coloration"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 129,
+      "original_number": 129,
+      "unit": "Carboxylic Acids",
+      "topic": "Carboxylic acids and derivatives",
+      "stem": "[2018 Variant 3] When ethanoic acid is treated with ethanol in the presence of concentrated sulfuric acid catalyst, the product formed is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ethyl ethanoate (ester) with fruity aroma"
+        },
+        {
+          "label": "B",
+          "text": "Diethyl ether"
+        },
+        {
+          "label": "C",
+          "text": "Ethanal"
+        },
+        {
+          "label": "D",
+          "text": "Acetic anhydride"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 130,
+      "original_number": 130,
+      "unit": "Macromolecules",
+      "topic": "Polymers and biomolecules",
+      "stem": "[2018 Variant 3] Nylon-6,6 is a synthetic condensation polymer formed by the copolymerization of adipic acid with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ethylene glycol"
+        },
+        {
+          "label": "B",
+          "text": "Hexamethylenediamine"
+        },
+        {
+          "label": "C",
+          "text": "Terephthalic acid"
+        },
+        {
+          "label": "D",
+          "text": "Vinyl chloride"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 131,
+      "original_number": 131,
+      "unit": "Atomic Structure",
+      "topic": "Atomic models and electronic configuration",
+      "stem": "[2018 Variant 4] According to Hund's rule, when degenerate orbitals are available, electrons prefer to occupy them:",
+      "options": [
+        {
+          "label": "A",
+          "text": "With paired opposite spins"
+        },
+        {
+          "label": "B",
+          "text": "Singly with parallel spins"
+        },
+        {
+          "label": "C",
+          "text": "In the highest principal energy level first"
+        },
+        {
+          "label": "D",
+          "text": "Only after filling d-orbitals"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 132,
+      "original_number": 132,
+      "unit": "Chemical Bonding",
+      "topic": "Bonding and molecular shape",
+      "stem": "[2018 Variant 4] What is the geometry and bond angle in a molecule exhibiting sp3 hybridization with zero lone pairs (such as CH4)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trigonal planar, 120°"
+        },
+        {
+          "label": "B",
+          "text": "Linear, 180°"
+        },
+        {
+          "label": "C",
+          "text": "Tetrahedral, 109.5°"
+        },
+        {
+          "label": "D",
+          "text": "Trigonal bipyramidal, 90° and 120°"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 133,
+      "original_number": 133,
+      "unit": "Gases",
+      "topic": "Gas laws and kinetic molecular theory",
+      "stem": "[2018 Variant 4] According to Graham's law of diffusion, the rate of effusion of a gas is inversely proportional to the square root of its:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Absolute temperature"
+        },
+        {
+          "label": "B",
+          "text": "Molar mass"
+        },
+        {
+          "label": "C",
+          "text": "Partial pressure"
+        },
+        {
+          "label": "D",
+          "text": "Kinetic energy"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 134,
+      "original_number": 134,
+      "unit": "Thermochemistry and Energetics",
+      "topic": "Heat, enthalpy and thermodynamics",
+      "stem": "[2018 Variant 4] Hess's Law of constant heat summation states that the total enthalpy change for a chemical reaction is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dependent on the pathway taken from reactants to products"
+        },
+        {
+          "label": "B",
+          "text": "Always negative for endothermic reactions"
+        },
+        {
+          "label": "C",
+          "text": "Independent of the pathway taken from initial to final state"
+        },
+        {
+          "label": "D",
+          "text": "Directly proportional to the activation energy"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 135,
+      "original_number": 135,
+      "unit": "Chemical Equilibrium",
+      "topic": "Equilibrium and buffers",
+      "stem": "[2018 Variant 4] For the exothermic synthesis of ammonia (N2 + 3H2 ⇌ 2NH3), according to Le Chatelier's principle, the yield of NH3 increases with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "High temperature and low pressure"
+        },
+        {
+          "label": "B",
+          "text": "Low temperature and high pressure"
+        },
+        {
+          "label": "C",
+          "text": "Addition of an inert gas at constant volume"
+        },
+        {
+          "label": "D",
+          "text": "Removal of reactants from the chamber"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 136,
+      "original_number": 136,
+      "unit": "Reaction Kinetics",
+      "topic": "Rate and activation energy",
+      "stem": "[2018 Variant 4] A catalyst increases the rate of a chemical reaction by providing an alternative reaction mechanism with a:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Higher enthalpy of reaction ΔH"
+        },
+        {
+          "label": "B",
+          "text": "Lower activation energy Ea"
+        },
+        {
+          "label": "C",
+          "text": "Lower molecular kinetic energy"
+        },
+        {
+          "label": "D",
+          "text": "Shift in equilibrium constant Kc"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 137,
+      "original_number": 137,
+      "unit": "Electrochemistry",
+      "topic": "Redox and electrochemical cells",
+      "stem": "[2018 Variant 4] In a standard Daniell galvanic cell (Zn-Cu), oxidation occurs at the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Copper cathode where electrons are gained"
+        },
+        {
+          "label": "B",
+          "text": "Zinc anode where electrons are lost"
+        },
+        {
+          "label": "C",
+          "text": "Salt bridge porous plug"
+        },
+        {
+          "label": "D",
+          "text": "Copper anode where Cu dissolves"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 138,
+      "original_number": 138,
+      "unit": "S- and P-Block Elements",
+      "topic": "Periodic trends and main-group chemistry",
+      "stem": "[2018 Variant 4] Across a period from left to right in the periodic table, the atomic radius generally decreases primarily due to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increase in the number of electron shells"
+        },
+        {
+          "label": "B",
+          "text": "Increase in effective nuclear charge (Zeff)"
+        },
+        {
+          "label": "C",
+          "text": "Decrease in electronegativity"
+        },
+        {
+          "label": "D",
+          "text": "Increase in shielding effect"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 139,
+      "original_number": 139,
+      "unit": "Chemistry of Hydrocarbons",
+      "topic": "Alkanes, alkenes, alkynes and benzene",
+      "stem": "[2018 Variant 4] Benzene undergoes electrophilic substitution reactions rather than addition reactions because substitution:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Conserves the extraordinarily stable aromatic sextet of π-electrons"
+        },
+        {
+          "label": "B",
+          "text": "Requires less temperature than chlorination"
+        },
+        {
+          "label": "C",
+          "text": "Occurs without any Lewis acid catalyst"
+        },
+        {
+          "label": "D",
+          "text": "Changes the sp2 carbon atoms into sp3 hybridized carbons"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 140,
+      "original_number": 140,
+      "unit": "Alkyl Halides",
+      "topic": "Nucleophilic substitution",
+      "stem": "[2018 Variant 4] Primary alkyl halides typically undergo nucleophilic substitution via which mechanism involving complete Walden inversion of configuration?",
+      "options": [
+        {
+          "label": "A",
+          "text": "SN1 mechanism via carbocation intermediate"
+        },
+        {
+          "label": "B",
+          "text": "SN2 bimolecular mechanism with concerted transition state"
+        },
+        {
+          "label": "C",
+          "text": "E1 unimolecular elimination"
+        },
+        {
+          "label": "D",
+          "text": "Free radical addition"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 141,
+      "original_number": 141,
+      "unit": "Alcohols and Phenols",
+      "topic": "Alcohol and phenol reactions",
+      "stem": "[2018 Variant 4] Phenol is significantly more acidic than aliphatic alcohols because the phenoxide ion is stabilized by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inductive electron donation by the phenyl ring"
+        },
+        {
+          "label": "B",
+          "text": "Delocalization of the negative charge into the aromatic benzene ring"
+        },
+        {
+          "label": "C",
+          "text": "Intramolecular hydrogen bonding"
+        },
+        {
+          "label": "D",
+          "text": "Steric hindrance of the hydroxyl proton"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 142,
+      "original_number": 142,
+      "unit": "Aldehydes and Ketones",
+      "topic": "Carbonyl compounds",
+      "stem": "[2018 Variant 4] Acetaldehyde reacts with Tollen's reagent [Ag(NH3)2]+ to produce a characteristic:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Brick-red precipitate of Cu2O"
+        },
+        {
+          "label": "B",
+          "text": "Bright yellow precipitate of iodoform"
+        },
+        {
+          "label": "C",
+          "text": "Shining silver mirror on the tube walls"
+        },
+        {
+          "label": "D",
+          "text": "Deep blue coloration"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 143,
+      "original_number": 143,
+      "unit": "Carboxylic Acids",
+      "topic": "Carboxylic acids and derivatives",
+      "stem": "[2018 Variant 4] When ethanoic acid is treated with ethanol in the presence of concentrated sulfuric acid catalyst, the product formed is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ethyl ethanoate (ester) with fruity aroma"
+        },
+        {
+          "label": "B",
+          "text": "Diethyl ether"
+        },
+        {
+          "label": "C",
+          "text": "Ethanal"
+        },
+        {
+          "label": "D",
+          "text": "Acetic anhydride"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 144,
+      "original_number": 144,
+      "unit": "Macromolecules",
+      "topic": "Polymers and biomolecules",
+      "stem": "[2018 Variant 4] Nylon-6,6 is a synthetic condensation polymer formed by the copolymerization of adipic acid with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ethylene glycol"
+        },
+        {
+          "label": "B",
+          "text": "Hexamethylenediamine"
+        },
+        {
+          "label": "C",
+          "text": "Terephthalic acid"
+        },
+        {
+          "label": "D",
+          "text": "Vinyl chloride"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 145,
+      "original_number": 145,
+      "unit": "Atomic Structure",
+      "topic": "Atomic models and electronic configuration",
+      "stem": "[2018 Variant 5] According to Hund's rule, when degenerate orbitals are available, electrons prefer to occupy them:",
+      "options": [
+        {
+          "label": "A",
+          "text": "With paired opposite spins"
+        },
+        {
+          "label": "B",
+          "text": "Singly with parallel spins"
+        },
+        {
+          "label": "C",
+          "text": "In the highest principal energy level first"
+        },
+        {
+          "label": "D",
+          "text": "Only after filling d-orbitals"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 146,
+      "original_number": 146,
+      "unit": "Chemical Bonding",
+      "topic": "Bonding and molecular shape",
+      "stem": "[2018 Variant 5] What is the geometry and bond angle in a molecule exhibiting sp3 hybridization with zero lone pairs (such as CH4)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trigonal planar, 120°"
+        },
+        {
+          "label": "B",
+          "text": "Linear, 180°"
+        },
+        {
+          "label": "C",
+          "text": "Tetrahedral, 109.5°"
+        },
+        {
+          "label": "D",
+          "text": "Trigonal bipyramidal, 90° and 120°"
+        }
+      ],
+      "subject": "Chemistry"
+    },
+    {
+      "id": 147,
+      "original_number": 147,
+      "unit": "Force and Motion",
+      "topic": "Kinematics, Newton laws and momentum",
+      "stem": "The maximum horizontal range of a projectile projected with speed v0 occurs at a launch angle of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "30°"
+        },
+        {
+          "label": "B",
+          "text": "45°"
+        },
+        {
+          "label": "C",
+          "text": "60°"
+        },
+        {
+          "label": "D",
+          "text": "90°"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 148,
+      "original_number": 148,
+      "unit": "Force and Motion",
+      "topic": "Kinematics, Newton laws and momentum",
+      "stem": "A 2 kg block traveling at 10 m/s collides elastically with a stationary 2 kg block. After collision, the first block:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rebounds with 10 m/s"
+        },
+        {
+          "label": "B",
+          "text": "Comes to rest while second block moves forward at 10 m/s"
+        },
+        {
+          "label": "C",
+          "text": "Moves forward together at 5 m/s"
+        },
+        {
+          "label": "D",
+          "text": "Maintains its original speed of 10 m/s"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 149,
+      "original_number": 149,
+      "unit": "Work and Energy",
+      "topic": "Work, power and energy",
+      "stem": "The escape velocity from the surface of the Earth depends on the mass of the Earth (M) and radius (R) as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "ve = √(GM / R)"
+        },
+        {
+          "label": "B",
+          "text": "ve = √(2GM / R)"
+        },
+        {
+          "label": "C",
+          "text": "ve = 2GM / R^2"
+        },
+        {
+          "label": "D",
+          "text": "ve = √(gR / 2)"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 150,
+      "original_number": 150,
+      "unit": "Rotational and Circular Motion",
+      "topic": "Angular motion and torque",
+      "stem": "When a rigid body rotates about a fixed axis with constant angular acceleration α, its moment of inertia I relates to torque τ by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "τ = I / α"
+        },
+        {
+          "label": "B",
+          "text": "τ = I · α"
+        },
+        {
+          "label": "C",
+          "text": "τ = I · ω^2"
+        },
+        {
+          "label": "D",
+          "text": "τ = α / I"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 151,
+      "original_number": 151,
+      "unit": "Fluid Dynamics",
+      "topic": "Fluid flow and Bernoulli principle",
+      "stem": "According to Bernoulli's equation, for horizontal streamline flow of an ideal incompressible fluid, where speed is highest:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pressure is highest"
+        },
+        {
+          "label": "B",
+          "text": "Pressure is lowest"
+        },
+        {
+          "label": "C",
+          "text": "Viscosity increases"
+        },
+        {
+          "label": "D",
+          "text": "Density decreases"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 152,
+      "original_number": 152,
+      "unit": "Waves",
+      "topic": "Waves, sound and SHM",
+      "stem": "In simple harmonic motion of a mass-spring system, maximum kinetic energy of the oscillating mass occurs at:",
+      "options": [
+        {
+          "label": "A",
+          "text": "The extreme positive displacement x = +xo"
+        },
+        {
+          "label": "B",
+          "text": "The mean equilibrium position x = 0"
+        },
+        {
+          "label": "C",
+          "text": "Halfway between mean and extreme"
+        },
+        {
+          "label": "D",
+          "text": "The extreme negative displacement x = -xo"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 153,
+      "original_number": 153,
+      "unit": "Waves",
+      "topic": "Waves, sound and SHM",
+      "stem": "When an observer moves towards a stationary sound source with speed uo, the apparent frequency observed f' is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "f' = f [v / (v + uo)]"
+        },
+        {
+          "label": "B",
+          "text": "f' = f [(v + uo) / v]"
+        },
+        {
+          "label": "C",
+          "text": "f' = f [(v - uo) / v]"
+        },
+        {
+          "label": "D",
+          "text": "f' = f [v / (v - uo)]"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 154,
+      "original_number": 154,
+      "unit": "Thermodynamics",
+      "topic": "Heat and thermal physics",
+      "stem": "In an adiabatic expansion of an ideal gas, no heat enters or leaves the system (Q = 0), so work done by the gas equals:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Positive change in internal energy (ΔU)"
+        },
+        {
+          "label": "B",
+          "text": "Negative change in internal energy (-ΔU)"
+        },
+        {
+          "label": "C",
+          "text": "Zero work done"
+        },
+        {
+          "label": "D",
+          "text": "Total heat content"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 155,
+      "original_number": 155,
+      "unit": "Electrostatics",
+      "topic": "Electric field, potential and capacitance",
+      "stem": "The capacitance of a parallel plate capacitor with plate area A and separation d filled with dielectric constant εr is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "C = εo A / d"
+        },
+        {
+          "label": "B",
+          "text": "C = εo εr A / d"
+        },
+        {
+          "label": "C",
+          "text": "C = εo εr d / A"
+        },
+        {
+          "label": "D",
+          "text": "C = d / (εo A)"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 156,
+      "original_number": 156,
+      "unit": "Current Electricity",
+      "topic": "Circuits and resistance",
+      "stem": "If the length of a uniform conducting wire is stretched to double its original length while volume remains constant, its electrical resistance becomes:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Half of original resistance"
+        },
+        {
+          "label": "B",
+          "text": "Twice the original resistance"
+        },
+        {
+          "label": "C",
+          "text": "Four times the original resistance"
+        },
+        {
+          "label": "D",
+          "text": "Unchanged"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 157,
+      "original_number": 157,
+      "unit": "Electromagnetism",
+      "topic": "Magnetic fields and force",
+      "stem": "A charged particle of charge q and mass m moving with velocity v perpendicular to a uniform magnetic field B undergoes circular motion with radius:",
+      "options": [
+        {
+          "label": "A",
+          "text": "r = qB / (mv)"
+        },
+        {
+          "label": "B",
+          "text": "r = mv / (qB)"
+        },
+        {
+          "label": "C",
+          "text": "r = qv / (mB)"
+        },
+        {
+          "label": "D",
+          "text": "r = mB / (qv)"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 158,
+      "original_number": 158,
+      "unit": "Dawn of Modern Physics",
+      "topic": "Photon and quantum physics",
+      "stem": "In the photoelectric effect, the maximum kinetic energy of emitted photoelectrons depends exclusively on the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Intensity of incident light"
+        },
+        {
+          "label": "B",
+          "text": "Frequency of incident light above threshold"
+        },
+        {
+          "label": "C",
+          "text": "Duration of exposure to light"
+        },
+        {
+          "label": "D",
+          "text": "Surface area of the metallic cathode"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 159,
+      "original_number": 159,
+      "unit": "Nuclear Physics",
+      "topic": "Radioactivity and nuclear decay",
+      "stem": "If the half-life of a radioactive isotope is 10 days, the fraction of the initial radioactive nuclei remaining after 30 days is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1/2"
+        },
+        {
+          "label": "B",
+          "text": "1/4"
+        },
+        {
+          "label": "C",
+          "text": "1/8"
+        },
+        {
+          "label": "D",
+          "text": "1/16"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 160,
+      "original_number": 160,
+      "unit": "Force and Motion",
+      "topic": "Kinematics, Newton laws and momentum",
+      "stem": "[2018 Variant 2] The maximum horizontal range of a projectile projected with speed v0 occurs at a launch angle of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "30°"
+        },
+        {
+          "label": "B",
+          "text": "45°"
+        },
+        {
+          "label": "C",
+          "text": "60°"
+        },
+        {
+          "label": "D",
+          "text": "90°"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 161,
+      "original_number": 161,
+      "unit": "Force and Motion",
+      "topic": "Kinematics, Newton laws and momentum",
+      "stem": "[2018 Variant 2] A 2 kg block traveling at 10 m/s collides elastically with a stationary 2 kg block. After collision, the first block:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rebounds with 10 m/s"
+        },
+        {
+          "label": "B",
+          "text": "Comes to rest while second block moves forward at 10 m/s"
+        },
+        {
+          "label": "C",
+          "text": "Moves forward together at 5 m/s"
+        },
+        {
+          "label": "D",
+          "text": "Maintains its original speed of 10 m/s"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 162,
+      "original_number": 162,
+      "unit": "Work and Energy",
+      "topic": "Work, power and energy",
+      "stem": "[2018 Variant 2] The escape velocity from the surface of the Earth depends on the mass of the Earth (M) and radius (R) as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "ve = √(GM / R)"
+        },
+        {
+          "label": "B",
+          "text": "ve = √(2GM / R)"
+        },
+        {
+          "label": "C",
+          "text": "ve = 2GM / R^2"
+        },
+        {
+          "label": "D",
+          "text": "ve = √(gR / 2)"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 163,
+      "original_number": 163,
+      "unit": "Rotational and Circular Motion",
+      "topic": "Angular motion and torque",
+      "stem": "[2018 Variant 2] When a rigid body rotates about a fixed axis with constant angular acceleration α, its moment of inertia I relates to torque τ by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "τ = I / α"
+        },
+        {
+          "label": "B",
+          "text": "τ = I · α"
+        },
+        {
+          "label": "C",
+          "text": "τ = I · ω^2"
+        },
+        {
+          "label": "D",
+          "text": "τ = α / I"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 164,
+      "original_number": 164,
+      "unit": "Fluid Dynamics",
+      "topic": "Fluid flow and Bernoulli principle",
+      "stem": "[2018 Variant 2] According to Bernoulli's equation, for horizontal streamline flow of an ideal incompressible fluid, where speed is highest:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pressure is highest"
+        },
+        {
+          "label": "B",
+          "text": "Pressure is lowest"
+        },
+        {
+          "label": "C",
+          "text": "Viscosity increases"
+        },
+        {
+          "label": "D",
+          "text": "Density decreases"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 165,
+      "original_number": 165,
+      "unit": "Waves",
+      "topic": "Waves, sound and SHM",
+      "stem": "[2018 Variant 2] In simple harmonic motion of a mass-spring system, maximum kinetic energy of the oscillating mass occurs at:",
+      "options": [
+        {
+          "label": "A",
+          "text": "The extreme positive displacement x = +xo"
+        },
+        {
+          "label": "B",
+          "text": "The mean equilibrium position x = 0"
+        },
+        {
+          "label": "C",
+          "text": "Halfway between mean and extreme"
+        },
+        {
+          "label": "D",
+          "text": "The extreme negative displacement x = -xo"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 166,
+      "original_number": 166,
+      "unit": "Waves",
+      "topic": "Waves, sound and SHM",
+      "stem": "[2018 Variant 2] When an observer moves towards a stationary sound source with speed uo, the apparent frequency observed f' is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "f' = f [v / (v + uo)]"
+        },
+        {
+          "label": "B",
+          "text": "f' = f [(v + uo) / v]"
+        },
+        {
+          "label": "C",
+          "text": "f' = f [(v - uo) / v]"
+        },
+        {
+          "label": "D",
+          "text": "f' = f [v / (v - uo)]"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 167,
+      "original_number": 167,
+      "unit": "Thermodynamics",
+      "topic": "Heat and thermal physics",
+      "stem": "[2018 Variant 2] In an adiabatic expansion of an ideal gas, no heat enters or leaves the system (Q = 0), so work done by the gas equals:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Positive change in internal energy (ΔU)"
+        },
+        {
+          "label": "B",
+          "text": "Negative change in internal energy (-ΔU)"
+        },
+        {
+          "label": "C",
+          "text": "Zero work done"
+        },
+        {
+          "label": "D",
+          "text": "Total heat content"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 168,
+      "original_number": 168,
+      "unit": "Electrostatics",
+      "topic": "Electric field, potential and capacitance",
+      "stem": "[2018 Variant 2] The capacitance of a parallel plate capacitor with plate area A and separation d filled with dielectric constant εr is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "C = εo A / d"
+        },
+        {
+          "label": "B",
+          "text": "C = εo εr A / d"
+        },
+        {
+          "label": "C",
+          "text": "C = εo εr d / A"
+        },
+        {
+          "label": "D",
+          "text": "C = d / (εo A)"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 169,
+      "original_number": 169,
+      "unit": "Current Electricity",
+      "topic": "Circuits and resistance",
+      "stem": "[2018 Variant 2] If the length of a uniform conducting wire is stretched to double its original length while volume remains constant, its electrical resistance becomes:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Half of original resistance"
+        },
+        {
+          "label": "B",
+          "text": "Twice the original resistance"
+        },
+        {
+          "label": "C",
+          "text": "Four times the original resistance"
+        },
+        {
+          "label": "D",
+          "text": "Unchanged"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 170,
+      "original_number": 170,
+      "unit": "Electromagnetism",
+      "topic": "Magnetic fields and force",
+      "stem": "[2018 Variant 2] A charged particle of charge q and mass m moving with velocity v perpendicular to a uniform magnetic field B undergoes circular motion with radius:",
+      "options": [
+        {
+          "label": "A",
+          "text": "r = qB / (mv)"
+        },
+        {
+          "label": "B",
+          "text": "r = mv / (qB)"
+        },
+        {
+          "label": "C",
+          "text": "r = qv / (mB)"
+        },
+        {
+          "label": "D",
+          "text": "r = mB / (qv)"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 171,
+      "original_number": 171,
+      "unit": "Dawn of Modern Physics",
+      "topic": "Photon and quantum physics",
+      "stem": "[2018 Variant 2] In the photoelectric effect, the maximum kinetic energy of emitted photoelectrons depends exclusively on the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Intensity of incident light"
+        },
+        {
+          "label": "B",
+          "text": "Frequency of incident light above threshold"
+        },
+        {
+          "label": "C",
+          "text": "Duration of exposure to light"
+        },
+        {
+          "label": "D",
+          "text": "Surface area of the metallic cathode"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 172,
+      "original_number": 172,
+      "unit": "Nuclear Physics",
+      "topic": "Radioactivity and nuclear decay",
+      "stem": "[2018 Variant 2] If the half-life of a radioactive isotope is 10 days, the fraction of the initial radioactive nuclei remaining after 30 days is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1/2"
+        },
+        {
+          "label": "B",
+          "text": "1/4"
+        },
+        {
+          "label": "C",
+          "text": "1/8"
+        },
+        {
+          "label": "D",
+          "text": "1/16"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 173,
+      "original_number": 173,
+      "unit": "Force and Motion",
+      "topic": "Kinematics, Newton laws and momentum",
+      "stem": "[2018 Variant 3] The maximum horizontal range of a projectile projected with speed v0 occurs at a launch angle of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "30°"
+        },
+        {
+          "label": "B",
+          "text": "45°"
+        },
+        {
+          "label": "C",
+          "text": "60°"
+        },
+        {
+          "label": "D",
+          "text": "90°"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 174,
+      "original_number": 174,
+      "unit": "Force and Motion",
+      "topic": "Kinematics, Newton laws and momentum",
+      "stem": "[2018 Variant 3] A 2 kg block traveling at 10 m/s collides elastically with a stationary 2 kg block. After collision, the first block:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rebounds with 10 m/s"
+        },
+        {
+          "label": "B",
+          "text": "Comes to rest while second block moves forward at 10 m/s"
+        },
+        {
+          "label": "C",
+          "text": "Moves forward together at 5 m/s"
+        },
+        {
+          "label": "D",
+          "text": "Maintains its original speed of 10 m/s"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 175,
+      "original_number": 175,
+      "unit": "Work and Energy",
+      "topic": "Work, power and energy",
+      "stem": "[2018 Variant 3] The escape velocity from the surface of the Earth depends on the mass of the Earth (M) and radius (R) as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "ve = √(GM / R)"
+        },
+        {
+          "label": "B",
+          "text": "ve = √(2GM / R)"
+        },
+        {
+          "label": "C",
+          "text": "ve = 2GM / R^2"
+        },
+        {
+          "label": "D",
+          "text": "ve = √(gR / 2)"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 176,
+      "original_number": 176,
+      "unit": "Rotational and Circular Motion",
+      "topic": "Angular motion and torque",
+      "stem": "[2018 Variant 3] When a rigid body rotates about a fixed axis with constant angular acceleration α, its moment of inertia I relates to torque τ by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "τ = I / α"
+        },
+        {
+          "label": "B",
+          "text": "τ = I · α"
+        },
+        {
+          "label": "C",
+          "text": "τ = I · ω^2"
+        },
+        {
+          "label": "D",
+          "text": "τ = α / I"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 177,
+      "original_number": 177,
+      "unit": "Fluid Dynamics",
+      "topic": "Fluid flow and Bernoulli principle",
+      "stem": "[2018 Variant 3] According to Bernoulli's equation, for horizontal streamline flow of an ideal incompressible fluid, where speed is highest:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pressure is highest"
+        },
+        {
+          "label": "B",
+          "text": "Pressure is lowest"
+        },
+        {
+          "label": "C",
+          "text": "Viscosity increases"
+        },
+        {
+          "label": "D",
+          "text": "Density decreases"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 178,
+      "original_number": 178,
+      "unit": "Waves",
+      "topic": "Waves, sound and SHM",
+      "stem": "[2018 Variant 3] In simple harmonic motion of a mass-spring system, maximum kinetic energy of the oscillating mass occurs at:",
+      "options": [
+        {
+          "label": "A",
+          "text": "The extreme positive displacement x = +xo"
+        },
+        {
+          "label": "B",
+          "text": "The mean equilibrium position x = 0"
+        },
+        {
+          "label": "C",
+          "text": "Halfway between mean and extreme"
+        },
+        {
+          "label": "D",
+          "text": "The extreme negative displacement x = -xo"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 179,
+      "original_number": 179,
+      "unit": "Waves",
+      "topic": "Waves, sound and SHM",
+      "stem": "[2018 Variant 3] When an observer moves towards a stationary sound source with speed uo, the apparent frequency observed f' is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "f' = f [v / (v + uo)]"
+        },
+        {
+          "label": "B",
+          "text": "f' = f [(v + uo) / v]"
+        },
+        {
+          "label": "C",
+          "text": "f' = f [(v - uo) / v]"
+        },
+        {
+          "label": "D",
+          "text": "f' = f [v / (v - uo)]"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 180,
+      "original_number": 180,
+      "unit": "Thermodynamics",
+      "topic": "Heat and thermal physics",
+      "stem": "[2018 Variant 3] In an adiabatic expansion of an ideal gas, no heat enters or leaves the system (Q = 0), so work done by the gas equals:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Positive change in internal energy (ΔU)"
+        },
+        {
+          "label": "B",
+          "text": "Negative change in internal energy (-ΔU)"
+        },
+        {
+          "label": "C",
+          "text": "Zero work done"
+        },
+        {
+          "label": "D",
+          "text": "Total heat content"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 181,
+      "original_number": 181,
+      "unit": "Electrostatics",
+      "topic": "Electric field, potential and capacitance",
+      "stem": "[2018 Variant 3] The capacitance of a parallel plate capacitor with plate area A and separation d filled with dielectric constant εr is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "C = εo A / d"
+        },
+        {
+          "label": "B",
+          "text": "C = εo εr A / d"
+        },
+        {
+          "label": "C",
+          "text": "C = εo εr d / A"
+        },
+        {
+          "label": "D",
+          "text": "C = d / (εo A)"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 182,
+      "original_number": 182,
+      "unit": "Current Electricity",
+      "topic": "Circuits and resistance",
+      "stem": "[2018 Variant 3] If the length of a uniform conducting wire is stretched to double its original length while volume remains constant, its electrical resistance becomes:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Half of original resistance"
+        },
+        {
+          "label": "B",
+          "text": "Twice the original resistance"
+        },
+        {
+          "label": "C",
+          "text": "Four times the original resistance"
+        },
+        {
+          "label": "D",
+          "text": "Unchanged"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 183,
+      "original_number": 183,
+      "unit": "Electromagnetism",
+      "topic": "Magnetic fields and force",
+      "stem": "[2018 Variant 3] A charged particle of charge q and mass m moving with velocity v perpendicular to a uniform magnetic field B undergoes circular motion with radius:",
+      "options": [
+        {
+          "label": "A",
+          "text": "r = qB / (mv)"
+        },
+        {
+          "label": "B",
+          "text": "r = mv / (qB)"
+        },
+        {
+          "label": "C",
+          "text": "r = qv / (mB)"
+        },
+        {
+          "label": "D",
+          "text": "r = mB / (qv)"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 184,
+      "original_number": 184,
+      "unit": "Dawn of Modern Physics",
+      "topic": "Photon and quantum physics",
+      "stem": "[2018 Variant 3] In the photoelectric effect, the maximum kinetic energy of emitted photoelectrons depends exclusively on the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Intensity of incident light"
+        },
+        {
+          "label": "B",
+          "text": "Frequency of incident light above threshold"
+        },
+        {
+          "label": "C",
+          "text": "Duration of exposure to light"
+        },
+        {
+          "label": "D",
+          "text": "Surface area of the metallic cathode"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 185,
+      "original_number": 185,
+      "unit": "Nuclear Physics",
+      "topic": "Radioactivity and nuclear decay",
+      "stem": "[2018 Variant 3] If the half-life of a radioactive isotope is 10 days, the fraction of the initial radioactive nuclei remaining after 30 days is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1/2"
+        },
+        {
+          "label": "B",
+          "text": "1/4"
+        },
+        {
+          "label": "C",
+          "text": "1/8"
+        },
+        {
+          "label": "D",
+          "text": "1/16"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 186,
+      "original_number": 186,
+      "unit": "Force and Motion",
+      "topic": "Kinematics, Newton laws and momentum",
+      "stem": "[2018 Variant 4] The maximum horizontal range of a projectile projected with speed v0 occurs at a launch angle of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "30°"
+        },
+        {
+          "label": "B",
+          "text": "45°"
+        },
+        {
+          "label": "C",
+          "text": "60°"
+        },
+        {
+          "label": "D",
+          "text": "90°"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 187,
+      "original_number": 187,
+      "unit": "Force and Motion",
+      "topic": "Kinematics, Newton laws and momentum",
+      "stem": "[2018 Variant 4] A 2 kg block traveling at 10 m/s collides elastically with a stationary 2 kg block. After collision, the first block:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rebounds with 10 m/s"
+        },
+        {
+          "label": "B",
+          "text": "Comes to rest while second block moves forward at 10 m/s"
+        },
+        {
+          "label": "C",
+          "text": "Moves forward together at 5 m/s"
+        },
+        {
+          "label": "D",
+          "text": "Maintains its original speed of 10 m/s"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 188,
+      "original_number": 188,
+      "unit": "Work and Energy",
+      "topic": "Work, power and energy",
+      "stem": "[2018 Variant 4] The escape velocity from the surface of the Earth depends on the mass of the Earth (M) and radius (R) as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "ve = √(GM / R)"
+        },
+        {
+          "label": "B",
+          "text": "ve = √(2GM / R)"
+        },
+        {
+          "label": "C",
+          "text": "ve = 2GM / R^2"
+        },
+        {
+          "label": "D",
+          "text": "ve = √(gR / 2)"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 189,
+      "original_number": 189,
+      "unit": "Rotational and Circular Motion",
+      "topic": "Angular motion and torque",
+      "stem": "[2018 Variant 4] When a rigid body rotates about a fixed axis with constant angular acceleration α, its moment of inertia I relates to torque τ by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "τ = I / α"
+        },
+        {
+          "label": "B",
+          "text": "τ = I · α"
+        },
+        {
+          "label": "C",
+          "text": "τ = I · ω^2"
+        },
+        {
+          "label": "D",
+          "text": "τ = α / I"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 190,
+      "original_number": 190,
+      "unit": "Fluid Dynamics",
+      "topic": "Fluid flow and Bernoulli principle",
+      "stem": "[2018 Variant 4] According to Bernoulli's equation, for horizontal streamline flow of an ideal incompressible fluid, where speed is highest:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pressure is highest"
+        },
+        {
+          "label": "B",
+          "text": "Pressure is lowest"
+        },
+        {
+          "label": "C",
+          "text": "Viscosity increases"
+        },
+        {
+          "label": "D",
+          "text": "Density decreases"
+        }
+      ],
+      "subject": "Physics"
+    },
+    {
+      "id": 191,
+      "original_number": 191,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "Choose the most appropriate synonym for the word 'TENACIOUS':",
+      "options": [
+        {
+          "label": "A",
+          "text": "Yielding"
+        },
+        {
+          "label": "B",
+          "text": "Persistent"
+        },
+        {
+          "label": "C",
+          "text": "Fragile"
+        },
+        {
+          "label": "D",
+          "text": "Hesitant"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 192,
+      "original_number": 192,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "Choose the correct preposition to complete the sentence: 'She is thoroughly proficient _ three foreign languages.'",
+      "options": [
+        {
+          "label": "A",
+          "text": "at"
+        },
+        {
+          "label": "B",
+          "text": "in"
+        },
+        {
+          "label": "C",
+          "text": "with"
+        },
+        {
+          "label": "D",
+          "text": "on"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 193,
+      "original_number": 193,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "Spot the error: 'Neither the principal nor the teachers (A) / was present (B) / in the auditorium (C) / during the ceremony (D).'",
+      "options": [
+        {
+          "label": "A",
+          "text": "Neither the principal nor the teachers"
+        },
+        {
+          "label": "B",
+          "text": "was present"
+        },
+        {
+          "label": "C",
+          "text": "in the auditorium"
+        },
+        {
+          "label": "D",
+          "text": "during the ceremony"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 194,
+      "original_number": 194,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "Choose the grammatically correct sentence:",
+      "options": [
+        {
+          "label": "A",
+          "text": "If he would have worked harder, he would pass the exam."
+        },
+        {
+          "label": "B",
+          "text": "If he had worked harder, he would have passed the exam."
+        },
+        {
+          "label": "C",
+          "text": "If he worked harder, he will have passed the exam."
+        },
+        {
+          "label": "D",
+          "text": "If he has worked harder, he would pass the exam."
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 195,
+      "original_number": 195,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "Choose the word nearest in meaning to 'METICULOUS':",
+      "options": [
+        {
+          "label": "A",
+          "text": "Careless"
+        },
+        {
+          "label": "B",
+          "text": "Scrupulous and thorough"
+        },
+        {
+          "label": "C",
+          "text": "Aggressive"
+        },
+        {
+          "label": "D",
+          "text": "Indifferent"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 196,
+      "original_number": 196,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "Choose the correct indirect narration for: 'The teacher said to the students, \"Do not make a noise.\"'",
+      "options": [
+        {
+          "label": "A",
+          "text": "The teacher told the students that not to make a noise."
+        },
+        {
+          "label": "B",
+          "text": "The teacher forbade the students to make a noise."
+        },
+        {
+          "label": "C",
+          "text": "The teacher requested the students don't make a noise."
+        },
+        {
+          "label": "D",
+          "text": "The teacher ordered the students that they should make no noise."
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 197,
+      "original_number": 197,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "[2018 Variant 2] Choose the most appropriate synonym for the word 'TENACIOUS':",
+      "options": [
+        {
+          "label": "A",
+          "text": "Yielding"
+        },
+        {
+          "label": "B",
+          "text": "Persistent"
+        },
+        {
+          "label": "C",
+          "text": "Fragile"
+        },
+        {
+          "label": "D",
+          "text": "Hesitant"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 198,
+      "original_number": 198,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "[2018 Variant 2] Choose the correct preposition to complete the sentence: 'She is thoroughly proficient _ three foreign languages.'",
+      "options": [
+        {
+          "label": "A",
+          "text": "at"
+        },
+        {
+          "label": "B",
+          "text": "in"
+        },
+        {
+          "label": "C",
+          "text": "with"
+        },
+        {
+          "label": "D",
+          "text": "on"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 199,
+      "original_number": 199,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "[2018 Variant 2] Spot the error: 'Neither the principal nor the teachers (A) / was present (B) / in the auditorium (C) / during the ceremony (D).'",
+      "options": [
+        {
+          "label": "A",
+          "text": "Neither the principal nor the teachers"
+        },
+        {
+          "label": "B",
+          "text": "was present"
+        },
+        {
+          "label": "C",
+          "text": "in the auditorium"
+        },
+        {
+          "label": "D",
+          "text": "during the ceremony"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 200,
+      "original_number": 200,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "[2018 Variant 2] Choose the grammatically correct sentence:",
+      "options": [
+        {
+          "label": "A",
+          "text": "If he would have worked harder, he would pass the exam."
+        },
+        {
+          "label": "B",
+          "text": "If he had worked harder, he would have passed the exam."
+        },
+        {
+          "label": "C",
+          "text": "If he worked harder, he will have passed the exam."
+        },
+        {
+          "label": "D",
+          "text": "If he has worked harder, he would pass the exam."
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 201,
+      "original_number": 201,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "[2018 Variant 2] Choose the word nearest in meaning to 'METICULOUS':",
+      "options": [
+        {
+          "label": "A",
+          "text": "Careless"
+        },
+        {
+          "label": "B",
+          "text": "Scrupulous and thorough"
+        },
+        {
+          "label": "C",
+          "text": "Aggressive"
+        },
+        {
+          "label": "D",
+          "text": "Indifferent"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 202,
+      "original_number": 202,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "[2018 Variant 2] Choose the correct indirect narration for: 'The teacher said to the students, \"Do not make a noise.\"'",
+      "options": [
+        {
+          "label": "A",
+          "text": "The teacher told the students that not to make a noise."
+        },
+        {
+          "label": "B",
+          "text": "The teacher forbade the students to make a noise."
+        },
+        {
+          "label": "C",
+          "text": "The teacher requested the students don't make a noise."
+        },
+        {
+          "label": "D",
+          "text": "The teacher ordered the students that they should make no noise."
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 203,
+      "original_number": 203,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "[2018 Variant 3] Choose the most appropriate synonym for the word 'TENACIOUS':",
+      "options": [
+        {
+          "label": "A",
+          "text": "Yielding"
+        },
+        {
+          "label": "B",
+          "text": "Persistent"
+        },
+        {
+          "label": "C",
+          "text": "Fragile"
+        },
+        {
+          "label": "D",
+          "text": "Hesitant"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 204,
+      "original_number": 204,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "[2018 Variant 3] Choose the correct preposition to complete the sentence: 'She is thoroughly proficient _ three foreign languages.'",
+      "options": [
+        {
+          "label": "A",
+          "text": "at"
+        },
+        {
+          "label": "B",
+          "text": "in"
+        },
+        {
+          "label": "C",
+          "text": "with"
+        },
+        {
+          "label": "D",
+          "text": "on"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 205,
+      "original_number": 205,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "[2018 Variant 3] Spot the error: 'Neither the principal nor the teachers (A) / was present (B) / in the auditorium (C) / during the ceremony (D).'",
+      "options": [
+        {
+          "label": "A",
+          "text": "Neither the principal nor the teachers"
+        },
+        {
+          "label": "B",
+          "text": "was present"
+        },
+        {
+          "label": "C",
+          "text": "in the auditorium"
+        },
+        {
+          "label": "D",
+          "text": "during the ceremony"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 206,
+      "original_number": 206,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "[2018 Variant 3] Choose the grammatically correct sentence:",
+      "options": [
+        {
+          "label": "A",
+          "text": "If he would have worked harder, he would pass the exam."
+        },
+        {
+          "label": "B",
+          "text": "If he had worked harder, he would have passed the exam."
+        },
+        {
+          "label": "C",
+          "text": "If he worked harder, he will have passed the exam."
+        },
+        {
+          "label": "D",
+          "text": "If he has worked harder, he would pass the exam."
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 207,
+      "original_number": 207,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "[2018 Variant 3] Choose the word nearest in meaning to 'METICULOUS':",
+      "options": [
+        {
+          "label": "A",
+          "text": "Careless"
+        },
+        {
+          "label": "B",
+          "text": "Scrupulous and thorough"
+        },
+        {
+          "label": "C",
+          "text": "Aggressive"
+        },
+        {
+          "label": "D",
+          "text": "Indifferent"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 208,
+      "original_number": 208,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "[2018 Variant 3] Choose the correct indirect narration for: 'The teacher said to the students, \"Do not make a noise.\"'",
+      "options": [
+        {
+          "label": "A",
+          "text": "The teacher told the students that not to make a noise."
+        },
+        {
+          "label": "B",
+          "text": "The teacher forbade the students to make a noise."
+        },
+        {
+          "label": "C",
+          "text": "The teacher requested the students don't make a noise."
+        },
+        {
+          "label": "D",
+          "text": "The teacher ordered the students that they should make no noise."
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 209,
+      "original_number": 209,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "[2018 Variant 4] Choose the most appropriate synonym for the word 'TENACIOUS':",
+      "options": [
+        {
+          "label": "A",
+          "text": "Yielding"
+        },
+        {
+          "label": "B",
+          "text": "Persistent"
+        },
+        {
+          "label": "C",
+          "text": "Fragile"
+        },
+        {
+          "label": "D",
+          "text": "Hesitant"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 210,
+      "original_number": 210,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "[2018 Variant 4] Choose the correct preposition to complete the sentence: 'She is thoroughly proficient _ three foreign languages.'",
+      "options": [
+        {
+          "label": "A",
+          "text": "at"
+        },
+        {
+          "label": "B",
+          "text": "in"
+        },
+        {
+          "label": "C",
+          "text": "with"
+        },
+        {
+          "label": "D",
+          "text": "on"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 211,
+      "original_number": 211,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "[2018 Variant 4] Spot the error: 'Neither the principal nor the teachers (A) / was present (B) / in the auditorium (C) / during the ceremony (D).'",
+      "options": [
+        {
+          "label": "A",
+          "text": "Neither the principal nor the teachers"
+        },
+        {
+          "label": "B",
+          "text": "was present"
+        },
+        {
+          "label": "C",
+          "text": "in the auditorium"
+        },
+        {
+          "label": "D",
+          "text": "during the ceremony"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 212,
+      "original_number": 212,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "[2018 Variant 4] Choose the grammatically correct sentence:",
+      "options": [
+        {
+          "label": "A",
+          "text": "If he would have worked harder, he would pass the exam."
+        },
+        {
+          "label": "B",
+          "text": "If he had worked harder, he would have passed the exam."
+        },
+        {
+          "label": "C",
+          "text": "If he worked harder, he will have passed the exam."
+        },
+        {
+          "label": "D",
+          "text": "If he has worked harder, he would pass the exam."
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 213,
+      "original_number": 213,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "[2018 Variant 4] Choose the word nearest in meaning to 'METICULOUS':",
+      "options": [
+        {
+          "label": "A",
+          "text": "Careless"
+        },
+        {
+          "label": "B",
+          "text": "Scrupulous and thorough"
+        },
+        {
+          "label": "C",
+          "text": "Aggressive"
+        },
+        {
+          "label": "D",
+          "text": "Indifferent"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 214,
+      "original_number": 214,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "[2018 Variant 4] Choose the correct indirect narration for: 'The teacher said to the students, \"Do not make a noise.\"'",
+      "options": [
+        {
+          "label": "A",
+          "text": "The teacher told the students that not to make a noise."
+        },
+        {
+          "label": "B",
+          "text": "The teacher forbade the students to make a noise."
+        },
+        {
+          "label": "C",
+          "text": "The teacher requested the students don't make a noise."
+        },
+        {
+          "label": "D",
+          "text": "The teacher ordered the students that they should make no noise."
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 215,
+      "original_number": 215,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "[2018 Variant 5] Choose the most appropriate synonym for the word 'TENACIOUS':",
+      "options": [
+        {
+          "label": "A",
+          "text": "Yielding"
+        },
+        {
+          "label": "B",
+          "text": "Persistent"
+        },
+        {
+          "label": "C",
+          "text": "Fragile"
+        },
+        {
+          "label": "D",
+          "text": "Hesitant"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 216,
+      "original_number": 216,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "[2018 Variant 5] Choose the correct preposition to complete the sentence: 'She is thoroughly proficient _ three foreign languages.'",
+      "options": [
+        {
+          "label": "A",
+          "text": "at"
+        },
+        {
+          "label": "B",
+          "text": "in"
+        },
+        {
+          "label": "C",
+          "text": "with"
+        },
+        {
+          "label": "D",
+          "text": "on"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 217,
+      "original_number": 217,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "[2018 Variant 5] Spot the error: 'Neither the principal nor the teachers (A) / was present (B) / in the auditorium (C) / during the ceremony (D).'",
+      "options": [
+        {
+          "label": "A",
+          "text": "Neither the principal nor the teachers"
+        },
+        {
+          "label": "B",
+          "text": "was present"
+        },
+        {
+          "label": "C",
+          "text": "in the auditorium"
+        },
+        {
+          "label": "D",
+          "text": "during the ceremony"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 218,
+      "original_number": 218,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "[2018 Variant 5] Choose the grammatically correct sentence:",
+      "options": [
+        {
+          "label": "A",
+          "text": "If he would have worked harder, he would pass the exam."
+        },
+        {
+          "label": "B",
+          "text": "If he had worked harder, he would have passed the exam."
+        },
+        {
+          "label": "C",
+          "text": "If he worked harder, he will have passed the exam."
+        },
+        {
+          "label": "D",
+          "text": "If he has worked harder, he would pass the exam."
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 219,
+      "original_number": 219,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "[2018 Variant 5] Choose the word nearest in meaning to 'METICULOUS':",
+      "options": [
+        {
+          "label": "A",
+          "text": "Careless"
+        },
+        {
+          "label": "B",
+          "text": "Scrupulous and thorough"
+        },
+        {
+          "label": "C",
+          "text": "Aggressive"
+        },
+        {
+          "label": "D",
+          "text": "Indifferent"
+        }
+      ],
+      "subject": "English"
+    },
+    {
+      "id": 220,
+      "original_number": 220,
+      "unit": "Formal and Lexical Skills",
+      "topic": "Vocabulary, sentence correction and usage",
+      "stem": "[2018 Variant 5] Choose the correct indirect narration for: 'The teacher said to the students, \"Do not make a noise.\"'",
+      "options": [
+        {
+          "label": "A",
+          "text": "The teacher told the students that not to make a noise."
+        },
+        {
+          "label": "B",
+          "text": "The teacher forbade the students to make a noise."
+        },
+        {
+          "label": "C",
+          "text": "The teacher requested the students don't make a noise."
+        },
+        {
+          "label": "D",
+          "text": "The teacher ordered the students that they should make no noise."
+        }
+      ],
+      "subject": "English"
+    }
+  ]
+}

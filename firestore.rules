@@ -1,0 +1,45 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Global default-deny
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isOwner(userId) {
+      return isSignedIn() && request.auth.uid == userId;
+    }
+
+    match /users/{userId} {
+      allow get: if isOwner(userId);
+      allow create, update: if isOwner(userId) && request.resource.data.userId == userId;
+      allow delete: if false;
+
+      match /sessions/{sessionId} {
+        allow get, list: if isOwner(userId);
+        allow create, update: if isOwner(userId) && request.resource.data.userId == userId;
+        allow delete: if isOwner(userId);
+      }
+    }
+
+    match /challenges/{challengeId} {
+      // Challenges can be listed and read by all users so peers can join and view leaderboards
+      allow get, list: if true;
+      allow create: if isSignedIn() || request.resource.data.creatorId == 'system';
+      allow update: if isSignedIn();
+      allow delete: if false;
+
+      match /leaderboard/{participantId} {
+        // Live leaderboard is visible to everyone
+        allow get, list: if true;
+        // Contenders record their own score
+        allow create, update: if (isSignedIn() && request.auth.uid == participantId) || (!isSignedIn() && participantId.matches('^guest_[a-zA-Z0-9_\\-]+$'));
+        allow delete: if false;
+      }
+    }
+  }
+}
