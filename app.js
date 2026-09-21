@@ -11,5 +11,30 @@ function paint(){document.querySelectorAll('[data-answer]').forEach(b=>{const se
 document.querySelectorAll('[data-answer]').forEach(b=>b.onclick=()=>{answers[key(q[Number(b.dataset.q)])]=b.dataset.answer;try{localStorage.setItem('myelin-answers',JSON.stringify(answers))}catch{}paint();progress()});paint();
 $('#questions').hidden=false;$('#questions').scrollIntoView({behavior:'smooth'})
 }
-function run(){let c={};S.q.forEach(x=>c[x.year]=(c[x.year]||0)+1);$('#year-grid').innerHTML=Object.keys(c).map(y=>'<button class="year-card" data-y="'+y+'"><strong>'+y+'</strong><span>'+c[y]+' imported MCQs</span><span class="badge">OPEN PAPER →</span></button>').join('');document.querySelectorAll('[data-y]').forEach(b=>b.onclick=()=>show(S.q.filter(x=>x.year==b.dataset.y),'UHS MDCAT '+b.dataset.y,'YEAR-WISE PAPER'));let d={};S.q.filter(x=>S.sub==='All'||x.subject===S.sub).forEach(x=>(d[x.unit]??=[]).push(x));$('#unit-grid').innerHTML=Object.entries(d).map(([u,q],i)=>'<button class="unit-card" data-u="'+i+'"><strong>'+u+'</strong><span>'+q.length+' imported MCQs</span><span class="badge">PRACTISE UNIT →</span></button>').join('');document.querySelectorAll('[data-u]').forEach(b=>{let e=Object.entries(d)[b.dataset.u];b.onclick=()=>show(e[1],e[0],S.sub+' · UNIT PRACTICE')});let z=['All',...new Set(S.q.map(x=>x.subject))];$('#subject-tabs').innerHTML=z.map(x=>'<button class="tab '+(x===S.sub?'active':'')+'" data-s="'+x+'">'+x+'</button>').join('');document.querySelectorAll('[data-s]').forEach(b=>b.onclick=()=>{S.sub=b.dataset.s;run()})}fetch('data/years/2008.txt').then(r=>{if(!r.ok)throw new Error('Paper could not be loaded');return r.text()}).then(t=>{S.q=p(t);let ys=new Set(S.q.map(x=>x.year));$('#stats').innerHTML='<div class="stat"><strong>'+S.q.length+'</strong><small>IMPORTED MCQs</small></div><div class="stat"><strong>'+ys.size+'</strong><small>AVAILABLE YEARS</small></div><div class="stat"><strong>'+new Set(S.q.map(x=>x.unit)).size+'</strong><small>PMDC UNITS</small></div>';run()}).catch(e=>{$('#stats').textContent='Unable to load the paper. Please refresh.';console.error(e)});$('#back-button').onclick=()=>$('#questions').hidden=true;$('#copyright-year').textContent=new Date().getFullYear();
+function run(){let c={};S.q.forEach(x=>c[x.year]=(c[x.year]||0)+1);$('#year-grid').innerHTML=Object.keys(c).map(y=>'<button class="year-card" data-y="'+y+'"><strong>'+y+'</strong><span>'+c[y]+' imported MCQs</span><span class="badge">OPEN PAPER →</span></button>').join('');document.querySelectorAll('[data-y]').forEach(b=>b.onclick=()=>{location.hash='/past-papers/'+b.dataset.y});let d={};S.q.filter(x=>S.sub==='All'||x.subject===S.sub).forEach(x=>(d[x.unit]??=[]).push(x));$('#unit-grid').innerHTML=Object.entries(d).map(([u,q],i)=>'<button class="unit-card" data-u="'+i+'"><strong>'+u+'</strong><span>'+q.length+' imported MCQs</span><span class="badge">PRACTISE UNIT →</span></button>').join('');document.querySelectorAll('[data-u]').forEach(b=>{let e=Object.entries(d)[b.dataset.u];b.onclick=()=>{location.hash='/practice/'+encodeURIComponent(S.sub)+'/'+encodeURIComponent(e[0])}});let z=['All',...new Set(S.q.map(x=>x.subject))];$('#subject-tabs').innerHTML=z.map(x=>'<button class="tab '+(x===S.sub?'active':'')+'" data-s="'+x+'">'+x+'</button>').join('');document.querySelectorAll('[data-s]').forEach(b=>b.onclick=()=>{S.sub=b.dataset.s;run()})}fetch('data/years/2008.txt').then(r=>{if(!r.ok)throw new Error('Paper could not be loaded');return r.text()}).then(t=>{S.q=p(t);let ys=new Set(S.q.map(x=>x.year));$('#stats').innerHTML='<div class="stat"><strong>'+S.q.length+'</strong><small>IMPORTED MCQs</small></div><div class="stat"><strong>'+ys.size+'</strong><small>AVAILABLE YEARS</small></div><div class="stat"><strong>'+new Set(S.q.map(x=>x.unit)).size+'</strong><small>PMDC UNITS</small></div>';run();route()}).catch(e=>{$('#stats').textContent='Unable to load the paper. Please refresh.';console.error(e)});$('#back-button').onclick=()=>{location.hash=location.hash.startsWith('#/practice/')?'/practice':'/past-papers'};$('#copyright-year').textContent=new Date().getFullYear();
 $('#year-search').oninput=e=>document.querySelectorAll('[data-y]').forEach(b=>b.hidden=!b.dataset.y.includes(e.target.value.trim()));
+
+function route(){
+const path=location.hash.slice(1)||'/';
+for(const selector of ['.hero','#years','#units','#questions','#about'])$(selector).hidden=true;
+let title='Home',active='/';
+if(path==='/'||path==='top'){$('.hero').hidden=false;}
+else if(path==='/past-papers'||path==='years'){$('#years').hidden=false;title='Past Papers';active='/past-papers';}
+else if(path==='/practice'||path==='units'){$('#units').hidden=false;title='Unit-wise Practice';active='/practice';}
+else if(path==='/about'||path==='about'){$('#about').hidden=false;title='About';active='/about';}
+else if(path.startsWith('/past-papers/')){
+const year=Number(path.split('/')[2]),qs=S.q.filter(q=>q.year===year);
+active='/past-papers';title='MDCAT '+year;
+show(qs,title,'PAST PAPERS / '+year);
+if(!qs.length)$('#question-count').textContent='This paper is not available. Choose an uploaded year from Past Papers.';
+}else if(path.startsWith('/practice/')){
+let parts;try{parts=path.split('/').slice(2).map(decodeURIComponent)}catch{parts=[]}
+const [subject,unit]=parts,qs=S.q.filter(q=>(subject==='All'||q.subject===subject)&&q.unit===unit);
+title=unit||'Unit not found';active='/practice';show(qs,title,'UNIT-WISE PRACTICE / '+(subject||''));
+}else{$('#years').hidden=false;title='Past Papers';active='/past-papers';}
+document.title=title+' | Myelin MDCAT';
+document.querySelectorAll('.topbar nav a').forEach(link=>{if(link.getAttribute('href')==='#'+active)link.setAttribute('aria-current','page');else link.removeAttribute('aria-current')});
+window.scrollTo(0,0);
+}
+window.addEventListener('hashchange',route);
+route();
